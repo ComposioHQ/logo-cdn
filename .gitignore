@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local missing logos script and csv (util for malay)
+check-missing-logos.js
+missing_logos.csv
