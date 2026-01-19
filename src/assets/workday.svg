@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-describedby="unifiedUserName" style="fill: rgb(255, 0, 0) !important;">
+          <circle cx="24" cy="24" r="24" fill="url(#uu02)" style="fill: rgb(0, 87, 174) !important;"/>
+          <defs style="fill: rgb(255, 0, 0) !important;">
+            <linearGradient id="uu02" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse" style="fill: rgb(255, 0, 0) !important;">
+              <stop offset="0.204861" stop-color="#0875E1" style="fill: rgb(255, 0, 0) !important; stop-color: rgb(8, 117, 225) !important;"/>
+              <stop offset="1" stop-color="#005CB9" style="fill: rgb(255, 0, 0) !important; stop-color: rgb(0, 92, 185) !important;"/>
+            </linearGradient>
+          </defs>
+          <text text-anchor="middle" font-size="12px" x="50%" y="68%" fill="#000000" style="fill: #000000 !important;">
+            P
+          </text>
+        </svg>

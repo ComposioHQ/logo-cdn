@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>tab-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.91044027,6 C8.85528323,6 8,6.87405628 8,7.95279355 L8,10.3944496 C8,10.6051165 8.03540601,10.8084132 8.09655197,11 C8.17120146,10.1362694 9.26701387,8.82370723 10.8787476,7.76674374 C12.5442058,6.67382732 14.2259913,6.2034838 15,6.55399672 C14.6550267,6.21208856 14.1864582,6.00003741 13.6690526,6.00003741 L9.91044027,6.00003741 L9.91044027,6 Z M13.067849,10.26167 C11.4389928,11.3000182 9.79590475,11.7585228 9,11.4623613 C9.34421124,11.7948335 9.8132149,12 10.3310708,12 L14.0908498,12 C15.1450669,12 16,11.1500819 16,10.101801 L16,7.72726942 C15.9999638,7.46945607 15.9477798,7.2248863 15.8541674,7 C15.8541674,7 14.756675,9.18548299 13.067849,10.26167 Z M8.01041794,14 C4.7652732,14 2,11.2442506 2,8 C2,4.75559965 4.7652732,2 8.01041794,2 C9.83377936,2 11.4234369,2.96856236 12.5,4 L15,4 C13.6744044,1.73161456 11.0838323,0 8.01041823,0 C3.58486365,0 2.73124003e-16,3.53846154 0,8 C2.73123998e-16,12.4615385 3.58486365,16 8.01041823,16 L16,16 L16,14 L8.01041794,14 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG-Icons" sketch:type="MSArtboardGroup">
+            <g id="favicon" sketch:type="MSLayerGroup"></g>
+            <g id="Logo">
+                <use fill="#272E33" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use fill-opacity="0.05" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

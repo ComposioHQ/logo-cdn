@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 48.00 48.00">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#ffcb0a" vector-effect="non-scaling-stroke" d="
+  M 25.75 0.00
+  L 24.66 0.07
+  A 0.63 0.63 0.0 0 0 24.07 0.70
+  L 24.07 11.73
+  A 0.20 0.20 0.0 0 0 24.19 11.91
+  Q 24.38 11.99 24.47 12.06"
+/>
+<path stroke="#fe871e" vector-effect="non-scaling-stroke" d="
+  M 24.47 12.06
+  L 24.00 12.16"
+/>
+<path stroke="#ffd55c" vector-effect="non-scaling-stroke" d="
+  M 24.00 12.16
+  L 0.00 12.16"
+/>
+<path stroke="#fea415" vector-effect="non-scaling-stroke" d="
+  M 48.00 12.04
+  L 24.47 12.06"
+/>
+<path stroke="#feae67" vector-effect="non-scaling-stroke" d="
+  M 24.00 12.16
+  L 24.06 23.41
+  A 0.51 0.51 0.0 0 0 24.57 23.92
+  L 48.00 23.97"
+/>
+<path stroke="#ffd55c" vector-effect="non-scaling-stroke" d="
+  M 48.00 35.86
+  L 24.00 35.64"
+/>
+<path stroke="#fff153" vector-effect="non-scaling-stroke" d="
+  M 24.00 35.64
+  L 23.96 24.48
+  A 0.50 0.50 0.0 0 0 23.46 23.98
+  L 0.00 23.94"
+/>
+<path stroke="#ffcb0a" vector-effect="non-scaling-stroke" d="
+  M 24.00 35.64
+  Q 24.00 35.99 23.92 36.06"
+/>
+<path stroke="#fea415" vector-effect="non-scaling-stroke" d="
+  M 23.92 36.06
+  L 0.00 36.03"
+/>
+<path stroke="#fe871e" vector-effect="non-scaling-stroke" d="
+  M 23.89 48.00
+  L 23.92 36.06"
+/>
+</g>
+<path fill="#ffae13" d="
+  M 25.75 0.00
+  L 24.66 0.07
+  A 0.63 0.63 0.0 0 0 24.07 0.70
+  L 24.07 11.73
+  A 0.20 0.20 0.0 0 0 24.19 11.91
+  Q 24.38 11.99 24.47 12.06
+  L 24.00 12.16
+  L 0.00 12.16
+  L 0.00 0.00
+  L 25.75 0.00
+  Z"
+/>
+<path fill="#ffe700" d="
+  M 48.00 0.00
+  L 48.00 12.04
+  L 24.47 12.06
+  Q 24.38 11.99 24.19 11.91
+  A 0.20 0.20 0.0 0 1 24.07 11.73
+  L 24.07 0.70
+  A 0.63 0.63 0.0 0 1 24.66 0.07
+  L 25.75 0.00
+  L 48.00 0.00
+  Z"
+/>
+<path fill="#fffba5" d="
+  M 24.00 12.16
+  L 24.06 23.41
+  A 0.51 0.51 0.0 0 0 24.57 23.92
+  L 48.00 23.97
+  L 48.00 35.86
+  L 24.00 35.64
+  L 23.96 24.48
+  A 0.50 0.50 0.0 0 0 23.46 23.98
+  L 0.00 23.94
+  L 0.00 12.16
+  L 24.00 12.16
+  Z"
+/>
+<path fill="#fc6029" d="
+  M 48.00 12.04
+  L 48.00 23.97
+  L 24.57 23.92
+  A 0.51 0.51 0.0 0 1 24.06 23.41
+  L 24.00 12.16
+  L 24.47 12.06
+  L 48.00 12.04
+  Z"
+/>
+<path fill="#ffe700" d="
+  M 24.00 35.64
+  Q 24.00 35.99 23.92 36.06
+  L 0.00 36.03
+  L 0.00 23.94
+  L 23.46 23.98
+  A 0.50 0.50 0.0 0 1 23.96 24.48
+  L 24.00 35.64
+  Z"
+/>
+<path fill="#ffae13" d="
+  M 48.00 35.86
+  L 48.00 48.00
+  L 23.89 48.00
+  L 23.92 36.06
+  Q 24.00 35.99 24.00 35.64
+  L 48.00 35.86
+  Z"
+/>
+<path fill="#fc6029" d="
+  M 23.92 36.06
+  L 23.89 48.00
+  L 0.00 48.00
+  L 0.00 36.03
+  L 23.92 36.06
+  Z"
+/>
+</svg>

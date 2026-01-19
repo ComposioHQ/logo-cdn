@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 16.00 16.00">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#fdf5f5" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 15.15 8.02
+  Q 15.29 6.98 15.13 6.32"
+/>
+<path stroke="#e7dfe0" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 15.13 6.32
+  L 15.09 1.46
+  A 0.55 0.55 0.0 0 0 14.55 0.91
+  L 9.22 0.84"
+/>
+<path stroke="#fdf5f5" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 9.22 0.84
+  L 8.00 0.86"
+/>
+<path stroke="#ee3e43" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 8.00 0.86
+  L 1.38 0.88
+  A 0.58 0.57 -0.5 0 0 0.81 1.45
+  L 0.81 14.79
+  A 0.39 0.39 0.0 0 0 1.20 15.18
+  L 14.81 15.18
+  A 0.37 0.36 -90.0 0 0 15.17 14.81
+  L 15.15 8.02"
+/>
+<path stroke="#f79da0" vector-effect="non-scaling-stroke" d="
+  M 8.00 0.86
+  L 8.12 7.38
+  A 0.55 0.54 0.0 0 0 8.66 7.91
+  L 15.15 8.02"
+/>
+<path stroke="#f3f4f4" vector-effect="non-scaling-stroke" d="
+  M 9.22 0.84
+  Q 11.38 4.78 15.13 6.32"
+/>
+</g>
+<path fill="#e86662" fill-opacity="0.071" d="
+  M 16.00 0.00
+  L 16.00 16.00
+  L 0.00 16.00
+  L 0.00 0.00
+  L 16.00 0.00
+  Z
+  M 15.15 8.02
+  Q 15.29 6.98 15.13 6.32
+  L 15.09 1.46
+  A 0.55 0.55 0.0 0 0 14.55 0.91
+  L 9.22 0.84
+  L 8.00 0.86
+  L 1.38 0.88
+  A 0.58 0.57 -0.5 0 0 0.81 1.45
+  L 0.81 14.79
+  A 0.39 0.39 0.0 0 0 1.20 15.18
+  L 14.81 15.18
+  A 0.37 0.36 -90.0 0 0 15.17 14.81
+  L 15.15 8.02
+  Z"
+/>
+<path fill="#ee3b41" d="
+  M 8.00 0.86
+  L 8.12 7.38
+  A 0.55 0.54 0.0 0 0 8.66 7.91
+  L 15.15 8.02
+  L 15.17 14.81
+  A 0.37 0.36 90.0 0 1 14.81 15.18
+  L 1.20 15.18
+  A 0.39 0.39 0.0 0 1 0.81 14.79
+  L 0.81 1.45
+  A 0.58 0.57 -0.5 0 1 1.38 0.88
+  L 8.00 0.86
+  Z"
+/>
+<path fill="#ffffff" d="
+  M 9.22 0.84
+  Q 11.38 4.78 15.13 6.32
+  Q 15.29 6.98 15.15 8.02
+  L 8.66 7.91
+  A 0.55 0.54 0.0 0 1 8.12 7.38
+  L 8.00 0.86
+  L 9.22 0.84
+  Z"
+/>
+<path fill="#e7e8e9" d="
+  M 15.13 6.32
+  Q 11.38 4.78 9.22 0.84
+  L 14.55 0.91
+  A 0.55 0.55 0.0 0 1 15.09 1.46
+  L 15.13 6.32
+  Z"
+/>
+</svg>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 48.00 48.00">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#81bdf3" vector-effect="non-scaling-stroke" d="
+  M 16.35 0.00
+  L 0.00 25.77"
+/>
+<path stroke="#779bf7" vector-effect="non-scaling-stroke" d="
+  M 23.52 0.00
+  Q 13.97 16.81 3.47 33.00
+  Q 1.87 35.47 0.00 37.81"
+/>
+<path stroke="#6e7efb" vector-effect="non-scaling-stroke" d="
+  M 30.93 0.00
+  C 23.36 13.46 14.72 25.21 7.46 37.22
+  Q 4.98 41.32 3.20 46.64"
+/>
+<path stroke="#6a68fd" vector-effect="non-scaling-stroke" d="
+  M 35.55 0.00
+  Q 23.23 20.22 10.64 40.14
+  Q 8.26 43.91 6.48 48.00"
+/>
+<path stroke="#7564fc" vector-effect="non-scaling-stroke" d="
+  M 44.92 1.45
+  L 16.28 48.00"
+/>
+<path stroke="#8d6ff8" vector-effect="non-scaling-stroke" d="
+  M 48.00 25.29
+  L 32.95 48.00"
+/>
+</g>
+<path fill="#87cff0" d="
+  M 16.35 0.00
+  L 0.00 25.77
+  L 0.00 6.01
+  Q 1.37 1.42 5.92 0.00
+  L 16.35 0.00
+  Z"
+/>
+<path fill="#7baaf5" d="
+  M 23.52 0.00
+  Q 13.97 16.81 3.47 33.00
+  Q 1.87 35.47 0.00 37.81
+  L 0.00 25.77
+  L 16.35 0.00
+  L 23.52 0.00
+  Z"
+/>
+<path fill="#728bf9" d="
+  M 30.93 0.00
+  C 23.36 13.46 14.72 25.21 7.46 37.22
+  Q 4.98 41.32 3.20 46.64
+  Q 0.83 44.89 0.00 42.05
+  L 0.00 37.81
+  Q 1.87 35.47 3.47 33.00
+  Q 13.97 16.81 23.52 0.00
+  L 30.93 0.00
+  Z"
+/>
+<path fill="#6a71fc" d="
+  M 35.55 0.00
+  Q 23.23 20.22 10.64 40.14
+  Q 8.26 43.91 6.48 48.00
+  L 6.01 48.00
+  Q 4.32 47.54 3.20 46.64
+  Q 4.98 41.32 7.46 37.22
+  C 14.72 25.21 23.36 13.46 30.93 0.00
+  L 35.55 0.00
+  Z"
+/>
+<path fill="#695ffe" d="
+  M 42.00 0.00
+  Q 43.68 0.46 44.92 1.45
+  L 16.28 48.00
+  L 6.48 48.00
+  Q 8.26 43.91 10.64 40.14
+  Q 23.23 20.22 35.55 0.00
+  L 42.00 0.00
+  Z"
+/>
+<path fill="#8069fa" d="
+  M 48.00 5.93
+  L 48.00 25.29
+  L 32.95 48.00
+  L 16.28 48.00
+  L 44.92 1.45
+  Q 47.15 3.10 48.00 5.93
+  Z"
+/>
+<path fill="#9a75f5" d="
+  M 48.00 25.29
+  L 48.00 41.96
+  Q 46.66 46.47 42.22 48.00
+  L 32.95 48.00
+  L 48.00 25.29
+  Z"
+/>
+</svg>

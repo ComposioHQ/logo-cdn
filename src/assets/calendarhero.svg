@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 100.00 115.00">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#dd8f77" vector-effect="non-scaling-stroke" d="
+  M 55.86 57.49
+  L 55.56 57.52"
+/>
+<path stroke="#96c287" vector-effect="non-scaling-stroke" d="
+  M 55.56 57.52
+  L 32.59 16.20"
+/>
+<path stroke="#3a7fd7" vector-effect="non-scaling-stroke" d="
+  M 55.56 57.52
+  L 0.61 57.51"
+/>
+<path stroke="#814bc7" vector-effect="non-scaling-stroke" d="
+  M 55.56 57.52
+  L 32.62 98.79"
+/>
+</g>
+<path fill="#f5cb55" d="
+  M 55.86 57.49
+  L 55.56 57.52
+  L 32.59 16.20
+  L 99.03 1.10
+  A 0.35 0.34 12.7 0 1 99.38 1.65
+  L 55.86 57.49
+  Z"
+/>
+<path fill="#36b9b9" d="
+  M 32.59 16.20
+  L 55.56 57.52
+  L 0.61 57.51
+  L 32.59 16.20
+  Z"
+/>
+<path fill="#3d44f5" d="
+  M 55.56 57.52
+  L 32.62 98.79
+  L 0.61 57.51
+  L 55.56 57.52
+  Z"
+/>
+<path fill="#c55299" d="
+  M 55.86 57.49
+  L 99.39 113.34
+  A 0.33 0.33 0.0 0 1 99.06 113.86
+  L 32.62 98.79
+  L 55.56 57.52
+  L 55.86 57.49
+  Z"
+/>
+</svg>
