@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback, useMemo } from "react";
 import Head from "next/head";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
 
 interface Toolkit {
@@ -247,7 +248,7 @@ export default function Viewer() {
         const svgContent = await res.text();
         await navigator.clipboard.writeText(svgContent);
         showToast(`Copied ${slug}.svg to clipboard`);
-      } catch (err) {
+      } catch {
         showToast("Failed to copy SVG");
       }
     },
@@ -390,12 +391,9 @@ export default function Viewer() {
             <div className="flex-1" />
 
             {/* Vectorize link */}
-            <a
-              href="/vectorize"
-              className="text-[10px] text-neutral-400 hover:text-neutral-600"
-            >
+            <Link href="/vectorize" className="text-[10px] text-neutral-400 hover:text-neutral-600">
               PNG→SVG
-            </a>
+            </Link>
 
             {/* Selected indicator */}
             {selected && (

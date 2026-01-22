@@ -1,5 +1,6 @@
 import { useState, useCallback } from "react";
 import Head from "next/head";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
 
 export default function Vectorize() {
@@ -123,12 +124,9 @@ export default function Vectorize() {
         <header className="flex items-center justify-between border-b border-neutral-800 px-6 py-4">
           <div className="flex items-center gap-4">
             <h1 className="text-sm font-medium">PNG → SVG Vectorizer</h1>
-            <a
-              href="/viewer"
-              className="text-xs text-neutral-500 hover:text-neutral-300"
-            >
+            <Link href="/viewer" className="text-xs text-neutral-500 hover:text-neutral-300">
               ← Back to Viewer
-            </a>
+            </Link>
           </div>
           {svgResult && (
             <button
