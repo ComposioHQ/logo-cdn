@@ -1,4 +1,6 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-70 -48 128 128" style="enable-background:new -70 -48 128 128;" xml:space="preserve">
+<svg height="128" width="128" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-70 -48 128 128" style="enable-background:new -70 -48 128 128;" xml:space="preserve">
+<g data-logo-scale="90" transform="translate(-51 -29) scale(0.703125) translate(70 48)">
+
  <style type="text/css">
   .st0{fill:#C3C6CC;}
 	.st1{fill:#E1E3E6;}
@@ -17,4 +19,6 @@
 		L48.5-38.5C47.7-39.2,46.7-39.7,45.7-40.1z">
   </path>
  </g>
+
+</g>
 </svg>

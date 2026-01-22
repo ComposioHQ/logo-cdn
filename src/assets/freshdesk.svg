@@ -1,4 +1,6 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g data-logo-scale="90" transform="translate(19 19) scale(0.703125) translate(0 0)">
+
 <g clip-path="url(#clip0_0_968)">
 <g clip-path="url(#clip1_0_968)">
 <path d="M0.801758 73.4864C2.67232 87.1148 9.08568 99.4071 18.7057 109.294L40.3508 87.6492C40.3508 64.668 52.3759 43.8246 72.1504 32.0668L0.801758 73.4864Z" fill="#9B65C3"/>
@@ -29,4 +31,6 @@
 <rect width="128" height="128" fill="white"/>
 </clipPath>
 </defs>
+
+</g>
 </svg>

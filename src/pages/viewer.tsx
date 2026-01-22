@@ -31,6 +31,7 @@ export default function Viewer() {
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState<FilterType>("all");
   const [modifiedFiles, setModifiedFiles] = useState<Set<string>>(new Set());
+  const [isModifiedModalOpen, setIsModifiedModalOpen] = useState(false);
   const [dragOver, setDragOver] = useState<string | null>(null);
   const [isDragging, setIsDragging] = useState(false);
   const [selected, setSelected] = useState<string | null>(null);
@@ -55,6 +56,33 @@ export default function Viewer() {
   useEffect(() => {
     localStorage.setItem("viewer-viewMode", viewMode);
   }, [viewMode]);
+
+  // Close modified modal if there are no modified files anymore
+  useEffect(() => {
+    if (modifiedFiles.size === 0) setIsModifiedModalOpen(false);
+  }, [modifiedFiles.size]);
+
+  // Close modified modal on Escape
+  useEffect(() => {
+    if (!isModifiedModalOpen) return;
+
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setIsModifiedModalOpen(false);
+    };
+
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [isModifiedModalOpen]);
+
+  // Prevent background scroll when the modal is open
+  useEffect(() => {
+    if (!isModifiedModalOpen) return;
+    const prevOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = prevOverflow;
+    };
+  }, [isModifiedModalOpen]);
 
   // Track global drag state
   useEffect(() => {
@@ -382,11 +410,10 @@ export default function Viewer() {
             {modifiedFiles.size > 0 && (
               <button
                 onClick={() => {
-                  navigator.clipboard.writeText(gitCommand);
-                  showToast("Git command copied!");
+                  setIsModifiedModalOpen(true);
                 }}
                 className="flex items-center gap-1.5 rounded border border-green-200 bg-green-50 px-2 py-1 text-[10px] text-green-700 hover:bg-green-100"
-                title={gitCommand}
+                title="View git commit command"
               >
                 <span className="size-1.5 rounded-full bg-green-500" />
                 <span className="font-medium tabular-nums">{modifiedFiles.size}</span>
@@ -677,24 +704,61 @@ export default function Viewer() {
           {toast}
         </div>
 
-        {/* Git command modal */}
-        {modifiedFiles.size > 0 && (
-          <div className="fixed bottom-4 right-4 z-10 max-w-md rounded-lg border border-neutral-200 bg-white p-4 shadow-lg">
-            <h3 className="mb-2 text-sm font-medium text-balance text-neutral-900">
-              Commit {modifiedFiles.size} modified file(s)
-            </h3>
-            <code className="mb-3 block overflow-x-auto rounded bg-neutral-100 p-2 text-xs text-pretty text-neutral-700">
-              {gitCommand}
-            </code>
+        {/* Modified modal */}
+        {modifiedFiles.size > 0 && isModifiedModalOpen && (
+          <div className="fixed inset-0 z-30 flex items-end justify-center p-4 sm:items-center">
             <button
-              onClick={() => {
-                navigator.clipboard.writeText(gitCommand);
-                showToast("Copied to clipboard!");
-              }}
-              className="w-full rounded-md bg-neutral-900 px-3 py-2 text-sm font-medium text-white hover:bg-neutral-800"
+              className="absolute inset-0 bg-black/30"
+              aria-label="Close modified modal"
+              onClick={() => setIsModifiedModalOpen(false)}
+            />
+            <div
+              role="dialog"
+              aria-modal="true"
+              aria-labelledby="modified-modal-title"
+              aria-describedby="modified-modal-desc"
+              className="relative w-full max-w-lg rounded-lg border border-neutral-200 bg-white p-4 shadow-xl"
             >
-              Copy Command
-            </button>
+              <div className="mb-2 flex items-start justify-between gap-3">
+                <div>
+                  <h3 id="modified-modal-title" className="text-sm font-semibold text-neutral-900">
+                    Commit {modifiedFiles.size} modified file(s)
+                  </h3>
+                  <p id="modified-modal-desc" className="mt-0.5 text-xs text-neutral-500">
+                    Copy the command below to stage and commit the updated logos.
+                  </p>
+                </div>
+                <button
+                  onClick={() => setIsModifiedModalOpen(false)}
+                  className="rounded-md px-2 py-1 text-sm text-neutral-500 hover:bg-neutral-100 hover:text-neutral-700"
+                  aria-label="Close"
+                >
+                  ×
+                </button>
+              </div>
+
+              <code className="mb-3 block max-h-40 overflow-auto rounded bg-neutral-100 p-2 text-xs text-neutral-700">
+                {gitCommand}
+              </code>
+
+              <div className="flex flex-col gap-2 sm:flex-row">
+                <button
+                  onClick={() => {
+                    navigator.clipboard.writeText(gitCommand);
+                    showToast("Git command copied!");
+                  }}
+                  className="w-full rounded-md bg-neutral-900 px-3 py-2 text-sm font-medium text-white hover:bg-neutral-800"
+                >
+                  Copy Command
+                </button>
+                <button
+                  onClick={() => setIsModifiedModalOpen(false)}
+                  className="w-full rounded-md border border-neutral-200 bg-white px-3 py-2 text-sm font-medium text-neutral-700 hover:bg-neutral-50"
+                >
+                  Close
+                </button>
+              </div>
+            </div>
           </div>
         )}
       </div>
