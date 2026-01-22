@@ -35,7 +35,26 @@ export default function Viewer() {
   const [isDragging, setIsDragging] = useState(false);
   const [selected, setSelected] = useState<string | null>(null);
   const [toast, setToast] = useState<string | null>(null);
-  const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
+  const [viewMode, setViewMode] = useState<"grid" | "list">("list");
+  const [imageVersion, setImageVersion] = useState<Record<string, number>>({});
+
+  // Load persisted state from localStorage
+  useEffect(() => {
+    const savedSearch = localStorage.getItem("viewer-search");
+    const savedViewMode = localStorage.getItem("viewer-viewMode");
+    if (savedSearch) setSearch(savedSearch);
+    if (savedViewMode === "grid" || savedViewMode === "list") setViewMode(savedViewMode);
+  }, []);
+
+  // Persist search to localStorage
+  useEffect(() => {
+    localStorage.setItem("viewer-search", search);
+  }, [search]);
+
+  // Persist viewMode to localStorage
+  useEffect(() => {
+    localStorage.setItem("viewer-viewMode", viewMode);
+  }, [viewMode]);
 
   // Track global drag state
   useEffect(() => {
@@ -82,6 +101,8 @@ export default function Viewer() {
           setToolkits((prev) =>
             prev.map((t) => (t.slug === currentSelected ? { ...t, hasLocalLogo: true } : t))
           );
+          // Bust image cache for this slug
+          setImageVersion((prev) => ({ ...prev, [currentSelected]: Date.now() }));
 
           // Refresh analysis
           const analysisRes = await fetch("/api/viewer/analysis");
@@ -168,6 +189,8 @@ export default function Viewer() {
         setToolkits((prev) =>
           prev.map((t) => (t.slug === slug ? { ...t, hasLocalLogo: true } : t))
         );
+        // Bust image cache for this slug
+        setImageVersion((prev) => ({ ...prev, [slug]: Date.now() }));
 
         // Refresh analysis for this file
         const analysisRes = await fetch("/api/viewer/analysis");
@@ -338,6 +361,14 @@ export default function Viewer() {
             {/* Spacer */}
             <div className="flex-1" />
 
+            {/* Vectorize link */}
+            <a
+              href="/vectorize"
+              className="text-[10px] text-neutral-400 hover:text-neutral-600"
+            >
+              PNG→SVG
+            </a>
+
             {/* Selected indicator */}
             {selected && (
               <div className="flex items-center gap-1 rounded border border-violet-200 bg-violet-50 px-2 py-1">
@@ -417,7 +448,7 @@ export default function Viewer() {
                     {toolkit.hasLocalLogo ? (
                       <div className="flex size-16 items-center justify-center border border-black/10">
                         <img
-                          src={`/api/${toolkit.slug}`}
+                          src={`/api/${toolkit.slug}${imageVersion[toolkit.slug] ? `?v=${imageVersion[toolkit.slug]}` : ""}`}
                           alt={toolkit.name}
                           className="max-h-full max-w-full object-contain"
                           loading="lazy"
@@ -593,7 +624,7 @@ export default function Viewer() {
                     <div className="flex size-32 items-center justify-center border border-black/10 bg-neutral-100">
                       <div className="flex size-16 items-center justify-center border border-black/10">
                         <img
-                          src={`/api/${toolkit.slug}`}
+                          src={`/api/${toolkit.slug}${imageVersion[toolkit.slug] ? `?v=${imageVersion[toolkit.slug]}` : ""}`}
                           alt={`${toolkit.name} on gray`}
                           className="max-h-full max-w-full object-contain"
                           loading="lazy"
@@ -604,7 +635,7 @@ export default function Viewer() {
                     <div className="flex size-32 items-center justify-center border border-black/10 bg-white">
                       <div className="flex size-16 items-center justify-center border border-black/10">
                         <img
-                          src={`/api/${toolkit.slug}`}
+                          src={`/api/${toolkit.slug}${imageVersion[toolkit.slug] ? `?v=${imageVersion[toolkit.slug]}` : ""}`}
                           alt={`${toolkit.name} on white`}
                           className="max-h-full max-w-full object-contain"
                           loading="lazy"
@@ -615,7 +646,7 @@ export default function Viewer() {
                     <div className="flex size-32 items-center justify-center border border-black/10 bg-neutral-900">
                       <div className="flex size-16 items-center justify-center border border-white/10">
                         <img
-                          src={`/api/${toolkit.slug}`}
+                          src={`/api/${toolkit.slug}${imageVersion[toolkit.slug] ? `?v=${imageVersion[toolkit.slug]}` : ""}`}
                           alt={`${toolkit.name} on black`}
                           className="max-h-full max-w-full object-contain"
                           loading="lazy"
