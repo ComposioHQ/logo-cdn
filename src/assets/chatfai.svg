@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00">
-<g data-logo-scale="90" transform="translate(19 19) scale(0.703125) translate(0 0)">
-
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00">
 <path fill="#0a4d4c" d="
   M 61.95 1.98
   C 69.42 1.72 73.95 9.00 71.40 15.73
@@ -163,6 +161,4 @@
   C 50.53 127.59 44.25 124.27 44.04 118.07
   Z"
 />
-
-</g>
 </svg>
