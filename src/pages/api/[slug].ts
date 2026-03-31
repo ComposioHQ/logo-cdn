@@ -31,16 +31,11 @@ export default async function handler(
     // read the svg file
     const svgContent = await readFile(filePath, "utf-8");
 
-    // set strong caching headers
+    // set no-cache headers during development to always get fresh content
     res.setHeader("Content-Type", "image/svg+xml");
-    res.setHeader("Cache-Control", "public, max-age=432000, immutable");
-    res.setHeader("ETag", `"${normalizedSlug}"`);
-
-    // check if client has cached version
-    const ifNoneMatch = req.headers["if-none-match"];
-    if (ifNoneMatch === `"${normalizedSlug}"`) {
-      return res.status(304).end();
-    }
+    res.setHeader("Cache-Control", "no-store, no-cache, must-revalidate");
+    res.setHeader("Pragma", "no-cache");
+    res.setHeader("Expires", "0");
 
     // return the svg content
     res.status(200).send(svgContent);
