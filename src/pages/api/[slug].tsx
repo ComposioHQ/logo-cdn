@@ -1,3 +1,7 @@
+import { transformSvgForDarkTheme } from "../../lib/logo-render";
+
+const DARK_THEME = "dark";
+
 export default async function handler(req: Request) {
   const url = new URL(req.url);
   const slug = url.pathname.split("/").pop();
@@ -40,8 +44,12 @@ export default async function handler(req: Request) {
     });
   }
 
-  const svgContent = await assetResponse.text();
-  const variant = assetResponse.headers.get("x-logo-variant");
+  const variant = assetResponse.headers.get("x-logo-variant") || "default";
+  let svgContent = await assetResponse.text();
+
+  if (theme === DARK_THEME && variant !== "dark") {
+    svgContent = transformSvgForDarkTheme(svgContent);
+  }
 
   return new Response(svgContent, {
     headers: {
