@@ -30,8 +30,14 @@ Logos are served from `/api/:slug`.
 
 - Default: `/api/vercel`
 - Dark theme: `/api/vercel?theme=dark`
+- PNG route: `/api/png/vercel`
+- PNG via query: `/api/vercel?type=png`
+
+`/api/:slug` always returns SVG, including `theme=dark`.
 
 When `theme=dark` is set, the API first looks for a dedicated `name-dark.svg` asset. If that does not exist, it falls back to recoloring dark monochrome `fill` and `stroke` values to white so the SVG remains visible on dark backgrounds.
+
+PNG output is available from `/api/png/:slug` or by using `type=png` on `/api/:slug`. The PNG route uses `next/og` to rasterize the resolved SVG.
 
 ## Learn More
 
