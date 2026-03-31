@@ -1,13 +1,7 @@
 import React from "react";
 import { ImageResponse } from "next/og";
 
-import {
-  getImageDimensions,
-  toBase64,
-  transformSvgForDarkTheme,
-} from "../../../lib/logo-render";
-
-const DARK_THEME = "dark";
+import { getImageDimensions, toBase64 } from "../../../lib/logo-image";
 
 export default async function handler(req: Request) {
   const url = new URL(req.url);
@@ -36,11 +30,7 @@ export default async function handler(req: Request) {
   }
 
   const variant = assetResponse.headers.get("x-logo-variant") || "default";
-  let svgContent = await assetResponse.text();
-
-  if (theme === DARK_THEME && variant !== "dark") {
-    svgContent = transformSvgForDarkTheme(svgContent);
-  }
+  const svgContent = await assetResponse.text();
 
   const { width, height } = getImageDimensions(svgContent);
   const dataUrl = `data:image/svg+xml;base64,${toBase64(svgContent)}`;

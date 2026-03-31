@@ -1,7 +1,3 @@
-import { transformSvgForDarkTheme } from "../../lib/logo-render";
-
-const DARK_THEME = "dark";
-
 export default async function handler(req: Request) {
   const url = new URL(req.url);
   const slug = url.pathname.split("/").pop();
@@ -46,12 +42,8 @@ export default async function handler(req: Request) {
 
   const svgContent = await assetResponse.text();
   const variant = assetResponse.headers.get("x-logo-variant");
-  const outputSvg =
-    theme === DARK_THEME && variant !== "dark"
-      ? transformSvgForDarkTheme(svgContent)
-      : svgContent;
 
-  return new Response(outputSvg, {
+  return new Response(svgContent, {
     headers: {
       "Content-Type": "image/svg+xml",
       "Cache-Control": "public, max-age=432000, immutable",
