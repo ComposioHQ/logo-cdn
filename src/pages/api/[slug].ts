@@ -1,48 +1,39 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { readFile } from "fs/promises";
-import { join } from "path";
 import { existsSync } from "fs";
+
+import { resolveSvgAsset } from "../../lib/logo-assets";
 
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
   const { slug } = req.query;
+  const theme =
+    typeof req.query.theme === "string" ? req.query.theme.toLowerCase() : "";
 
   if (!slug || typeof slug !== "string") {
     return res.status(400).json({ error: "invalid slug parameter" });
   }
 
   try {
-    // normalize the slug to lowercase and add .svg if not present
-    const lowerSlug = slug.toLowerCase();
-    const normalizedSlug = lowerSlug.endsWith(".svg")
-      ? lowerSlug
-      : `${lowerSlug}.svg`;
+    const { filePath, assetKey, variant } = resolveSvgAsset(slug, theme);
 
-    // construct the file path
-    const filePath = join(process.cwd(), "src", "assets", normalizedSlug);
-
-    // check if file exists
     if (!existsSync(filePath)) {
       return res.status(404).json({ error: "svg not found" });
     }
 
-    // read the svg file
     const svgContent = await readFile(filePath, "utf-8");
+    const etag = `"${assetKey}:${variant}:svg"`;
 
-    // set strong caching headers
     res.setHeader("Content-Type", "image/svg+xml");
     res.setHeader("Cache-Control", "public, max-age=432000, immutable");
-    res.setHeader("ETag", `"${normalizedSlug}"`);
+    res.setHeader("ETag", etag);
 
-    // check if client has cached version
-    const ifNoneMatch = req.headers["if-none-match"];
-    if (ifNoneMatch === `"${normalizedSlug}"`) {
+    if (req.headers["if-none-match"] === etag) {
       return res.status(304).end();
     }
 
-    // return the svg content
     res.status(200).send(svgContent);
   } catch (error) {
     console.error("error serving svg:", error);

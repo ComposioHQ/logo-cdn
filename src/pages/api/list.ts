@@ -15,7 +15,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     const logoMap: Record<string, string> = {};
 
     files
-      .filter((file) => file.endsWith(".svg"))
+      .filter((file) => file.endsWith(".svg") && !file.endsWith("-dark.svg"))
       .forEach((file) => {
         const slug = file.replace(".svg", "");
         // Use the current domain or fallback to localhost for development
