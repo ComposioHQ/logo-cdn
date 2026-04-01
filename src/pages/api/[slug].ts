@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 
-import { resolveSvgAsset } from "../../../lib/logo-assets";
+import { resolveSvgAsset } from "../../lib/logo-assets";
 
 export default async function handler(
   req: NextApiRequest,
@@ -24,12 +24,11 @@ export default async function handler(
     }
 
     const svgContent = await readFile(filePath, "utf-8");
-    const etag = `"${assetKey}:${variant}"`;
+    const etag = `"${assetKey}:${variant}:svg"`;
 
     res.setHeader("Content-Type", "image/svg+xml");
     res.setHeader("Cache-Control", "public, max-age=432000, immutable");
     res.setHeader("ETag", etag);
-    res.setHeader("X-Logo-Variant", variant);
 
     if (req.headers["if-none-match"] === etag) {
       return res.status(304).end();
@@ -37,7 +36,7 @@ export default async function handler(
 
     res.status(200).send(svgContent);
   } catch (error) {
-    console.error("error serving raw svg asset:", error);
+    console.error("error serving svg:", error);
     res.status(500).json({ error: "internal server error" });
   }
 }
