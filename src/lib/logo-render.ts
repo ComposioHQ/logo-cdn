@@ -65,9 +65,20 @@ function isDarkColor(color: string) {
 }
 
 export function transformSvgForDarkTheme(svgContent: string) {
+  const matches = [...svgContent.matchAll(SVG_COLOR_REFERENCE_PATTERN)];
+
+  if (matches.length === 0) {
+    return null;
+  }
+
+  const allDark = matches.every(([, , , color]) => isDarkColor(color));
+  if (!allDark) {
+    return null;
+  }
+
   return svgContent.replace(
     SVG_COLOR_REFERENCE_PATTERN,
     (match: string, attr: string, separator: string, color: string) =>
-      isDarkColor(color) ? `${attr}${separator}${DARK_MODE_COLOR}` : match
+      `${attr}${separator}${DARK_MODE_COLOR}`
   );
 }
