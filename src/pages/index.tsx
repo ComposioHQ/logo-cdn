@@ -22,6 +22,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async () => {
   const data = await res.json();
   const assetsDir = join(process.cwd(), "src", "assets");
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const toolkits: Toolkit[] = (data.items ?? []).map((item: any) => {
     const slug = item.slug as string;
     return {
@@ -100,6 +101,7 @@ export default function LogoGallery({ toolkits }: Props) {
             >
               #{i + 1}
             </span>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={t.hasLocalSvg ? `/api/${t.slug}?theme=dark` : (t.logo ?? "")}
               alt={t.name}
