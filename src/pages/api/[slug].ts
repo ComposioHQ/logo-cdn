@@ -2,7 +2,8 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 
-import { resolveSvgAsset } from "../../lib/logo-assets";
+import { resolveSvgAsset, DARK_THEME } from "../../lib/logo-assets";
+import { transformSvgForDarkTheme } from "../../lib/logo-render";
 
 export default async function handler(
   req: NextApiRequest,
@@ -23,7 +24,15 @@ export default async function handler(
       return res.status(404).json({ error: "svg not found" });
     }
 
-    const svgContent = await readFile(filePath, "utf-8");
+    let svgContent = await readFile(filePath, "utf-8");
+
+    if (theme === DARK_THEME && variant === "default") {
+      const transformed = transformSvgForDarkTheme(svgContent);
+      if (transformed) {
+        svgContent = transformed;
+      }
+    }
+
     const etag = `"${assetKey}:${variant}:svg"`;
 
     res.setHeader("Content-Type", "image/svg+xml");
