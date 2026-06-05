@@ -1,12 +1,1 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_0_93)">
-<path d="M78.091 0L110.091 32L94.091 34.9091L78.091 32L75.1819 16L78.091 0Z" fill="#188038"/>
-<path d="M78.0909 32V0H25.7273C20.9055 0 17 3.90545 17 8.72727V119.273C17 124.095 20.9055 128 25.7273 128H101.364C106.185 128 110.091 124.095 110.091 119.273V32H78.0909Z" fill="#34A853"/>
-<path d="M34.4546 49.4545V91.6364H92.6364V49.4545H34.4546ZM59.9091 84.3636H41.7273V74.1818H59.9091V84.3636ZM59.9091 66.9091H41.7273V56.7273H59.9091V66.9091ZM85.3637 84.3636H67.1819V74.1818H85.3637V84.3636ZM85.3637 66.9091H67.1819V56.7273H85.3637V66.9091Z" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0_0_93">
-<rect width="93.0909" height="128" fill="white" transform="translate(17)"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 192 192"><path fill="#009954" d="M8 74.6c0-8.943 0-13.415 1.404-16.962a20 20 0 0 1 11.234-11.233C24.185 45 28.656 45 37.6 45h60.8c8.943 0 13.415 0 16.962 1.404a20 20 0 0 1 11.234 11.234C128 61.185 128 65.656 128 74.6v42.8c0 8.943 0 13.415-1.404 16.962a20 20 0 0 1-11.234 11.234C111.815 147 107.343 147 98.4 147H37.6c-8.943 0-13.415 0-16.963-1.404a20 20 0 0 1-11.233-11.234C8 130.815 8 126.343 8 117.4z"/><mask id="a" width="160" height="128" x="24" y="32" maskUnits="userSpaceOnUse" style="mask-type:alpha"><rect width="160" height="128" x="24" y="32" fill="#0ebc5f" rx="20"/></mask><g mask="url(#a)"><path fill="#0ebc5f" d="M24 32h160v128H24z"/><g filter="url(#b)"><rect width="144" height="102" fill="url(#c)" rx="25.6" transform="matrix(1 0 0 -1 8 147)"/></g></g><path stroke="#fff" stroke-linecap="round" stroke-width="12" d="M80 121h84m-20 19V76"/><defs><linearGradient id="c" x1="122.24" x2="20.76" y1="43.31" y2="43.31" gradientUnits="userSpaceOnUse"><stop stop-color="#0ebc5f"/><stop offset=".95" stop-color="#78c9ff"/></linearGradient><filter id="b" width="168" height="126" x="-4" y="33" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_37435_8174" stdDeviation="6"/></filter></defs></svg>
