@@ -1,14 +1,1 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_0_12)">
-<path d="M8.7275 113.854H29.091V64.4L0 42.5817V105.127C0 109.949 3.9055 113.855 8.7275 113.855V113.854Z" fill="#4285F4"/>
-<path d="M98.909 113.854H119.273C124.095 113.854 128 109.949 128 105.127V42.5817L98.909 64.4V113.854Z" fill="#34A853"/>
-<path d="M98.909 26.5817V64.4L128 42.5817V30.9455C128 20.16 115.687 14 107.054 20.4727L98.909 26.5817Z" fill="#FBBC04"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.091 64.4V26.5817L64 52.7638L98.909 26.5817V64.4L64 90.5817L29.091 64.4Z" fill="#EA4335"/>
-<path d="M0 30.9455V42.5817L29.091 64.4V26.5817L20.9455 20.4727C12.3125 14 0 20.16 0 30.945V30.9455Z" fill="#C5221F"/>
-</g>
-<defs>
-<clipPath id="clip0_0_12">
-<rect width="128" height="99.855" fill="white" transform="translate(0 14)"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 192 192"><path fill="url(#a)" d="M146 44h38v110c0 6.627-5.373 12-12 12h-20a6 6 0 0 1-6-6z"/><path fill="#fc413d" d="M46 44H8v110c0 6.627 5.373 12 12 12h20a6 6 0 0 0 6-6z"/><path fill="url(#b)" d="M39.226 30.456c-8.033-6.752-20.018-5.714-26.77 2.319-6.752 8.032-5.714 20.017 2.319 26.77l76.078 63.949a8 8 0 0 0 10.295 0l76.078-63.95c8.032-6.752 9.07-18.737 2.318-26.77-6.752-8.032-18.737-9.07-26.769-2.318L96 78.18z"/><defs><linearGradient id="a" x1="165" x2="165" y1="44" y2="166" gradientUnits="userSpaceOnUse"><stop stop-color="#60d673"/><stop offset=".17" stop-color="#42c868"/><stop offset=".39" stop-color="#0ebc5f"/><stop offset=".62" stop-color="#00a9bb"/><stop offset=".86" stop-color="#3c90ff"/><stop offset="1" stop-color="#3186ff"/></linearGradient><linearGradient id="b" x1="8" x2="184" y1="46.13" y2="46.13" gradientUnits="userSpaceOnUse"><stop offset=".08" stop-color="#ff63a0"/><stop offset=".3" stop-color="#fc413d"/><stop offset=".5" stop-color="#fc413d"/><stop offset=".65" stop-color="#fc413d"/><stop offset=".72" stop-color="#fc5c30"/><stop offset=".86" stop-color="#feb10c"/><stop offset=".91" stop-color="#fec700"/><stop offset=".96" stop-color="#ffdb0f"/></linearGradient></defs></svg>
