@@ -1,9 +1,9 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="128" height="128" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Background circle -->
   <circle cx="16" cy="16" r="16" fill="#6366F1"/>
   
   <!-- Envelope/Postcard shape -->
-  <rect x="6" y="10" width="20" height="14" rx="1" fill="#000000"/>
+  <rect x="6" y="10" width="20" height="14" rx="1" fill="white"/>
   
   <!-- Envelope fold lines -->
   <path d="M6 11 L16 18 L26 11" stroke="#6366F1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
