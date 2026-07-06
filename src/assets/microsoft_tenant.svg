@@ -1,18 +1,40 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_60_24601)">
-<g clip-path="url(#clip1_60_24601)">
-<path d="M60.8307 60.8205H0.0102539V0H60.8307V60.8205Z" fill="#F1511B"/>
-<path d="M127.99 60.8205H67.1642V0H127.985V60.8205H127.99Z" fill="#80CC28"/>
-<path d="M60.8307 128H0.0102539V67.1794H60.8307V128Z" fill="#00ADEF"/>
-<path d="M127.99 128H67.1642V67.1794H127.985V128H127.99Z" fill="#FBBC09"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_60_24601">
-<rect width="128" height="128" fill="white"/>
-</clipPath>
-<clipPath id="clip1_60_24601">
-<rect width="127.98" height="128" fill="white" transform="translate(0.0102539)"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 192.00 192.00" width="128" height="128">
+<path fill="#f1511b" d="
+  M 91.50 0.00
+  L 91.53 91.16
+  A 0.28 0.28 0.0 0 1 91.25 91.44
+  L 0.00 91.51
+  L 0.00 0.00
+  L 91.50 0.00
+  Z"
+/>
+<path fill="#80cc28" d="
+  M 192.00 0.00
+  L 192.00 91.52
+  L 101.30 91.50
+  A 0.20 0.20 0.0 0 1 101.10 91.30
+  L 101.09 0.00
+  L 192.00 0.00
+  Z"
+/>
+<path fill="#00adef" d="
+  M 91.47 192.00
+  L 0.00 192.00
+  L 0.00 101.11
+  L 91.10 101.10
+  A 0.37 0.37 0.0 0 1 91.47 101.47
+  L 91.47 192.00
+  Z"
+/>
+<path fill="#fbbc09" d="
+  M 192.00 101.10
+  L 192.00 192.00
+  L 101.10 192.00
+  L 101.09 101.44
+  A 0.34 0.34 0.0 0 1 101.43 101.10
+  L 192.00 101.10
+  Z"
+/>
 </svg>
