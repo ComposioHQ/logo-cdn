@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 377.00 377.00" width="128" height="128">
-<path fill="#18181b" d="
-  M 0.00 355.86
-  L 0.00 129.62
-  Q 1.12 124.07 3.99 121.98
-  Q 147.58 16.98 151.10 14.34
-  Q 157.43 9.59 160.37 9.15
-  C 168.25 7.96 175.22 13.76 175.28 21.89
-  Q 175.34 28.91 175.30 335.18
-  Q 175.30 342.19 176.72 344.84
-  C 180.26 351.42 188.53 353.57 195.00 349.48
-  Q 198.54 347.25 202.57 344.33
-  Q 301.57 272.78 355.70 233.70
-  C 362.67 228.67 372.24 231.36 375.29 239.53
-  Q 376.07 241.61 376.07 247.09
-  Q 376.02 345.46 376.08 349.42
-  Q 376.22 357.79 374.65 360.33
-  C 371.01 366.21 367.12 367.19 359.72 367.19
-  Q 185.58 367.19 14.75 367.19
-  Q 2.45 367.19 0.00 355.86
-  Z"
-/>
-<circle fill="#18181b" cx="298.29" cy="111.90" r="60.50"/>
+<svg width="128" height="128" viewBox="0 0 377 377" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  /* Base fill = balanced mid-gray (also mirrored as a fill="" presentation attribute
+     on each path, so CSS-less renderers and CSP-blocked document loads still paint a
+     visible glyph instead of the root fill="none"). Safari renders ONLY this base (it
+     ignores the media queries below), so it must read on both light and dark toolbars.
+     Load-bearing — don't "fix" it to pure black or white.
+     public/favicon.ico is a raster of this base fill; regenerate it in lockstep when
+     this color changes:
+       magick -background none favicon.svg -define icon:auto-resize=48,32,16 favicon.ico */
+  path {
+    fill: #8A8A8A;
+  }
+  @media (prefers-color-scheme: light) {
+    path {
+      fill: #18181B;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: #FAFAFA;
+    }
+  }
+</style>
+<path fill="#8A8A8A" d="M355.884 233.53L200.743 345.634L195.121 349.432C186.68 355.135 175.296 349.087 175.296 338.9V21.7329C175.296 11.3299 163.481 5.33288 155.084 11.4729L5.208 121.062C1.935 123.455 0 127.267 0 131.322V354.473C0 361.493 5.69 367.183 12.71 367.183H363.328C370.348 367.183 376.038 361.493 376.038 354.473V243.832C376.038 233.462 364.289 227.457 355.884 233.53Z"/>
+<path fill="#8A8A8A" d="M298.29 172.44C331.721 172.44 358.822 145.339 358.822 111.908C358.822 78.4771 331.721 51.376 298.29 51.376C264.859 51.376 237.758 78.4771 237.758 111.908C237.758 145.339 264.859 172.44 298.29 172.44Z"/>
 </svg>
