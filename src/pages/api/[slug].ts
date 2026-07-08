@@ -4,6 +4,10 @@ import { existsSync } from "fs";
 
 import { resolveSvgAsset, DARK_THEME } from "../../lib/logo-assets";
 import { transformSvgForDarkTheme } from "../../lib/logo-render";
+import {
+  FALLBACK_LOGO_SVG_DARK,
+  FALLBACK_LOGO_SVG_LIGHT,
+} from "../../lib/fallback-logo";
 
 export default async function handler(
   req: NextApiRequest,
@@ -21,7 +25,24 @@ export default async function handler(
     const { filePath, assetKey, variant } = resolveSvgAsset(slug, theme);
 
     if (!existsSync(filePath)) {
-      return res.status(404).json({ error: "svg not found" });
+      // No logo for this slug: serve a placeholder (200, short cache) not a 404.
+      const dark = theme === DARK_THEME;
+      const placeholder = dark
+        ? FALLBACK_LOGO_SVG_DARK
+        : FALLBACK_LOGO_SVG_LIGHT;
+
+      const fallbackEtag = `"fallback:${dark ? "dark" : "default"}:svg"`;
+
+      res.setHeader("Content-Type", "image/svg+xml");
+      res.setHeader("Cache-Control", "public, max-age=300, must-revalidate");
+      res.setHeader("ETag", fallbackEtag);
+      res.setHeader("X-Logo-Fallback", "true");
+
+      if (req.headers["if-none-match"] === fallbackEtag) {
+        return res.status(304).end();
+      }
+
+      return res.status(200).send(placeholder);
     }
 
     let svgContent = await readFile(filePath, "utf-8");
