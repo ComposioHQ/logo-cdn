@@ -1,4 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
+import { createHash } from "crypto";
 import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 
@@ -8,6 +9,16 @@ import {
   FALLBACK_LOGO_SVG_DARK,
   FALLBACK_LOGO_SVG_LIGHT,
 } from "../../lib/fallback-logo";
+
+const LOGO_CACHE_CONTROL = "public, max-age=300, must-revalidate";
+
+function createSvgEtag(svgContent: string) {
+  const digest = createHash("sha256")
+    .update(svgContent)
+    .digest("base64url");
+
+  return `"sha256-${digest}"`;
+}
 
 export default async function handler(
   req: NextApiRequest,
@@ -22,7 +33,7 @@ export default async function handler(
   }
 
   try {
-    const { filePath, assetKey, variant } = resolveSvgAsset(slug, theme);
+    const { filePath, variant } = resolveSvgAsset(slug, theme);
 
     if (!existsSync(filePath)) {
       // No logo for this slug: serve the generic Composio placeholder instead
@@ -34,10 +45,10 @@ export default async function handler(
         ? FALLBACK_LOGO_SVG_DARK
         : FALLBACK_LOGO_SVG_LIGHT;
 
-      const fallbackEtag = `"fallback:${dark ? "dark" : "default"}:svg"`;
+      const fallbackEtag = createSvgEtag(placeholder);
 
       res.setHeader("Content-Type", "image/svg+xml");
-      res.setHeader("Cache-Control", "public, max-age=300, must-revalidate");
+      res.setHeader("Cache-Control", LOGO_CACHE_CONTROL);
       res.setHeader("ETag", fallbackEtag);
       res.setHeader("X-Logo-Fallback", "true");
 
@@ -45,7 +56,7 @@ export default async function handler(
         return res.status(304).end();
       }
 
-      return res.status(200).send(placeholder);
+      return res.status(200).end(placeholder);
     }
 
     let svgContent = await readFile(filePath, "utf-8");
@@ -57,17 +68,17 @@ export default async function handler(
       }
     }
 
-    const etag = `"${assetKey}:${variant}:svg"`;
+    const etag = createSvgEtag(svgContent);
 
     res.setHeader("Content-Type", "image/svg+xml");
-    res.setHeader("Cache-Control", "public, max-age=432000, immutable");
+    res.setHeader("Cache-Control", LOGO_CACHE_CONTROL);
     res.setHeader("ETag", etag);
 
     if (req.headers["if-none-match"] === etag) {
       return res.status(304).end();
     }
 
-    res.status(200).send(svgContent);
+    res.status(200).end(svgContent);
   } catch (error) {
     console.error("error serving svg:", error);
     res.status(500).json({ error: "internal server error" });
