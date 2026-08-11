@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"><svg x="8" y="8" width="112" height="112" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+<svg width="128" height="128" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="512" height="512" rx="256" fill="#FDF7E6"/>
 <path d="M0 256C0 114.615 114.615 0 256 0V0C397.385 0 512 114.615 512 256V256C512 397.385 397.385 512 256 512V512C114.615 512 0 397.385 0 256V256Z" fill="#FABC05"/>
 <path d="M248.437 319.063H262.562V410.875H248.437V319.063ZM213.492 316.831L181.796 410.875H196.698L226.883 321.294L213.492 316.831ZM297.508 316.831L284.117 321.294L314.302 410.875H329.204L297.508 316.831Z" fill="#999999"/>
@@ -22,4 +22,4 @@
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>
 </defs>
-</svg></svg>
+</svg>
