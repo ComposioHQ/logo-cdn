@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"><svg x="8" y="8" width="112" height="112" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main hexagon background -->
+  <path d="M24 4L42.5 14V34L24 44L5.5 34V14L24 4Z" fill="#0a0a0a" stroke="url(#logoGradient)" stroke-width="2"/>
+  
+  <!-- Left 4 -->
+  <path d="M14 20L18 20L18 24L14 24L14 28" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M20 20L20 28" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Right 4 -->
+  <path d="M26 20L30 20L30 24L26 24L26 28" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M32 20L32 28" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Bottom accent bar -->
+  <rect x="16" y="32" width="16" height="2" rx="1" fill="url(#logoGradient)"/>
+  
+  <!-- Corner accents -->
+  <circle cx="24" cy="8" r="1.5" fill="#22c55e" opacity="0.8"/>
+  <circle cx="24" cy="40" r="1.5" fill="#a855f7" opacity="0.8"/>
+</svg></svg>
