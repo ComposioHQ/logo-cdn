@@ -1,4 +1,137 @@
-<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="128" height="128" fill="#FFFFFF"/>
-<image x="0" y="0" width="128" height="128" preserveAspectRatio="xMidYMid meet" xlink:href="data:image/png;base64,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"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 94.05 128.00
+  L 94.06 97.45
+  A 0.44 0.43 90.0 0 1 94.49 97.01
+  L 126.23 97.01
+  A 0.85 0.84 87.5 0 0 127.07 96.09
+  Q 126.12 84.39 118.49 76.45
+  C 106.28 63.75 85.11 62.45 71.66 74.57
+  C 51.22 92.98 63.12 123.88 88.75 127.34
+  Q 91.01 127.65 93.26 128.00"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 33.85 31.25
+  A 0.25 0.25 0.0 0 1 34.10 31.00
+  L 66.11 31.00
+  A 0.58 0.58 0.0 0 0 66.69 30.39
+  C 66.05 16.39 56.57 5.25 43.74 1.60
+  C 29.64 -2.41 14.69 2.27 6.23 14.41
+  C -2.21 26.53 -0.07 42.69 10.50 52.56
+  Q 20.01 61.44 33.45 61.80
+  A 0.39 0.39 0.0 0 0 33.85 61.41
+  L 33.85 31.25"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 127.57 1.58
+  A 0.39 0.39 0.0 0 0 127.23 1.00
+  L 60.99 1.00
+  A 0.39 0.39 0.0 0 0 60.65 1.58
+  L 93.77 60.25
+  A 0.39 0.39 0.0 0 0 94.45 60.25
+  L 127.57 1.58"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 67.30 67.68
+  A 0.46 0.46 0.0 0 0 66.90 66.99
+  L 0.84 66.99
+  A 0.46 0.46 0.0 0 0 0.44 67.68
+  L 33.47 126.19
+  A 0.46 0.46 0.0 0 0 34.27 126.19
+  L 67.30 67.68"
+/>
+</g>
+<path fill="#ffffff" d="
+  M 128.00 0.00
+  L 128.00 128.00
+  L 94.05 128.00
+  L 94.06 97.45
+  A 0.44 0.43 90.0 0 1 94.49 97.01
+  L 126.23 97.01
+  A 0.85 0.84 87.5 0 0 127.07 96.09
+  Q 126.12 84.39 118.49 76.45
+  C 106.28 63.75 85.11 62.45 71.66 74.57
+  C 51.22 92.98 63.12 123.88 88.75 127.34
+  Q 91.01 127.65 93.26 128.00
+  L 0.00 128.00
+  L 0.00 0.00
+  L 128.00 0.00
+  Z
+  M 33.85 31.25
+  A 0.25 0.25 0.0 0 1 34.10 31.00
+  L 66.11 31.00
+  A 0.58 0.58 0.0 0 0 66.69 30.39
+  C 66.05 16.39 56.57 5.25 43.74 1.60
+  C 29.64 -2.41 14.69 2.27 6.23 14.41
+  C -2.21 26.53 -0.07 42.69 10.50 52.56
+  Q 20.01 61.44 33.45 61.80
+  A 0.39 0.39 0.0 0 0 33.85 61.41
+  L 33.85 31.25
+  Z
+  M 127.57 1.58
+  A 0.39 0.39 0.0 0 0 127.23 1.00
+  L 60.99 1.00
+  A 0.39 0.39 0.0 0 0 60.65 1.58
+  L 93.77 60.25
+  A 0.39 0.39 0.0 0 0 94.45 60.25
+  L 127.57 1.58
+  Z
+  M 67.30 67.68
+  A 0.46 0.46 0.0 0 0 66.90 66.99
+  L 0.84 66.99
+  A 0.46 0.46 0.0 0 0 0.44 67.68
+  L 33.47 126.19
+  A 0.46 0.46 0.0 0 0 34.27 126.19
+  L 67.30 67.68
+  Z"
+/>
+<path fill="#000000" d="
+  M 33.85 31.25
+  L 33.85 61.41
+  A 0.39 0.39 0.0 0 1 33.45 61.80
+  Q 20.01 61.44 10.50 52.56
+  C -0.07 42.69 -2.21 26.53 6.23 14.41
+  C 14.69 2.27 29.64 -2.41 43.74 1.60
+  C 56.57 5.25 66.05 16.39 66.69 30.39
+  A 0.58 0.58 0.0 0 1 66.11 31.00
+  L 34.10 31.00
+  A 0.25 0.25 0.0 0 0 33.85 31.25
+  Z"
+/>
+<path fill="#000000" d="
+  M 127.57 1.58
+  L 94.45 60.25
+  A 0.39 0.39 0.0 0 1 93.77 60.25
+  L 60.65 1.58
+  A 0.39 0.39 0.0 0 1 60.99 1.00
+  L 127.23 1.00
+  A 0.39 0.39 0.0 0 1 127.57 1.58
+  Z"
+/>
+<path fill="#000000" d="
+  M 94.05 128.00
+  L 93.26 128.00
+  Q 91.01 127.65 88.75 127.34
+  C 63.12 123.88 51.22 92.98 71.66 74.57
+  C 85.11 62.45 106.28 63.75 118.49 76.45
+  Q 126.12 84.39 127.07 96.09
+  A 0.85 0.84 87.5 0 1 126.23 97.01
+  L 94.49 97.01
+  A 0.44 0.43 90.0 0 0 94.06 97.45
+  L 94.05 128.00
+  Z"
+/>
+<path fill="#000000" d="
+  M 67.30 67.68
+  L 34.27 126.19
+  A 0.46 0.46 0.0 0 1 33.47 126.19
+  L 0.44 67.68
+  A 0.46 0.46 0.0 0 1 0.84 66.99
+  L 66.90 66.99
+  A 0.46 0.46 0.0 0 1 67.30 67.68
+  Z"
+/>
 </svg>
