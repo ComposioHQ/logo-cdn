@@ -1,0 +1,22 @@
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="-3 0 70 70" width="128" height="128">
+  <g id="Components">
+    <g id="docupotion-icon" transform="translate(0, 0) scale(0.40)">
+      <!-- Back page -->
+      <path d="M56,8 L140,8 C144.4,8 148,11.6 148,16 L148,120 C148,124.4 144.4,128 140,128 L56,128 C51.6,128 48,124.4 48,120 L48,16 C48,11.6 51.6,8 56,8 Z" 
+            fill="#0070d7" opacity="0.25" stroke="none"/>
+      <!-- Middle page -->
+      <path d="M40,26 L124,26 C128.4,26 132,29.6 132,34 L132,138 C132,142.4 128.4,146 124,146 L40,146 C35.6,146 32,142.4 32,138 L32,34 C32,29.6 35.6,26 40,26 Z" 
+            fill="#0070d7" opacity="0.5" stroke="none"/>
+      <!-- Front page -->
+      <path d="M24,44 L100,44 L116,44 C120.4,44 124,47.6 124,52 L124,156 C124,160.4 120.4,164 116,164 L24,164 C19.6,164 16,160.4 16,156 L16,52 C16,47.6 19.6,44 24,44 Z" 
+            fill="#0070d7" stroke="none"/>
+      <!-- Dog-ear fold -->
+      <path d="M100,44 L124,66 L124,44 Z" fill="#0058ab" stroke="none"/>
+      <path d="M100,44 L100,62 C100,64.2 101.8,66 104,66 L124,66 Z" fill="#c0dcf5" stroke="none"/>
+      <!-- Document content lines -->
+      <line x1="30" y1="82" x2="90" y2="82" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+      <line x1="30" y1="96" x2="82" y2="96" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+      <line x1="30" y1="110" x2="74" y2="110" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
