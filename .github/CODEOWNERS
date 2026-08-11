@@ -1,0 +1,7 @@
+# Logo assets are owned by @Malayvasa.
+# Any pull request touching these paths requires their approval before it can
+# be merged. Enforced by the "require-owner-approval-logo-assets" ruleset on
+# the default branch.
+
+/src/assets/  @Malayvasa
+/logos/       @Malayvasa
