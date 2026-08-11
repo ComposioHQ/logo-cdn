@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 180 180" role="img" aria-label="OpenRegister">
-  <rect width="180" height="180" rx="20" fill="#fff"/>
-  <circle cx="90" cy="90" r="66" fill="none" stroke="#0c1221" stroke-width="9"/>
-  <path d="M72 29c-14 24-18 42-18 61s4 37 18 61" fill="none" stroke="#0c1221" stroke-width="9" stroke-linecap="round"/>
-  <path d="M108 29c14 24 18 42 18 61s-4 37-18 61" fill="none" stroke="#0c1221" stroke-width="9" stroke-linecap="round"/>
-  <path d="M90 24v132" fill="none" stroke="#0c1221" stroke-width="9" stroke-linecap="round"/>
-</svg>
