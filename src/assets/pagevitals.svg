@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-10 -10 590 530" width="128" height="128">
+<g>
+	<path fill="#48ADE2" d="M284 86 186 0C154 0 94 0 49 38L189 180 284 86"/>
+    <path fill="#70BF61" d="M285 276 189 180 73 294 173 397"/>
+    <path fill="#3E77BB" d="M49 38C-15 100-17 202 45 266L73 294 189 180"/>
+    <path fill="#E0195B" d="M284 86 379.79 180 520 38C475 0 415 0 383 0L284 86"/>
+    <path fill="#FCCD07" d="M520 38 285 276 403 389 523 266c62-64 61-166-3-228"/>
+    <path fill="#1E9366" d="M285 276 173 397 286 510 403 389"/>
+    <path fill="#84459A" d="M186 0l98 86L383 0"/>
+</g>
+</svg>
