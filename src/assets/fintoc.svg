@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"><image x="8" y="8" width="112" height="112" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAeGVYSWZNTQAqAAAACAAEARoABQAAAAEAAAA+ARsABQAAAAEAAABGASgAAwAAAAEAAgAAh2kABAAAAAEAAABOAAAAAAAAAEgAAAABAAAASAAAAAEAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACfCVbEAAAACXBIWXMAAAsTAAALEwEAmpwYAAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPkZpZ21hPC94bXA6Q3JlYXRvclRvb2w+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgoE/1zIAAABY0lEQVRYCe1UMa6CQBB9iIox0ZjYeAGuwGnoPIKNjYETUNNyAGs7QgWhpNOKqJ2NNsaEEPYzG/lRQPEnJP5iJxl25g07M/s2OxIAluvXpPO1yvfCogHBgGDg/zMwn8/R7XaxXC6xWCz4612tVvB9H67rQtM0jum6Ds/zOE6x9XoNVVU/GjM0CV+qZVlsMBiwvBjbbDZMkiR2OBxYIYZhsNFoxM7ncwH9ro7jvMxb1Gy8gjRN+SmSJAEpSbGSTfHhcAhFUch9kul0+uTXOY0N1G0qY/mRQVqWLMvKUMVvpYFK1j8AogHBgGCgFQby6QjSsnQ6zekb/+j1ejwvTbp+v8/tYiVHlmVcr1fcbjcee/ycTqdHt9aWc9SsjdzB2WyGKIowmUyw2+0QhiFvhE633W5h2zb2+z3iOMZ4PMbxeOR2EAQwTROXy+VdehBv1Rn6dku7wcYraLdcNZtoQDAgGPg6Az8ZVJcw3zJ9RQAAAABJRU5ErkJggg=="/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 180.00 180.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 48.91 52.46
+  A 1.67 1.67 0.0 0 0 47.24 50.79
+  L 47.18 50.79
+  A 1.67 1.67 0.0 0 0 45.51 52.46
+  L 45.51 127.32
+  A 1.67 1.67 0.0 0 0 47.18 128.99
+  L 47.24 128.99
+  A 1.67 1.67 0.0 0 0 48.91 127.32
+  L 48.91 52.46"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 64.97 54.63
+  A 3.87 3.87 0.0 0 0 61.10 50.76
+  L 61.00 50.76
+  A 3.87 3.87 0.0 0 0 57.13 54.63
+  L 57.13 125.13
+  A 3.87 3.87 0.0 0 0 61.00 129.00
+  L 61.10 129.00
+  A 3.87 3.87 0.0 0 0 64.97 125.13
+  L 64.97 54.63"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 92.87 56.72
+  A 5.95 5.95 0.0 0 0 86.92 50.77
+  L 79.14 50.77
+  A 5.95 5.95 0.0 0 0 73.19 56.72
+  L 73.19 123.08
+  A 5.95 5.95 0.0 0 0 79.14 129.03
+  L 86.92 129.03
+  A 5.95 5.95 0.0 0 0 92.87 123.08
+  L 92.87 56.72"
+/>
+<path stroke="#808080" vector-effect="non-scaling-stroke" d="
+  M 134.4285 60.3709
+  A 9.63 9.63 0.0 0 0 124.7817 50.7577
+  L 110.6617 50.7824
+  A 9.63 9.63 0.0 0 0 101.0485 60.4292
+  L 101.1515 119.4291
+  A 9.63 9.63 0.0 0 0 110.7983 129.0423
+  L 124.9183 129.0176
+  A 9.63 9.63 0.0 0 0 134.5315 119.3708
+  L 134.4285 60.3709"
+/>
+</g>
+<path fill="#000000" d="
+  M 180.00 0.00
+  L 180.00 180.00
+  L 0.00 180.00
+  L 0.00 0.00
+  L 180.00 0.00
+  Z
+  M 48.91 52.46
+  A 1.67 1.67 0.0 0 0 47.24 50.79
+  L 47.18 50.79
+  A 1.67 1.67 0.0 0 0 45.51 52.46
+  L 45.51 127.32
+  A 1.67 1.67 0.0 0 0 47.18 128.99
+  L 47.24 128.99
+  A 1.67 1.67 0.0 0 0 48.91 127.32
+  L 48.91 52.46
+  Z
+  M 64.97 54.63
+  A 3.87 3.87 0.0 0 0 61.10 50.76
+  L 61.00 50.76
+  A 3.87 3.87 0.0 0 0 57.13 54.63
+  L 57.13 125.13
+  A 3.87 3.87 0.0 0 0 61.00 129.00
+  L 61.10 129.00
+  A 3.87 3.87 0.0 0 0 64.97 125.13
+  L 64.97 54.63
+  Z
+  M 92.87 56.72
+  A 5.95 5.95 0.0 0 0 86.92 50.77
+  L 79.14 50.77
+  A 5.95 5.95 0.0 0 0 73.19 56.72
+  L 73.19 123.08
+  A 5.95 5.95 0.0 0 0 79.14 129.03
+  L 86.92 129.03
+  A 5.95 5.95 0.0 0 0 92.87 123.08
+  L 92.87 56.72
+  Z
+  M 134.4285 60.3709
+  A 9.63 9.63 0.0 0 0 124.7817 50.7577
+  L 110.6617 50.7824
+  A 9.63 9.63 0.0 0 0 101.0485 60.4292
+  L 101.1515 119.4291
+  A 9.63 9.63 0.0 0 0 110.7983 129.0423
+  L 124.9183 129.0176
+  A 9.63 9.63 0.0 0 0 134.5315 119.3708
+  L 134.4285 60.3709
+  Z"
+/>
+<rect fill="#ffffff" x="45.51" y="50.79" width="3.40" height="78.20" rx="1.67"/>
+<rect fill="#ffffff" x="57.13" y="50.76" width="7.84" height="78.24" rx="3.87"/>
+<rect fill="#ffffff" x="73.19" y="50.77" width="19.68" height="78.26" rx="5.95"/>
+<rect fill="#ffffff" x="-16.69" y="-39.13" transform="translate(117.79,89.90) rotate(-0.1)" width="33.38" height="78.26" rx="9.63"/>
+</svg>
