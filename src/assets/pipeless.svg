@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 256.00 256.00" width="128" height="128">
+<circle fill="#1bceca" cx="48.59" cy="50.52" r="19.04"/>
+<circle fill="#1bceca" cx="210.73" cy="50.51" r="19.01"/>
+<rect fill="#1bceca" x="-18.36" y="-18.62" transform="translate(89.29,91.09) rotate(0.3)" width="36.72" height="37.24" rx="16.73"/>
+<rect fill="#1bceca" x="-18.36" y="-18.63" transform="translate(169.62,91.10) rotate(-1.8)" width="36.72" height="37.26" rx="16.74"/>
+<circle fill="#1bceca" cx="129.66" cy="131.57" r="19.05"/>
+<rect fill="#1bceca" x="-18.32" y="-18.67" transform="translate(89.29,171.40) rotate(-3.9)" width="36.64" height="37.34" rx="16.71"/>
+<ellipse fill="#1bceca" cx="0.00" cy="0.00" transform="translate(169.59,171.40) rotate(-91.4)" rx="19.07" ry="18.81"/>
+<ellipse fill="#1bceca" cx="0.00" cy="0.00" transform="translate(48.57,212.60) rotate(-2.0)" rx="19.12" ry="18.90"/>
+<circle fill="#1bceca" cx="210.72" cy="212.62" r="19.00"/>
+</svg>
