@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 256.00 256.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#6e6e6e" vector-effect="non-scaling-stroke" d="
+  M 56.38 58.21
+  L 56.38 199.62"
+/>
+<path stroke="#3f3f3f" vector-effect="non-scaling-stroke" d="
+  M 56.38 199.62
+  L 199.16 199.59
+  A 0.18 0.18 0.0 0 0 199.29 199.28
+  L 127.99 128.00"
+/>
+<path stroke="#6e6e6e" vector-effect="non-scaling-stroke" d="
+  M 127.99 128.00
+  L 128.00 128.00"
+/>
+<path stroke="#7f7f7f" vector-effect="non-scaling-stroke" d="
+  M 128.00 128.00
+  L 199.14 56.84
+  A 0.28 0.27 -67.3 0 0 198.95 56.37
+  L 57.10 56.37
+  A 0.69 0.69 0.0 0 0 56.43 56.89
+  Q 56.28 57.47 56.38 58.21"
+/>
+<path stroke="#e2e2e2" vector-effect="non-scaling-stroke" d="
+  M 128.00 128.00
+  L 58.37 58.37
+  A 1.05 1.03 63.8 0 0 57.54 58.08
+  L 56.38 58.21"
+/>
+<path stroke="#a3a3a3" vector-effect="non-scaling-stroke" d="
+  M 127.99 128.00
+  L 56.38 199.62"
+/>
+</g>
+<path fill="#0a0a0a" d="
+  M 256.00 0.00
+  L 256.00 256.00
+  L 0.00 256.00
+  L 0.00 0.00
+  L 256.00 0.00
+  Z
+  M 56.38 58.21
+  L 56.38 199.62
+  L 199.16 199.59
+  A 0.18 0.18 0.0 0 0 199.29 199.28
+  L 127.99 128.00
+  L 128.00 128.00
+  L 199.14 56.84
+  A 0.28 0.27 -67.3 0 0 198.95 56.37
+  L 57.10 56.37
+  A 0.69 0.69 0.0 0 0 56.43 56.89
+  Q 56.28 57.47 56.38 58.21
+  Z"
+/>
+<path fill="#f3f3f3" d="
+  M 128.00 128.00
+  L 58.37 58.37
+  A 1.05 1.03 63.8 0 0 57.54 58.08
+  L 56.38 58.21
+  Q 56.28 57.47 56.43 56.89
+  A 0.69 0.69 0.0 0 1 57.10 56.37
+  L 198.95 56.37
+  A 0.28 0.27 -67.3 0 1 199.14 56.84
+  L 128.00 128.00
+  Z"
+/>
+<path fill="#d1d1d1" d="
+  M 128.00 128.00
+  L 127.99 128.00
+  L 56.38 199.62
+  L 56.38 58.21
+  L 57.54 58.08
+  A 1.05 1.03 63.8 0 1 58.37 58.37
+  L 128.00 128.00
+  Z"
+/>
+<path fill="#747474" d="
+  M 127.99 128.00
+  L 199.29 199.28
+  A 0.18 0.18 0.0 0 1 199.16 199.59
+  L 56.38 199.62
+  L 127.99 128.00
+  Z"
+/>
+</svg>
