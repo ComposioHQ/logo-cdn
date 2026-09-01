@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#3468f5" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 96.92 80.59
+  L 64.14 80.58"
+/>
+<path stroke="#3468f5" stroke-opacity="0.847" vector-effect="non-scaling-stroke" d="
+  M 63.88 80.11
+  L 63.84 48.30
+  A 0.77 0.77 0.0 0 0 63.07 47.53
+  L 31.06 47.71"
+/>
+</g>
+<path fill="#3468f5" d="
+  M 96.92 80.59
+  L 64.14 80.58
+  Q 63.91 80.42 63.88 80.11
+  L 63.84 48.30
+  A 0.77 0.77 0.0 0 0 63.07 47.53
+  L 31.06 47.71
+  L 31.10 15.13
+  A 0.53 0.53 0.0 0 1 31.63 14.60
+  L 63.42 14.60
+  A 0.58 0.57 90.0 0 1 63.99 15.18
+  L 63.99 47.06
+  A 0.54 0.54 0.0 0 0 64.53 47.60
+  L 96.36 47.60
+  A 0.54 0.53 -90.0 0 1 96.89 48.14
+  L 96.92 80.59
+  Z"
+/>
+<path fill="#3468f5" fill-opacity="0.690" d="
+  M 63.88 80.11
+  L 31.94 80.43
+  A 0.84 0.84 0.0 0 1 31.09 79.59
+  L 31.06 47.71
+  L 63.07 47.53
+  A 0.77 0.77 0.0 0 1 63.84 48.30
+  L 63.88 80.11
+  Z"
+/>
+<path fill="#3467f5" fill-opacity="0.600" d="
+  M 96.92 80.59
+  L 96.86 112.86
+  A 0.59 0.59 0.0 0 1 96.27 113.45
+  L 64.75 113.45
+  A 0.58 0.57 -0.0 0 1 64.17 112.88
+  L 64.14 80.58
+  L 96.92 80.59
+  Z"
+/>
+</svg>
