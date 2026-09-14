@@ -7,7 +7,8 @@
     "dev:portless": "portless logos bun dev",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "logo:eval": "node scripts/evaluate-logo.mjs"
   },
   "dependencies": {
     "react": "19.1.0",
