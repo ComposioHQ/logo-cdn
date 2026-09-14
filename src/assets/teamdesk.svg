@@ -1,44 +1,1009 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 180.00 180.00" width="128" height="128">
-<circle fill="#c32026" cx="89.73" cy="49.68" r="36.29"/>
-<path fill="#21428f" d="
-  M 118.28 165.09
-  L 101.34 165.09
-  A 1.99 1.98 -0.1 0 1 99.35 163.12
-  Q 99.27 137.98 99.39 120.04
-  C 99.48 106.30 109.39 94.04 122.28 89.83
-  Q 127.05 88.27 138.37 88.32
-  Q 160.20 88.40 175.80 88.50
-  A 1.52 1.52 0.0 0 1 177.31 90.01
-  Q 177.38 104.54 177.36 106.75
-  C 177.34 109.74 175.51 109.33 172.97 109.34
-  Q 142.08 109.36 140.90 109.32
-  Q 133.27 109.09 130.12 110.56
-  Q 123.63 113.57 121.05 119.65
-  Q 119.77 122.68 119.80 132.52
-  Q 119.88 151.39 119.88 163.49
-  A 1.60 1.60 0.0 0 1 118.28 165.09
-  Z"
-/>
-<path fill="#21428f" d="
-  M 0.00 108.02
-  L 0.00 89.79
-  Q 0.41 88.47 1.75 88.47
-  Q 34.89 88.31 49.25 88.41
-  Q 52.59 88.43 57.88 90.16
-  C 68.12 93.50 75.79 101.83 79.00 111.94
-  Q 80.52 116.73 80.45 125.71
-  Q 80.33 141.99 80.44 162.26
-  C 80.45 164.68 79.49 165.14 77.26 165.12
-  Q 73.92 165.10 61.76 165.11
-  A 2.00 2.00 0.0 0 1 59.76 163.11
-  Q 59.68 134.13 59.77 131.40
-  Q 60.05 122.84 58.44 119.28
-  Q 54.94 111.50 45.85 109.48
-  A 5.20 4.92 -37.2 0 0 44.75 109.36
-  Q 27.20 109.32 2.50 109.34
-  Q 0.58 109.34 0.00 108.02
-  Z"
-/>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	
+	<title>TeamDesk</title>
+	<meta name="description" content="TeamDesk is online database software for easy web apps design. TeamDesk also provides predefined no-code solutions to share and manage business information.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.teamdesk.net/">
+	<meta property="og:title" content="TeamDesk">
+	<meta property="og:description" content="TeamDesk is online database software for easy web apps design. TeamDesk also provides predefined no-code solutions to share and manage business information.">
+		<meta property="og:image" content="https://www.teamdesk.net/img/logo_og.png">
+		<meta property="og:image" content="https://www.teamdesk.net/img/online-database.png">
+		<meta property="og:image" content="https://www.teamdesk.net/img/web-based-database.png">
+		<meta property="og:image" content="https://www.teamdesk.net/img/web-database.png">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="format-detection" content="telephone=no">
+
+	<!-- Basic Images Start -->
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+	<link rel="icon" href="/img/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#F12937">
+	<!-- Basic Images End -->
+	<!-- Custom Browsers Color Start -->
+	<meta name="theme-color" content="#1D3B83">
+	<!-- Custom Browsers Color End -->
+	<link rel="stylesheet" href="/css/main.css?v=1.0.12">
+
+	
+	
+</head>
+
+<body>
+	
+	<!-- Header -->
+		<div class="main-header-outer js-main-header-outer">
+		<header class="main-header js-main-header">
+			<div class="main-header__container container">
+				<div class="main-header__content">
+					<div class="main-header__logo">
+						<a href="/" class="main-header__logo-link">
+							<img src="/img/logo.svg" class="main-header__logo-img" alt="TeamDesk Logo">
+						</a>
+					</div>
+					<nav class="main-header__menu main-menu js-main-menu">
+						<div class="main-menu__inner">
+							<ul class="main-menu__list js-main-menu__list">
+									<li class="main-menu__item">
+										<a href="/how-it-works" class="main-menu__link">How it works</a>
+									</li>
+									<li class="main-menu__item">
+										<a href="/video-tutorials" class="main-menu__link">Video tutorials</a>
+									</li>
+									<li class="main-menu__item">
+										<a href="/database-templates" class="main-menu__link">Templates</a>
+									</li>
+									<li class="main-menu__item">
+										<a href="/pricing" class="main-menu__link">Pricing</a>
+									</li>
+									<li class="main-menu__item">
+										<a href="/testimonials" class="main-menu__link">Testimonials</a>
+									</li>
+								<li class="main-menu__item main-menu__item_position_aside">
+									<a href="https://www.teamdesk.net/secure/startnow.aspx?login=1" class="main-menu__link" target="_blank">
+										<span class="main-menu__link-text">
+											Login
+										</span>
+											<svg xmlns="http://www.w3.org/2000/svg" height="128" width="128" class="main-menu__link-arrow sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+									</a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+
+					<div class="main-header__aside">
+						<div class="main-header__action">
+							<a href="/get-started" class="main-header__action-btn button button_type_ghost button_size_medium">
+								<span class="button__content">
+									<span class="button__text">Get Started</span>
+									<span class="button__arrow">
+											<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+									</span>
+								</span>
+							</a>
+						</div>
+						<div class="main-header__menu-opener">
+							<button class="menu-opener js-menu-opener">
+								<span class="menu-opener__inner js-menu-opener__inner">
+									<span class="menu-opener__lines"></span>
+								</span>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+	<!-- /Header -->
+	<!-- Main Content -->
+	<main class="main">
+		
+
+<!-- Main Hero -->
+<section class="main-hero js-parallax-wrapper js-circles-set-wrapper">
+	<!-- Circles Background -->
+	<div class="main-hero__circles circles-set" aria-hidden="true">
+		<div class="circles-set__container container">
+			<div class="circles-set__inner">
+				<div class="main-hero__circle circles-set__item circle js-circle" style="--color: var(--c-lightgray); --size: 90px">
+					<div class="circle__moving">
+						<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /Circles Background -->
+	<div class="main-hero__container container">
+		<div class="main-hero__content">
+			<div class="main-hero__descr">
+				<h1 class="main-hero__title h1">
+					Online database
+					software to&nbsp;empower
+					your business management
+				</h1>
+				<div class="main-hero__text plaintext">
+					Create your own custom database in&nbsp;a&nbsp;fast and easy way, requiring zero technical knowledge.
+				</div>
+				<div class="main-hero__actions">
+					<a href="/get-started" class="main-hero__actions-btn button">
+						<span class="button__content">
+							<span class="button__text">Start your free trial</span>
+							<span class="button__arrow">
+									<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+							</span>
+						</span>
+					</a>
+					<button class="main-hero__actions-btn watch-video-btn js-video-modal-opener js-modal-opener" data-modal-id="video-modal" type="button" data-src="https://www.youtube.com/embed/fXPlejZNQqE?autoplay=1">
+						<span class="watch-video-btn__icon">
+								<svg class="watch-video-btn__icon-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#play"></use>
+	</svg>
+
+						</span>
+						<span class="watch-video-btn__text">
+							Watch video
+						</span>
+					</button>
+				</div>
+			</div>
+			<div class="main-hero__pic">
+				<div class="main-hero__pic-inner">
+					<!-- Circles Background -->
+					<div class="main-hero__pic-circles circles-set" aria-hidden="true">
+						<div class="main-hero__pic-circle circles-set__item circle js-circle" style="--color: var(--c-lightblue);">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="200"></span>
+							</div>
+						</div>
+						<div class="main-hero__pic-circle circles-set__item circle js-circle" style="--color: var(--c-cyan);">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="100"></span>
+							</div>
+						</div>
+					</div>
+					<!-- /Circles Background -->
+					<picture>
+						<img src="/img/main-hero.svg" alt="Main Hero Illustration" class="main-hero__pic-img">
+					</picture>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /Main Hero -->
+<!-- Video Modal -->
+<div class="modal video-modal js-modal" data-modal-id="video-modal">
+	<div class="modal__box video-modal__box">
+		<div class="modal__video">
+			<div class="video-modal__close-wrap">
+				<button class="video-modal__close js-modal-close" type="button">
+						<svg class="video-modal__close-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#x"></use>
+	</svg>
+
+				</button>
+			</div>
+			<div class="video-modal__media embed-responsive embed-responsive_16x9">
+				<iframe class="video-modal__video embed-responsive__item" data-src="" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /Video Modal -->
+<!-- How It Works -->
+<section class="how-works section js-parallax-wrapper js-circles-set-wrapper">
+	<div class="how-works__container container">
+		<div class="how-works__heading">
+			<h2 class="how-works__title h1">
+				Your needs are unique. Your web based database <br> <span class="how-works__title-underline custom-underline">should be&nbsp;too.</span>
+			</h2>
+			<div class="how-works__subtitle plaintext">We&rsquo;ll support you and work with you to&nbsp;develop the database that fits your business needs.</div>
+		</div>
+	</div>
+	<div class="how-works__set presentation-set">
+		<!-- Row -->
+		<div class="presentation-set__item presentation-item">
+			<!-- Circles Background -->
+			<div class="presentation-item__circles circles-set" aria-hidden="true">
+				<div class="circles-set__container container">
+					<div class="circles-set__inner">
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-primary-bg); --size: 62px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-lightgray); --size: 52px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-accent); --size: 38px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /Circles Background -->
+			<div class="presentation-item__container container">
+				<div class="presentation-item__box">
+					<div class="presentation-item__graphic">
+						<div class="presentation-item__graphic-circle circle js-circle" style="--color: var(--c-lightblue);">
+							<span class="circle__inner js-circle__inner" data-parallax-deep="500"></span>
+						</div>
+						<picture class="presentation-item__graphic-pic" data-viewport-check>
+							<img src="/img/interface/invoicing.svg" alt="Invoicing Interface" class="presentation-item__graphic-img">
+						</picture>
+					</div>
+					<div class="presentation-item__descr" data-viewport-check>
+						<h3 class="presentation-item__title h2">
+							Getting Started
+						</h3>
+						<div class="presentation-item__text plaintext">
+							Instead of adapting your business process to the tools you can adapt the tools to fit the processes you use in a daily basis. TeamDesk gives you the flexibility you need without adding an extra level of complexity.
+						</div>
+						<div class="presentation-item__actions">
+							<a href="/get-started" class="presentation-item__actions-btn button button_type_ghost">
+								<span class="button__content">
+									<span class="button__text">Learn more</span>
+									<span class="button__arrow">
+											<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+									</span>
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /Row -->
+		<!-- Row -->
+		<div class="presentation-set__item presentation-item">
+			<!-- Circles Background -->
+			<div class="presentation-item__circles circles-set" aria-hidden="true">
+				<div class="circles-set__container container">
+					<div class="circles-set__inner">
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-lightgray); --size: 52px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-lightgray); --size: 52px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /Circles Background -->
+			<div class="presentation-item__container container">
+				<div class="presentation-item__box">
+					<div class="presentation-item__graphic">
+						<div class="presentation-item__graphic-circle circle js-circle" style="--color: var(--c-lightblue);">
+							<span class="circle__inner js-circle__inner" data-parallax-deep="500"></span>
+						</div>
+						<picture class="presentation-item__graphic-pic" data-viewport-check>
+							<source srcset="/img/interface/clients-and-fees.webp" type="image/webp" />
+							<img src="/img/interface/clients-and-fees.png" alt="Clients and fees Interface" class="presentation-item__graphic-img">
+						</picture>
+					</div>
+					<div class="presentation-item__descr" data-viewport-check>
+						<h3 class="presentation-item__title h2">
+							No IT Department required
+						</h3>
+						<div class="presentation-item__text plaintext">
+							TeamDesk runs in the cloud on our secure servers, so you don't have to mess with anything technical. The system works on a PC, Mac, iPhone/iPad, Android and Windows Phone through a web browser.
+						</div>
+						<div class="presentation-item__actions">
+							<a href="/get-started" class="presentation-item__actions-btn button button_type_ghost">
+								<span class="button__content">
+									<span class="button__text">Learn more</span>
+									<span class="button__arrow">
+											<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+									</span>
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /Row -->
+		<!-- Row -->
+		<div class="presentation-set__item presentation-item">
+			<!-- Circles Background -->
+			<div class="presentation-item__circles circles-set" aria-hidden="true">
+				<div class="circles-set__container container">
+					<div class="circles-set__inner">
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-cyan); --size: 40px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+						<div class="presentation-item__circle circles-set__item circle js-circle" style="--color: var(--c-primary-bg); --size: 34px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="150"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /Circles Background -->
+			<div class="presentation-item__container container">
+				<div class="presentation-item__box">
+					<div class="presentation-item__graphic">
+						<div class="presentation-item__graphic-circle circle js-circle" style="--color: var(--c-lightblue);">
+							<span class="circle__inner js-circle__inner" data-parallax-deep="500"></span>
+						</div>
+						<picture class="presentation-item__graphic-pic" data-viewport-check>
+							<img src="/img/interface/sales-management.svg" alt="Sales management Interface" class="presentation-item__graphic-img">
+						</picture>
+					</div>
+					<div class="presentation-item__descr" data-viewport-check>
+						<h3 class="presentation-item__title h2">
+							Do you need help?
+						</h3>
+						<div class="presentation-item__text plaintext">
+							<a href="/contact">Contact Us</a> and we'll give you a Quick Start for free. Read <a href="https://www.teamdesk.net/help">TeamDesk Documentation</a> for more info. Hire one of <a href="/experts">TeamDesk Experts</a> for specific help. Call us at +1-847-465-3930
+						</div>
+						<div class="presentation-item__actions">
+							<a href="/contact" class="presentation-item__actions-btn button button_type_ghost">
+								<span class="button__content">
+									<span class="button__text">Contact Us</span>
+									<span class="button__arrow">
+											<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+									</span>
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /Row -->
+	</div>
+	<div class="how-works__container container">
+		<div class="how-works__offer align-center">
+			<h3 class="how-works__offer-title h2">
+				<span class="how-works__offer-title-underline custom-underline">Start today,</span>
+				<span class="fw-normal">Build your custom database!</span>
+			</h3>
+			<a href="/get-started" class="how-works__btn button">
+				<span class="button__content">
+					<span class="button__text">Start your free trial</span>
+					<span class="button__arrow">
+							<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+					</span>
+				</span>
+			</a>
+		</div>
+	</div>
+</section>
+<!-- /How It Works -->
+<!-- Editions -->
+<section class="editions section bg-blue lighttheme">
+	<div class="editions__bg" style="background-image:url(/img/editions/editions-circles-bg.svg);" aria-hidden="true"></div>
+	<div class="editions__container container">
+		<div class="editions__heading heading align-center">
+			<h2 class="editions__title heading__title h1">Choose the edition that is right for you.</h2>
+			<div class="editions__subtitle heading__subtitle plaintext">TeamDesk is a pay-as-you-go service. There are no long term contracts or commitments on your part.</div>
+		</div>
+		<div class="editions__set editions-set row">
+			<!-- Edition Card -->
+			<div class="editions-set__col col-lg-4" data-viewport-check>
+				<a href="/get-started" class="editions-set__item edition-card">
+					<div class="edition-card__icon">
+						<img src="/img/editions/starter-ed.svg" alt="Starter Edition" class="edition-card__icon-img">
+					</div>
+					<h3 class="edition-card__title h3">Starter Edition</h3>
+					<div class="edition-card__price">
+						<div class="edition-card__price-val">$49</div>
+						<div class="edition-card__price-period">per month</div>
+					</div>
+					<ul class="edition-card__list custom-marker-list">
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Up to 5 users
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Unlimited number of tables
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Unlimited records
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Unlimited storage space
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Unlimited customer support
+							</span>
+						</li>
+					</ul>
+					<div class="edition-card__action">
+						<div class="edition-card__action-btn button button_type_ghost">
+							<span class="button__content">
+								<span class="button__text">Get Started</span>
+								<span class="button__arrow">
+										<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+								</span>
+							</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /Edition Card -->
+			<!-- Edition Card -->
+			<div class="editions-set__col col-lg-4" data-viewport-check>
+				<a href="/get-started" class="editions-set__item edition-card">
+					<div class="edition-card__icon">
+						<img src="/img/editions/team-ed.svg" alt="Team Edition" class="edition-card__icon-img">
+					</div>
+					<h3 class="edition-card__title h3">Team Edition</h3>
+					<div class="edition-card__price">
+						<div class="edition-card__price-val">$99</div>
+						<div class="edition-card__price-period">per month</div>
+					</div>
+					<ul class="edition-card__list custom-marker-list">
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								10 users included
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Everything from Starter Edition
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Plus extra user packs available
+							</span>
+						</li>
+					</ul>
+					<div class="edition-card__action">
+						<div class="edition-card__action-btn button button_type_ghost">
+							<span class="button__content">
+								<span class="button__text">Get Started</span>
+								<span class="button__arrow">
+										<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+								</span>
+							</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /Edition Card -->
+			<!-- Edition Card -->
+			<div class="editions-set__col col-lg-4" data-viewport-check>
+				<a href="/get-started" class="editions-set__item edition-card">
+					<div class="edition-card__icon">
+						<img src="/img/editions/enterprise-ed.svg" alt="Enterprise Edition" class="edition-card__icon-img">
+					</div>
+					<h3 class="edition-card__title h3">Enterprise Edition</h3>
+					<div class="edition-card__price">
+						<div class="edition-card__price-val">$249</div>
+						<div class="edition-card__price-period">per month</div>
+					</div>
+					<ul class="edition-card__list custom-marker-list">
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								10 users included
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Everything from Team Edition
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Unlimited databases
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Rebranding
+							</span>
+						</li>
+						<li class="custom-marker-list__item">
+								<svg class="custom-marker-list__item-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#check-circle"></use>
+	</svg>
+
+							<span class="custom-marker-list__item-content">
+								Enhanced security
+							</span>
+						</li>
+					</ul>
+					<div class="edition-card__action">
+						<div class="edition-card__action-btn button button_type_ghost">
+							<span class="button__content">
+								<span class="button__text">Get Started</span>
+								<span class="button__arrow">
+										<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+								</span>
+							</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /Edition Card -->
+		</div>
+		<div class="editions__footer align-center">
+			<div class="editions__secondary-heading heading">
+				<div class="editions__secondary-title heading__title h3">
+					<span class="editions__secondary-title-primary">Each TeamDesk database starts with</span>
+					<span class="editions__secondary-title-secondary cirlce-text">14-day free trial.</span>
+				</div>
+				<div class="editions__secondary-subtitle heading__subtitle plaintext">
+					You can upgrade, downgrade or cancel your subscription anytime.
+				</div>
+			</div>
+			<a href="/pricing" class="editions__btn button button_type_ghost button_color_ghost-white">
+				<span class="button__content">
+					<span class="button__text">Compare editions</span>
+					<span class="button__arrow">
+							<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+					</span>
+				</span>
+			</a>
+		</div>
+	</div>
+</section>
+<!-- Editions -->
+<!-- About Customers -->
+<section class="about-customers section">
+	<div class="about-customers__container container">
+		<div class="about-customers__box">
+			<div class="about-customers__descr">
+				<div class="about-customers__heading heading">
+					<h1 class="about-customers__title heading__title h1">
+						Meet a few of our happy customers.
+					</h1>
+					<div class="about-customers__subtitle heading__subtitle plaintext">
+						We love our customers. Their creations and stories inspire us every day.
+					</div>
+					<div class="about-customers__action">
+						<a href="/testimonials" class="about-customers__action-btn button button_type_ghost">
+							<span class="button__content">
+								<span class="button__text">Read testimonial</span>
+								<span class="button__arrow">
+										<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+								</span>
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="about-customers__logos">
+				<div class="about-customers__logos-inner customers-logos-set">
+						<a href="/testimonials/5" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/E88D0E08-4711-42C7-A32E-9554BF898B9A" alt="Business Systems (UK) Ltd Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+						<a href="/testimonials/7" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/2802BC7C-F0D8-4A77-BCE7-FB4523D3EC00" alt="ViaTour Software, LLC Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+						<a href="/testimonials/37" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/6A0251EE-DD97-45A0-98EE-C84900DDA36A" alt="RAM Universal Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+						<a href="/testimonials/53" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/BF58526F-F1E2-4746-8C35-EBAB026B5ADD" alt="Axon Consultancy Limited Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+						<a href="/testimonials/16" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/DEB65FF3-3F4B-4B8E-8C83-A246CC7CD961" alt="Catalan Pty Ltd Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+						<a href="/testimonials/63" class="customers-logos-set__item">
+							<picture class="customers-logos-set__item-pic">
+								<img src="/file/testimonials/5FF1C5E5-6591-4226-AA62-57458A1CB0AF" alt="Belltech Cloud Middleware Logo" class="customers-logos-set__item-img">
+							</picture>
+						</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Offer Box -->
+	<div class="about-customers__offer offer-box-outer js-parallax-wrapper js-circles-set-wrapper">
+		<div class="offer-box-outer__container container">
+			<div class="about-customers__offer-box offer-box bg-blue lighttheme" data-viewport-check>
+				<div class="offer-box__bg circles-set" aria-hidden="true">
+					<div class="circles-set__inner">
+						<div class="offer-box__circle circles-set__item circle js-circle" style="--color: var(--c-blue-lighter); --size: 285px">
+							<div class="circle__moving">
+								<span class="circle__inner js-circle__inner" data-parallax-deep="50"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="offer-box__inner">
+					<div class="offer-box__descr">
+						<div class="offer-box__text">
+							<span class="offer-box__text-primary h1">
+								<span class="offer-box__text-underline custom-underline">Start today</span>,
+							</span>
+							<span class="offer-box__text-secondary">Build your custom database!</span>
+						</div>
+					</div>
+					<div class="offer-box__actions">
+						<a href="/get-started" class="offer-box__actions-btn button button_color_white">
+							<span class="button__content">
+								<span class="button__text">Start your free trial</span>
+								<span class="button__arrow">
+										<svg class="button__arrow-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#arrow-right"></use>
+	</svg>
+
+								</span>
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /Offer Box -->
+</section>
+<!-- /About Customers -->
+
+	<div class="cookies js-cookies hidden">
+		<div class="cookies__content">
+			<div class="cookies__text">
+				By using website you are consenting to our use of cookies in accordance with our
+				<a href="https://www.foresoft.net/privacy/#cookie" target="_blank">Cookie Policy</a>
+			</div>
+			<div class="cookies__accept">
+				<button class="cookies__accept-btn button button_size_medium button_color_mediumblue js-cookies-close">
+					Accept Cookie
+				</button>
+			</div>
+			<div class="cookies__close js-cookies-close">
+				<button class="cookies__close-btn">
+						<svg class="cokies__close-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#x"></use>
+	</svg>
+
+				</button>
+			</div>
+		</div>
+	</div>
+
+
+	</main>
+	<!-- /Main Content -->
+	<!-- Need Help -->
+		<div class="helpbox js-helpbox collapsed">
+		<div class="helpbox__backdrop js-helpbox-close"></div>
+		<div class="helpbox__inner">
+			<header class="helpbox__header">
+				<span class="helpbox__header-text">Need help?</span>
+					<svg class="helpbox__header-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#angle-top"></use>
+	</svg>
+
+				<button class="helpbox__close js-helpbox-close">
+						<svg class="helpbox__close-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#x"></use>
+	</svg>
+
+				</button>
+			</header>
+			<div class="helpbox__body">
+				<div class="helpbox__body-inner">
+					<ul class="helpbox__list">
+						<li class="helpbox__list-item">
+							<span class="helpbox__list-icon">
+									<svg class="helpbox__list-icon-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#phone-line"></use>
+	</svg>
+
+							</span>
+							<span class="helpbox__list-text">
+								Questions? Call us at <a href="tel:+18474653930">+1&#8209;847&#8209;465&#8209;3930.</a>
+							</span>
+						</li>
+						<li class="helpbox__list-item">
+							<span class="helpbox__list-icon">
+									<svg class="helpbox__list-icon-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#rocket-line"></use>
+	</svg>
+
+							</span>
+							<span class="helpbox__list-text">
+								<a href="/contact">Contact Us</a> and we'll give you a Quick Start for free.
+							</span>
+						</li>
+						<li class="helpbox__list-item">
+							<span class="helpbox__list-icon">
+									<svg class="helpbox__list-icon-img sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#contacts-line"></use>
+	</svg>
+
+							</span>
+							<span class="helpbox__list-text">
+								Hire one of <a href="/experts">TeamDesk Experts</a> for specific help.
+							</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- /Need Help -->
+	<!-- Cookie Policy (Optional) -->
+	
+	<!-- /Cookie Policy (Optional) -->
+		<div class="cookies js-cookies hidden">
+		<div class="cookies__content">
+			<div class="cookies__text">
+				By using website you are consenting to our use of cookies in accordance with our
+				<a href="https://www.foresoft.net/privacy/#cookie" target="_blank">Cookie Policy</a>
+			</div>
+			<div class="cookies__accept">
+				<button class="cookies__accept-btn button button_size_medium button_color_mediumblue js-cookies-close">
+					Accept Cookie
+				</button>
+			</div>
+			<div class="cookies__close js-cookies-close">
+				<button class="cookies__close-btn">
+						<svg class="cokies__close-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#x"></use>
+	</svg>
+
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer -->
+		<footer class="main-footer">
+		<div class="main-footer__container container">
+			<div class="main-footer__content">
+				<div class="main-footer__box">
+					<div class="main-footer__logo">
+						<a href="/" class="main-footer__logo-link">
+							<img src="/img/logo.svg" class="main-footer__logo-img" alt="TeamDesk Logo">
+						</a>
+					</div>
+					<nav class="main-footer__footer-nav footer-menu">
+						<div class="footer-menu__col">
+							<h3 class="footer-menu__title h5">About</h3>
+							<ul class="footer-menu__list">
+								<li class="footer-menu__list-item">
+									<a href="/" class="footer-menu__list-link">Home</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/testimonials" class="footer-menu__list-link">Testimonials</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/how-it-works" class="footer-menu__list-link">How it works</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/terms" class="footer-menu__list-link">Terms of service</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/get-started_build-database" class="footer-menu__list-link">Build your database</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/security-and-privacy" class="footer-menu__list-link">Security and privacy</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/pricing" class="footer-menu__list-link">Pricing</a>
+								</li>
+							</ul>
+						</div>
+						<div class="footer-menu__col">
+							<h3 class="footer-menu__title h5">Help</h3>
+							<ul class="footer-menu__list">
+								<li class="footer-menu__list-item">
+									<a href="/database-templates" class="footer-menu__list-link">Database library</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/experts" class="footer-menu__list-link">Find a TeamDesk Expert</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="https://www.teamdesk.net/help" class="footer-menu__list-link" target="_blank">Documentation</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<div class="footer-menu__sublist-wrap">
+										<button class="footer-menu__sublist-control js-footer-menu__sublist-control" type="button">
+											<span class="footer-menu__sublist-control-text">Popular searches</span>
+												<svg class="footer-menu__sublist-control-arrow sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#angle-down"></use>
+	</svg>
+
+										</button>
+										<div class="footer-menu__sublist-outer">
+											<ul class="footer-menu__sublist">
+												<li class="footer-menu__list-item">
+													<a href="/business" class="footer-menu__list-link">Business Database Software</a>
+												</li>
+												<li class="footer-menu__list-item">
+													<a href="/excel" class="footer-menu__list-link">Convert Spreadsheet to Database</a>
+												</li>
+												<li class="footer-menu__list-item">
+													<a href="/quickbase" class="footer-menu__list-link">Migrate from Quickbase</a>
+												</li>
+												<li class="footer-menu__list-item">
+													<a href="/lowcode" class="footer-menu__list-link">Low Code Platform</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/video-tutorials" class="footer-menu__list-link">Getting started videos</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="https://www.foresoft.net/status/" class="footer-menu__list-link" target="_blank">System status</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="https://teamdesk.crmdesk.com/" class="footer-menu__list-link" target="_blank">Knowledge base & support</a>
+								</li>
+								<li class="footer-menu__list-item">
+									<a href="/blog" class="footer-menu__list-link">Blog</a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+				</div>
+				<div class="row">
+					<div class="col-md-3"></div>
+				</div>
+				<div class="main-footer__info">
+					<div class="main-footer__copy">
+						Copyright 2026
+						<a href="https://www.foresoft.net/" target="_blank">ForeSoft Corporation</a>. All Rights Reserved.
+					</div>
+					<ul class="main-footer__social">
+						<li class="main-footer__social-item">
+							<a href="https://twitter.com/teamdesk" class="main-footer__social-link">
+									<svg class="main-footer__social-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#twitter"></use>
+	</svg>
+
+							</a>
+						</li>
+						<li class="main-footer__social-item">
+							<a href="https://www.facebook.com/teamdesk" class="main-footer__social-link">
+									<svg class="main-footer__social-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#fb"></use>
+	</svg>
+
+							</a>
+						</li>
+						<li class="main-footer__social-item">
+							<a href="https://www.linkedin.com/company/teamdesk-online-database/" class="main-footer__social-link">
+									<svg class="main-footer__social-icon sprite-icon">
+		<use xlink:href="/img/svg/sprite.svg#linkedin"></use>
+	</svg>
+
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- /Footer -->
+	<!-- minified libs file -->
+	<script src="/js/libs.js?v=1.0.12"></script>
+	<!-- scripts file -->
+	<script src="/js/common.js?v=1.0.12"></script>
+
+	
+</body>
+</html>
