@@ -22,6 +22,10 @@
   M 149.81 99.07
   L 135.44 89.65"
 />
+<path stroke="#c32e24" vector-effect="non-scaling-stroke" d="
+  M 149.81 99.07
+  C 143.01 115.81 134.60 118.01 119.31 109.18"
+/>
 <path stroke="#df8f8e" vector-effect="non-scaling-stroke" d="
   M 304.03 127.24
   Q 303.52 151.08 291.75 171.82"
@@ -35,10 +39,6 @@
   M 159.96 127.50
   Q 167.44 124.63 172.91 124.62
   Q 180.54 124.61 188.25 124.05"
-/>
-<path stroke="#c32e24" vector-effect="non-scaling-stroke" d="
-  M 149.81 99.07
-  C 143.01 115.81 134.60 118.01 119.31 109.18"
 />
 <path stroke="#a3231f" vector-effect="non-scaling-stroke" d="
   M 156.87 103.64
@@ -179,12 +179,6 @@
   M 179.52 213.89
   Q 160.32 207.29 145.52 193.07"
 />
-<path stroke="#b4b4c3" vector-effect="non-scaling-stroke" d="
-  M 204.51 362.76
-  Q 188.48 350.31 173.37 337.12
-  Q 125.89 295.70 78.31 254.39
-  Q 70.75 247.82 54.03 234.77"
-/>
 <path stroke="#fcca75" vector-effect="non-scaling-stroke" d="
   M 456.96 143.48
   Q 441.73 151.15 426.48 164.72
@@ -200,9 +194,11 @@
   C 346.38 214.01 370.70 193.56 394.03 173.50
   Q 400.13 168.26 410.13 156.94"
 />
-<path stroke="#c5c6d4" vector-effect="non-scaling-stroke" d="
-  M 179.52 213.89
-  Q 184.03 228.56 190.32 242.39"
+<path stroke="#b4b4c3" vector-effect="non-scaling-stroke" d="
+  M 204.51 362.76
+  Q 188.48 350.31 173.37 337.12
+  Q 125.89 295.70 78.31 254.39
+  Q 70.75 247.82 54.03 234.77"
 />
 <path stroke="#fcca75" vector-effect="non-scaling-stroke" d="
   M 456.97 241.22
@@ -218,10 +214,22 @@
   C 367.83 295.62 381.26 284.16 394.69 269.11"
 />
 <path stroke="#c5c6d4" vector-effect="non-scaling-stroke" d="
+  M 179.52 213.89
+  Q 184.03 228.56 190.32 242.39"
+/>
+<path stroke="#c5c6d4" vector-effect="non-scaling-stroke" d="
   M 204.50 317.25
   Q 192.53 308.68 184.29 301.64
   C 168.01 287.75 150.30 272.17 128.09 252.58
   Q 91.59 220.37 54.05 189.21"
+/>
+<path stroke="#e6aa94" vector-effect="non-scaling-stroke" d="
+  M 227.27 54.82
+  Q 222.27 54.53 222.10 62.41"
+/>
+<path stroke="#e15e30" vector-effect="non-scaling-stroke" d="
+  M 222.10 62.41
+  Q 199.25 56.71 177.52 46.96"
 />
 <path stroke="#e6aa94" vector-effect="non-scaling-stroke" d="
   M 251.67 74.98
@@ -232,14 +240,6 @@
   Q 242.05 62.85 243.97 64.16
   A 1.32 1.31 -43.3 0 1 243.90 66.37
   Q 242.52 67.19 241.00 69.04"
-/>
-<path stroke="#e6aa94" vector-effect="non-scaling-stroke" d="
-  M 227.27 54.82
-  Q 222.27 54.53 222.10 62.41"
-/>
-<path stroke="#e15e30" vector-effect="non-scaling-stroke" d="
-  M 222.10 62.41
-  Q 199.25 56.71 177.52 46.96"
 />
 <path stroke="#f29f48" vector-effect="non-scaling-stroke" d="
   M 216.95 32.25
