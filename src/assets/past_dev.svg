@@ -1,106 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 180.00 180.00" width="128" height="128">
-<g stroke-width="2.00" fill="none" stroke-linecap="butt">
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 20.26 0.00
-  Q 2.45 2.54 0.00 20.35"
-/>
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 159.54 0.00
-  Q 177.35 2.31 180.00 20.19"
-/>
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 180.00 159.87
-  Q 177.39 177.55 159.65 180.00"
-/>
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 20.50 180.00
-  Q 2.88 177.77 0.00 160.07"
-/>
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 94.85 81.49
-  A 0.30 0.30 0.0 0 0 94.55 81.19
-  L 51.33 81.19
-  A 0.30 0.30 0.0 0 0 51.03 81.49
-  L 51.03 98.13
-  A 0.30 0.30 0.0 0 0 51.33 98.43
-  L 94.55 98.43
-  A 0.30 0.30 0.0 0 0 94.85 98.13
-  L 94.85 81.49"
-/>
-<path stroke="#808080" vector-effect="non-scaling-stroke" d="
-  M 129.3544 81.5451
-  A 0.34 0.34 0.0 0 0 129.0150 81.2045
-  L 112.4551 81.1756
-  A 0.34 0.34 0.0 0 0 112.1145 81.5150
-  L 112.0856 98.0749
-  A 0.34 0.34 0.0 0 0 112.4250 98.4155
-  L 128.9849 98.4444
-  A 0.34 0.34 0.0 0 0 129.3255 98.1050
-  L 129.3544 81.5451"
-/>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 500 500" fill="none">
+<g clip-path="url(#clip0_19_393)">
+<rect width="500" height="500" rx="60" fill="black" />
+<rect x="203.592" y="273.452" width="47.904" height="59.88" transform="rotate(-90 203.592 273.452)" fill="white" />
+<rect x="141.716" y="273.452" width="47.904" height="61.876" transform="rotate(-90 141.716 273.452)" fill="white" />
+<rect x="311.376" y="273.452" width="47.904" height="47.904" transform="rotate(-90 311.376 273.452)" fill="white" />
 </g>
-<path fill="#ffffff" d="
-  M 20.26 0.00
-  Q 2.45 2.54 0.00 20.35
-  L 0.00 0.00
-  L 20.26 0.00
-  Z"
-/>
-<path fill="#000000" d="
-  M 159.54 0.00
-  Q 177.35 2.31 180.00 20.19
-  L 180.00 159.87
-  Q 177.39 177.55 159.65 180.00
-  L 20.50 180.00
-  Q 2.88 177.77 0.00 160.07
-  L 0.00 20.35
-  Q 2.45 2.54 20.26 0.00
-  L 159.54 0.00
-  Z
-  M 94.85 81.49
-  A 0.30 0.30 0.0 0 0 94.55 81.19
-  L 51.33 81.19
-  A 0.30 0.30 0.0 0 0 51.03 81.49
-  L 51.03 98.13
-  A 0.30 0.30 0.0 0 0 51.33 98.43
-  L 94.55 98.43
-  A 0.30 0.30 0.0 0 0 94.85 98.13
-  L 94.85 81.49
-  Z
-  M 129.3544 81.5451
-  A 0.34 0.34 0.0 0 0 129.0150 81.2045
-  L 112.4551 81.1756
-  A 0.34 0.34 0.0 0 0 112.1145 81.5150
-  L 112.0856 98.0749
-  A 0.34 0.34 0.0 0 0 112.4250 98.4155
-  L 128.9849 98.4444
-  A 0.34 0.34 0.0 0 0 129.3255 98.1050
-  L 129.3544 81.5451
-  Z"
-/>
-<path fill="#ffffff" d="
-  M 180.00 0.00
-  L 180.00 20.19
-  Q 177.35 2.31 159.54 0.00
-  L 180.00 0.00
-  Z"
-/>
-<rect fill="#ffffff" x="51.03" y="81.19" width="43.82" height="17.24" rx="0.30"/>
-<rect fill="#ffffff" x="-8.62" y="-8.62" transform="translate(120.72,89.81) rotate(0.1)" width="17.24" height="17.24" rx="0.34"/>
-<path fill="#ffffff" d="
-  M 20.50 180.00
-  L 0.00 180.00
-  L 0.00 160.07
-  Q 2.88 177.77 20.50 180.00
-  Z"
-/>
-<path fill="#ffffff" d="
-  M 180.00 159.87
-  L 180.00 180.00
-  L 159.65 180.00
-  Q 177.39 177.55 180.00 159.87
-  Z"
-/>
+<defs>
+<clipPath id="clip0_19_393">
+<rect width="500" height="500" fill="white" />
+</clipPath>
+</defs>
 </svg>
