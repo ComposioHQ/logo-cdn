@@ -1,110 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00" width="128" height="128">
-<g stroke-width="2.00" fill="none" stroke-linecap="butt">
-<path stroke="#579ee2" vector-effect="non-scaling-stroke" d="
-  M 92.68 50.85
-  L 51.75 62.63"
-/>
-<path stroke="#73b7f4" vector-effect="non-scaling-stroke" d="
-  M 51.75 62.63
-  Q 49.26 48.51 44.72 34.68"
-/>
-<path stroke="#458fe2" vector-effect="non-scaling-stroke" d="
-  M 51.75 62.63
-  Q 38.99 66.14 26.25 69.91
-  Q 25.41 70.16 24.59 69.40"
-/>
-<path stroke="#256fcb" vector-effect="non-scaling-stroke" d="
-  M 115.35 89.93
-  C 105.60 80.97 99.70 73.69 88.28 86.48
-  Q 84.21 91.05 80.16 96.11"
-/>
-<path stroke="#2165c1" vector-effect="non-scaling-stroke" d="
-  M 80.16 96.11
-  L 23.78 70.79"
-/>
-<path stroke="#1d5dbc" vector-effect="non-scaling-stroke" d="
-  M 80.16 96.11
-  L 126.59 117.39"
-/>
-<path stroke="#2165c1" vector-effect="non-scaling-stroke" d="
-  M 124.26 119.25
-  Q 120.14 118.15 115.22 117.93
-  Q 86.37 116.62 83.26 116.64
-  C 74.27 116.71 63.72 115.20 54.94 115.42
-  Q 46.77 115.63 36.90 114.74
-  Q 32.68 114.36 13.49 114.29
-  Q 7.32 114.27 1.05 109.92"
-/>
-</g>
-<path fill="#84c5f4" d="
-  M 92.68 50.85
-  L 51.75 62.63
-  Q 49.26 48.51 44.72 34.68
-  Q 51.45 23.11 58.17 11.44
-  C 60.74 6.97 67.10 6.81 69.61 11.14
-  Q 81.05 30.80 92.68 50.85
-  Z"
-/>
-<path fill="#61a8f4" d="
-  M 51.75 62.63
-  Q 38.99 66.14 26.25 69.91
-  Q 25.41 70.16 24.59 69.40
-  L 44.72 34.68
-  Q 49.26 48.51 51.75 62.63
-  Z"
-/>
-<path fill="#2976d0" d="
-  M 115.35 89.93
-  C 105.60 80.97 99.70 73.69 88.28 86.48
-  Q 84.21 91.05 80.16 96.11
-  L 23.78 70.79
-  L 24.59 69.40
-  Q 25.41 70.16 26.25 69.91
-  Q 38.99 66.14 51.75 62.63
-  L 92.68 50.85
-  L 115.35 89.93
-  Z"
-/>
-<path fill="#1853b2" d="
-  M 23.78 70.79
-  L 80.16 96.11
-  L 126.59 117.39
-  Q 125.49 118.79 124.26 119.25
-  Q 120.14 118.15 115.22 117.93
-  Q 86.37 116.62 83.26 116.64
-  C 74.27 116.71 63.72 115.20 54.94 115.42
-  Q 46.77 115.63 36.90 114.74
-  Q 32.68 114.36 13.49 114.29
-  Q 7.32 114.27 1.05 109.92
-  L 23.78 70.79
-  Z"
-/>
-<path fill="#2167c5" d="
-  M 115.35 89.93
-  L 128.00 111.88
-  L 128.00 114.70
-  L 126.59 117.39
-  L 80.16 96.11
-  Q 84.21 91.05 88.28 86.48
-  C 99.70 73.69 105.60 80.97 115.35 89.93
-  Z"
-/>
-<path fill="#2976d0" d="
-  M 124.26 119.25
-  Q 123.22 119.99 122.74 119.99
-  Q 64.09 120.02 5.43 119.98
-  A 2.03 1.94 -33.3 0 1 4.72 119.85
-  Q 1.11 118.48 0.00 114.71
-  L 0.00 112.22
-  L 1.05 109.92
-  Q 7.32 114.27 13.49 114.29
-  Q 32.68 114.36 36.90 114.74
-  Q 46.77 115.63 54.94 115.42
-  C 63.72 115.20 74.27 116.71 83.26 116.64
-  Q 86.37 116.62 115.22 117.93
-  Q 120.14 118.15 124.26 119.25
-  Z"
-/>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 80 80">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_2649_4085" x1="23" x2="52.55" y1="16.93" y2="32.23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#85ACF7" offset="0"/>
+      <stop stop-color="#79BDF5" offset=".4518"/>
+      <stop stop-color="#97D9F8" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2649_4085" x1="15.09" x2="76.36" y1="31.68" y2="73.21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3285E0" offset="0"/>
+      <stop stop-color="#2875D2" offset=".5469"/>
+      <stop stop-color="#1D61C0" offset=".8594"/>
+      <stop stop-color="#4377D0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2649_4085" x1="15.09" x2="65.44" y1="44.04" y2="78.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2256CC" offset="0"/>
+      <stop stop-color="#1856B9" offset=".1826"/>
+      <stop stop-color="#1751AE" offset=".6458"/>
+      <stop stop-color="#134BA3" offset=".8594"/>
+      <stop stop-color="#3964B9" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_2649_4085" x1="39.62" x2="39.62" y1="68.97" y2="74.93" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2158C2" stop-opacity="0" offset="0"/>
+      <stop stop-color="#4773CA" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m36.49 6.96-21.4 37.09 42.72-12.37-14.23-24.72c-1.67-2.72-5.45-2.72-7.09 0z" fill="url(#paint0_linear_2649_4085)"/>
+  <path d="m57.81 31.68-42.72 12.37-14.46 24.84c-1.7 2.83 0.49 6.05 3.6 6.05h71.66c3.23 0 5.23-3.42 3.57-6.11l-21.65-37.15z" fill="url(#paint1_linear_2649_4085)"/>
+  <path d="m15.09 44.05-14.54 24.84c-1.69 2.83 0.57 6.05 3.68 6.05h71.66c1.44 0 2.63-0.61 3.28-1.63l-64.08-29.26z" fill="url(#paint2_linear_2649_4085)"/>
+  <path d="m0.6 68.8c-1.73 2.83 0.52 6.14 3.63 6.14h71.66c1.44 0 2.63-0.61 3.28-1.52l-1.8-4.34h-75.39l-1.38-0.28z" fill="url(#paint3_linear_2649_4085)"/>
 </svg>
