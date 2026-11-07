@@ -15,9 +15,14 @@ interface Props {
 }
 
 export const getServerSideProps: GetServerSideProps<Props> = async () => {
+  const apiKey = process.env.COMPOSIO_API_KEY?.trim();
+  if (!apiKey) {
+    return { notFound: true };
+  }
+
   const res = await fetch(
     "https://backend.composio.dev/api/v3/toolkits?sort_by=usage&limit=1000",
-    { headers: { "x-api-key": "y4ru2vrbb1ms91rowhcelk" } }
+    { headers: { "x-api-key": apiKey } }
   );
   const data = await res.json();
   const assetsDir = join(process.cwd(), "src", "assets");

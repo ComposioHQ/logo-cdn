@@ -24,6 +24,15 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Logo gallery configuration
+
+The `/` gallery fetches toolkit metadata server-side using `COMPOSIO_API_KEY`. Set
+this variable in your deployment environment or a gitignored `.env.local` file.
+Do not use a `NEXT_PUBLIC_` variable or commit API keys.
+
+Without a configured key, the gallery returns 404 without calling Composio. The
+`/api/:slug` logo endpoints do not need this key and continue to work.
+
 ## Logo API
 
 Logos are served from `/api/:slug`.
