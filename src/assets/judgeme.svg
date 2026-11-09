@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 80 80">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_22373_37284" x1="41.44" x2="23.62" y1="14.49" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FBC1A" offset="0"/>
+      <stop stop-color="#55A61B" offset=".6617"/>
+      <stop stop-color="#3B8A17" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_22373_37284" x1="56.63" x2="24.58" y1="18.34" y2="73.71" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97DD2F" offset="0"/>
+      <stop stop-color="#69C021" offset=".5364"/>
+      <stop stop-color="#57AB20" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_22373_37284" x1="40" x2="40" y2="25.1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7AAAD" offset="0"/>
+      <stop stop-color="#9FA2A5" offset=".3333"/>
+      <stop stop-color="#85898D" offset=".6667"/>
+      <stop stop-color="#787C81" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m69.97 14.49h-60c-1.81 0-3.25 1.41-3.19 3.2 0.33 6.69 0.58 13.85 0.58 21.25v35.84c0 2.88 2.32 5.22 4.91 5.22h55.46c2.6 0 4.91-2.34 4.91-5.22v-35.84c0-7.4 0.25-14.56 0.61-21.25 0.09-1.79-1.41-3.2-3.28-3.2z" fill="url(#paint0_linear_22373_37284)"/>
+  <path d="m65.7 18.33h-51.49c-1.11 0-1.92 0.84-1.92 1.95v51.44c0 1.11 0.89 2 1.92 2h51.49c1.07 0 2.03-0.84 2.03-2v-51.44c0-1.11-0.9-1.95-2.03-1.95z" fill="url(#paint1_linear_22373_37284)"/>
+  <path d="m43.7 0h-7.4c-7.36 0-12.87 7.02-12.87 15.6v6.17c0 1.85 1.5 3.33 3.29 3.33 1.78 0 3.33-1.44 3.33-3.33v-5.45c0-6.22 4.64-10.56 9.95-10.56s9.92 4.63 9.92 10.7v5.31c0 1.85 1.54 3.33 3.33 3.33 1.78 0 3.26-1.44 3.26-3.33v-6.17c0-8.58-5.73-15.6-12.81-15.6z" fill="url(#paint2_linear_22373_37284)"/>
+  <path d="m48.95 53.31c0 5.94-5.2 8.86-12.16 8.86-2.96 0-6.3-0.7-8.33-1.58-1.3-0.59-1.58-1.75-1.19-2.97 0.57-1.98 1.68-2.71 3.24-2.29 2.02 0.77 4.32 1.24 6.37 1.24 3.34 0 5.04-1.31 5.04-2.97 0-2.09-2.08-2.98-4.42-3.88-3.85-1.53-7.77-3.07-7.77-8.1 0-5.74 5.03-9.1 12.14-9.1 2.08 0 4.45 0.36 6.01 0.94 1.31 0.48 1.6 1.48 1.25 2.7-0.54 1.93-1.66 2.7-2.94 2.43-1.71-0.44-3.32-0.64-4.8-0.64-3.74 0-5.43 1.27-5.43 2.94 0 1.83 1.96 2.66 4.29 3.58 4.15 1.66 8.7 3.72 8.7 8.84z" fill="#fff"/>
+</svg>
