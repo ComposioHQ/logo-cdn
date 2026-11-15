@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 256.00 256.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#f0886b" vector-effect="non-scaling-stroke" d="
+  M 101.21 113.56
+  L 100.77 114.45"
+/>
+<path stroke="#ea805d" vector-effect="non-scaling-stroke" d="
+  M 100.77 114.45
+  L 56.18 189.56"
+/>
+<path stroke="#83817c" vector-effect="non-scaling-stroke" d="
+  M 156.32 113.49
+  Q 156.28 114.19 156.25 113.70"
+/>
+<path stroke="#813d38" vector-effect="non-scaling-stroke" d="
+  M 156.25 113.70
+  L 129.31 159.56"
+/>
+<path stroke="#e83e34" vector-effect="non-scaling-stroke" d="
+  M 129.31 159.56
+  Q 127.18 157.25 124.72 153.28
+  Q 109.50 128.78 105.01 121.24
+  Q 101.90 116.02 100.77 114.45"
+/>
+<path stroke="#7b352a" vector-effect="non-scaling-stroke" d="
+  M 111.95 189.62
+  L 129.31 159.56"
+/>
+<path stroke="#167872" vector-effect="non-scaling-stroke" d="
+  M 200.77 189.59
+  L 156.25 113.70"
+/>
+</g>
+<path fill="#f2c994" d="
+  M 101.21 113.56
+  L 100.77 114.45
+  L 56.18 189.56
+  L 1.36 189.64
+  A 0.39 0.39 0.0 0 1 1.03 189.05
+  Q 38.06 128.16 73.09 67.26
+  A 0.35 0.35 0.0 0 1 73.69 67.26
+  L 101.21 113.56
+  Z"
+/>
+<path fill="#ee4642" d="
+  M 156.32 113.49
+  Q 156.28 114.19 156.25 113.70
+  L 129.31 159.56
+  Q 127.18 157.25 124.72 153.28
+  Q 109.50 128.78 105.01 121.24
+  Q 101.90 116.02 100.77 114.45
+  L 101.21 113.56
+  L 127.92 67.95
+  A 0.64 0.63 44.8 0 1 129.01 67.95
+  L 156.32 113.49
+  Z"
+/>
+<path fill="#17bcb5" d="
+  M 200.77 189.59
+  L 156.25 113.70
+  Q 156.28 114.19 156.32 113.49
+  Q 169.64 91.57 182.27 69.26
+  Q 182.73 68.44 183.06 68.23
+  A 1.31 1.31 0.0 0 1 184.88 68.67
+  L 255.40 187.97
+  A 1.15 1.14 -15.2 0 1 254.41 189.69
+  L 200.77 189.59
+  Z"
+/>
+<path fill="#14332e" d="
+  M 156.25 113.70
+  L 200.77 189.59
+  L 111.95 189.62
+  L 129.31 159.56
+  L 156.25 113.70
+  Z"
+/>
+<path fill="#e13625" d="
+  M 129.31 159.56
+  L 111.95 189.62
+  L 56.18 189.56
+  L 100.77 114.45
+  Q 101.90 116.02 105.01 121.24
+  Q 109.50 128.78 124.72 153.28
+  Q 127.18 157.25 129.31 159.56
+  Z"
+/>
+</svg>
