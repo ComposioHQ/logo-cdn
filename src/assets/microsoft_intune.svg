@@ -1,86 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 256.00 256.00" width="128" height="128">
-<g stroke-width="2.00" fill="none" stroke-linecap="butt">
-<path stroke="#f8a890" vector-effect="non-scaling-stroke" d="
-  M 121.72 0.00
-  L 121.83 121.24
-  A 0.37 0.36 -90.0 0 1 121.47 121.61
-  L 0.00 121.74"
-/>
-<path stroke="#bfdd7f" vector-effect="non-scaling-stroke" d="
-  M 135.28 0.00
-  L 135.35 121.20
-  A 0.51 0.50 -0.0 0 0 135.86 121.70
-  L 256.00 121.75"
-/>
-<path stroke="#ffdc80" vector-effect="non-scaling-stroke" d="
-  M 256.00 135.21
-  L 135.73 135.29
-  A 0.51 0.50 90.0 0 0 135.23 135.80
-  L 135.20 256.00"
-/>
-<path stroke="#80d2f7" vector-effect="non-scaling-stroke" d="
-  M 121.70 256.00
-  L 121.69 135.85
-  A 0.50 0.50 0.0 0 0 121.19 135.35
-  L 0.00 135.21"
-/>
-</g>
-<path fill="#f25022" d="
-  M 121.72 0.00
-  L 121.83 121.24
-  A 0.37 0.36 -90.0 0 1 121.47 121.61
-  L 0.00 121.74
-  L 0.00 0.00
-  L 121.72 0.00
-  Z"
-/>
-<path fill="#fefffe" d="
-  M 135.28 0.00
-  L 135.35 121.20
-  A 0.51 0.50 -0.0 0 0 135.86 121.70
-  L 256.00 121.75
-  L 256.00 135.21
-  L 135.73 135.29
-  A 0.51 0.50 90.0 0 0 135.23 135.80
-  L 135.20 256.00
-  L 121.70 256.00
-  L 121.69 135.85
-  A 0.50 0.50 0.0 0 0 121.19 135.35
-  L 0.00 135.21
-  L 0.00 121.74
-  L 121.47 121.61
-  A 0.37 0.36 -90.0 0 0 121.83 121.24
-  L 121.72 0.00
-  L 135.28 0.00
-  Z"
-/>
-<path fill="#7fba00" d="
-  M 256.00 0.00
-  L 256.00 121.75
-  L 135.86 121.70
-  A 0.51 0.50 0.0 0 1 135.35 121.20
-  L 135.28 0.00
-  L 256.00 0.00
-  Z"
-/>
-<path fill="#ffb901" d="
-  M 256.00 135.21
-  L 256.00 256.00
-  L 135.20 256.00
-  L 135.23 135.80
-  A 0.51 0.50 -90.0 0 1 135.73 135.29
-  L 256.00 135.21
-  Z"
-/>
-<path fill="#01a4ef" d="
-  M 121.70 256.00
-  L 0.00 256.00
-  L 0.00 135.21
-  L 121.19 135.35
-  A 0.50 0.50 0.0 0 1 121.69 135.85
-  L 121.70 256.00
-  Z"
-/>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_2205_4762" x1="65.43" x2="55.36" y1="11.85" y2="31.61" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1771E7" offset="0"/>
+      <stop stop-color="#0B5CE1" offset=".4"/>
+      <stop stop-color="#004ABC" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2205_4762" x1="38.33" x2="56.23" y1="6.829" y2="59.21" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97F0FF" offset="0"/>
+      <stop stop-color="#68E6FF" offset=".25"/>
+      <stop stop-color="#3DDBFF" offset=".63"/>
+      <stop stop-color="#21C6FC" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2205_4762" x1="6.691" x2="73.31" y1="51.12" y2="51.12" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F99FF" offset="0"/>
+      <stop stop-color="#22B9FC" offset=".25"/>
+      <stop stop-color="#24BDFC" offset=".62"/>
+      <stop stop-color="#20BFFC" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_2205_4762" x1="40.41" x2="33.74" y1="40.64" y2="49.26" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#128FDE" offset="0"/>
+      <stop stop-color="#22B3FC" stop-opacity="0" offset=".5"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear_2205_4762" x1="67.11" x2="67.11" y1="46.95" y2="72.75" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1098E1" offset="0"/>
+      <stop stop-color="#21B7FC" stop-opacity="0" offset=".45"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear_2205_4762" x1="19.53" x2="23.61" y1="67.73" y2="46.41" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1067E6" offset="0"/>
+      <stop stop-color="#0450CB" offset=".55"/>
+      <stop stop-color="#024CB8" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m348.7 88.26-85.5 49.09 0.704 58.43 86.85 19.78 67.2 11.84c30.59-6.464 51.26-36.74 51.26-74.56v-3.584c0-64.96-69.31-88.58-120.5-60.99z" fill="url(#paint0_linear_2205_4762)"/>
+  <path d="m158.9 59.65c-12.99-9.024-28.03-13.7-43.65-13.7-40 0-72.58 29.7-72.58 65.41v252.2l35.01 14.85 80.58-0.128 90.69-5.76 105.5 78.72c13.57 9.984 30.27 14.53 44.48 14.53 39.04 0 70.27-28.48 70.27-63.55v-252.5c0 37.7-36.74 68.67-72.96 68.67-15.94-0.192-32.58-6.144-46.02-16.38l-191.4-142.3z" fill="url(#paint1_linear_2205_4762)"/>
+  <path d="m159 199.7c-13.31-9.344-28.8-13.38-44.16-13.38-39.55 0-72 29.25-72 65.41v108.9c2.688 23.42 13.63 41.34 32.77 52.93 27.58 19.52 65.28 19.01 88.19 5.12l85.25-46.46 105.4 77.82c13.63 9.984 30.34 15.42 44.42 15.42 38.72 0 70.34-28.99 70.34-63.49v-105.3c-4.8 37.31-40.58 60.93-73.92 60.93-15.04-0.256-31.42-5.376-44.86-15.62l-191.4-142.3z" fill="url(#paint2_linear_2205_4762)"/>
+  <path d="m159 199.7-24.06 16.19 163.2 135 64.9 5.888-12.54-14.66-191.5-142.4z" fill="url(#paint3_linear_2205_4762)"/>
+  <path d="m469.2 297.6c-3.84 36.8-40.64 60.1-73.02 60.1l-46.21-0.768 12.61 64.9 1.408 29.06c11.2 10.05 24.45 14.72 35.2 14.72 38.27 0 69.95-28.42 69.95-63.49l0.064-104.5z" fill="url(#paint4_linear_2205_4762)"/>
+  <path d="m158.6 306c-13.31-9.6-28.93-14.21-44.16-14.21-39.62 0-71.55 30.27-71.55 67.78v2.944c0 59.78 69.38 85.31 117.8 60.42l88.19-50.62-90.24-66.3z" fill="url(#paint5_linear_2205_4762)"/>
 </svg>
