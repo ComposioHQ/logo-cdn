@@ -1,42 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00" width="128" height="128">
-<path fill="#f25022" d="
-  M 59.39 0.00
-  Q 60.59 -0.09 60.93 0.60
-  A 0.38 0.38 0.0 0 1 60.97 0.77
-  L 60.97 59.97
-  A 0.97 0.96 90.0 0 1 60.01 60.94
-  L 0.00 60.89
-  L 0.00 0.00
-  L 59.39 0.00
-  Z"
-/>
-<path fill="#7fba00" d="
-  M 128.00 0.00
-  L 128.00 60.86
-  L 67.46 61.06
-  A 0.50 0.50 0.0 0 1 66.95 60.56
-  L 67.06 0.00
-  L 128.00 0.00
-  Z"
-/>
-<path fill="#00a4ef" d="
-  M 60.93 128.00
-  L 0.00 128.00
-  L 0.00 67.12
-  L 60.40 67.04
-  A 0.51 0.50 90.0 0 1 60.90 67.55
-  L 60.93 128.00
-  Z"
-/>
-<path fill="#ffb900" d="
-  M 128.00 67.16
-  L 128.00 128.00
-  L 66.99 128.00
-  L 67.04 67.41
-  A 0.31 0.30 -0.0 0 1 67.35 67.11
-  L 128.00 67.16
-  Z"
-/>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_11486_41690" x1="23.99" x2="23.99" y1="2.673" y2="45.39" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5C9EED" offset="0"/>
+      <stop stop-color="#4093E8" offset=".3854"/>
+      <stop stop-color="#0B7BD9" offset=".8854"/>
+    </linearGradient>
+  </defs>
+  <path d="m384.6 126-161.4-97.49v65.28l-150 43.95-44.8 58.03v130.9l64.32 28.48v-167.9l291.8-59.31v247.9l-290.9-22.83 100.1 131v-63.89l176.2 64.21 113.7-92.8v-277.5l-99.09 12.37v-0.32z" fill="url(#paint0_linear_11486_41690)"/>
 </svg>
