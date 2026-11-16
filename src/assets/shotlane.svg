@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_2026_5992" x2="82" y2="82" gradientTransform="scale(6.244)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4F46E5" offset="0"/>
-      <stop stop-color="#783BF0" offset="1"/>
+    <linearGradient id="paint0_linear_1405_2511" x2="80" y2="80" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5246E7" offset="0"/>
+      <stop stop-color="#773CF0" offset="1"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" fill="url(#paint0_linear_2026_5992)"/>
-  <path d="m115.1 185.6v-70.49h70.74" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
-  <path d="m396.4 185.6v-70.49h-70.49" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
-  <path d="m115.1 326.2v70.37h70.74" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
-  <path d="m396.4 326.2v70.37h-70.49" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
-  <path d="m339.2 178.8h-109.3c-20.79 0-37.46 16.73-37.46 38.4 0 22.54 18.73 38.34 37.46 38.34h51.57c21.04 0 37.9 16.55 37.9 38.77 0 23.48-20.04 38.52-37.9 38.52h-108.8" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="35.27"/>
+  <rect width="512" height="512" fill="url(#paint0_linear_1405_2511)"/>
+  <path d="m115.1 185.7v-70.59h70.85" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
+  <path d="m396.5 185.7v-70.59h-70.59" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
+  <path d="m115.1 326.3v70.27h70.85" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
+  <path d="m396.5 326.3v70.27h-70.59" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="28.69"/>
+  <path d="m339.4 178.9h-109.3c-20.93 0-37.82 16.64-37.82 38.53 0 22.53 18.43 38.53 37.82 38.53h51.39c20.74 0 38.27 16.26 38.27 38.34 0 23.1-19.46 38.02-38.27 38.02h-108.9" stroke="#fff" stroke-linecap="round" stroke-width="35.06"/>
 </svg>
