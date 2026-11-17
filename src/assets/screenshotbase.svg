@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_2515_25311" x1="4.5" x2="43.5" y1="24" y2="24" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A3FD" offset="0"/>
+      <stop stop-color="#6369F5" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2515_25311" x1="10.5" x2="18" y1="14" y2="14" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A0FD" offset="0"/>
+      <stop stop-color="#6572F5" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2515_25311" x1="30" x2="37.5" y1="14" y2="14" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A0FD" offset="0"/>
+      <stop stop-color="#646EF5" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_2515_25311" x1="10.5" x2="18" y1="34" y2="34" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A1FD" offset="0"/>
+      <stop stop-color="#6571F5" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear_2515_25311" x1="30" x2="37.5" y1="34" y2="34" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A1FD" offset="0"/>
+      <stop stop-color="#646CF5" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m464 48h-416v416h416v-416z" stroke="url(#paint0_linear_2515_25311)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="m112 192v-80.64h80" stroke="url(#paint1_linear_2515_25311)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="m400 192v-80.64h-80" stroke="url(#paint2_linear_2515_25311)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="m112 320v80h80" stroke="url(#paint3_linear_2515_25311)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="m400 320v80h-80" stroke="url(#paint4_linear_2515_25311)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+</svg>
