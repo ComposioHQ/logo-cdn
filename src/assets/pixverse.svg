@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <radialGradient id="paint0_radial_2362_32959" cx="0" cy="0" r="1" gradientTransform="matrix(3.13e-14 -511.2 511.2 3.13e-14 256 511.2)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#361267" offset="0"/>
+      <stop stop-color="#17052F" offset=".5521"/>
+      <stop stop-color="#0B0118" offset="1"/>
+    </radialGradient>
+    <linearGradient id="paint1_linear_2362_32959" x1="25.67" x2="12.87" y1="40.86" y2="29.35" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4232BB" offset="0"/>
+      <stop stop-color="#C859D7" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2362_32959" x1="33.13" x2="17.15" y1="12.37" y2="28.06" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFA153" offset=".1725"/>
+      <stop stop-color="#CD69B8" offset=".6467"/>
+      <stop stop-color="#A852E2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_2362_32959" x1="24.26" x2="8.914" y1="10.61" y2="31.92" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F28990" offset="0"/>
+      <stop stop-color="#DA69F7" offset=".5374"/>
+      <stop stop-color="#974ED5" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m0 152.7c0-48.85 3.52-69.33 12.16-88.43 10.99-24 30.83-43.31 55.47-53.87 19.63-8.107 40.75-10.45 86.72-10.45h203.3c45.97 0 67.09 2.347 86.72 10.45 24.64 10.56 44.48 29.87 55.47 53.87 8.64 19.09 12.16 39.57 12.16 88.43v205.8c0 46.08-2.667 66.99-11.52 86.93-11.09 25.07-31.89 45.65-57.6 56.21-19.63 7.68-40.11 9.6-76.8 9.6h-220.2c-36.69 0-57.17-1.92-76.8-9.6-25.71-10.56-46.51-31.15-57.6-56.21-8.853-19.95-11.52-40.85-11.52-86.93v-205.8z" fill="url(#paint0_radial_2362_32959)"/>
+  <path d="m153.1 395.9 94.29 44.69c21.44 10.13 42.35-10.45 35.52-31.57l-24.11-78.93-105.7 60.37v5.44z" fill="url(#paint1_linear_2362_32959)"/>
+  <path d="m208.3 79.15-20.59 20.48 71.04 231.3 109.5-65.92c23.36-14.4 28.05-46.08 9.387-66.24l-107.6-118.3c-16.96-17.71-44.8-17.71-61.76-1.28z" fill="url(#paint2_linear_2362_32959)"/>
+  <path d="m166.3 121.1c-8.853 8.747-13.23 20.27-13.23 33.28v241.6l105.7-65.07-70.51-230.5-21.97 20.69z" fill="url(#paint3_linear_2362_32959)"/>
+</svg>
