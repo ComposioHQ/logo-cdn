@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_1208_8448" x1="14.05" x2="40.18" y1="23.92" y2="23.92" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0036B9" offset="0"/>
-      <stop stop-color="#2472ED" offset=".8495"/>
+    <linearGradient id="paint0_linear_1510_86138" x1="14.04" x2="40.23" y1="23.94" y2="23.94" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0237C1" offset="0"/>
+      <stop stop-color="#185CDD" offset=".5417"/>
+      <stop stop-color="#1F72F0" offset="1"/>
     </linearGradient>
-    <linearGradient id="paint1_linear_1208_8448" x1="1.348" x2="46.65" y1="23.99" y2="23.99" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2861FF" offset="0"/>
-      <stop stop-color="#49A6FF" offset="1"/>
+    <linearGradient id="paint1_linear_1510_86138" x1="1.352" x2="46.65" y1="24" y2="24" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2762FF" offset="0"/>
+      <stop stop-color="#4CA4FF" offset="1"/>
     </linearGradient>
   </defs>
-  <path d="m428.6 187.6h-255.6c-15.36 17.71-23.15 41.17-23.15 67.52 0 27.63 9.067 53.01 24 68.37h254.7v-135.9z" fill="url(#paint0_linear_1208_8448)"/>
-  <circle cx="428.6" cy="255.2" r="68.97" fill="#449AFF"/>
-  <path d="m428.6 360.9h-172.6c-58.99 0-106.1-48-106.1-105.7 0-59.09 47.57-105.5 106.1-105.5h172.6c37.33 0 69.01-30.29 69.01-68.91 0-37.87-30.61-66.56-69.01-66.56h-177.1c-129.6 0-237.1 107.2-237.1 241 0 135.9 107.3 242.5 239.9 242.5h174.3c36.69 0 69.01-29.44 69.01-68.05 0-38.08-32.64-68.69-69.01-68.69z" fill="url(#paint1_linear_1208_8448)"/>
+  <path d="m429.1 187.7h-256.7c-15.04 17.71-22.61 41.28-22.61 67.63 0 27.31 8.64 52.37 23.15 68.05h256.2v-135.7z" fill="url(#paint0_linear_1510_86138)"/>
+  <circle cx="429.1" cy="255.3" r="68.2" fill="#489BFF"/>
+  <path d="m428.4 360.7h-173c-59.41 0-105.6-47.57-105.6-105.4 0-59.09 48-105.4 105.6-105.4h173c37.33 0 69.23-30.19 69.23-69.01 0-37.87-30.19-66.56-67.95-66.56h-176.9c-129.7 0-238.4 106.2-238.4 241 0 138.2 107.8 242.2 241 242.2h173c36.48 0 69.23-28.91 69.23-68.37 0-38.61-32.75-68.48-69.23-68.48z" fill="url(#paint1_linear_1510_86138)"/>
 </svg>
