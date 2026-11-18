@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_5448_36926" x2="44" y1="22" y2="22" gradientTransform="scale(11.64)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00D44F" offset="0"/>
-      <stop stop-color="#03C688" offset="1"/>
+    <linearGradient id="paint0_linear_18645_37615" x2="88" y1="44" y2="44" gradientTransform="scale(5.818)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D250" offset="0"/>
+      <stop stop-color="#02C68A" offset="1"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" fill="#18D872"/>
-  <path d="m0 139.6c0-77.15 62.49-139.6 139.6-139.6h232.7c77.15 0 139.6 62.49 139.6 139.6v232.7c0 77.15-62.49 139.6-139.6 139.6h-232.7c-77.15 0-139.6-62.49-139.6-139.6v-232.7z" fill="url(#paint0_linear_5448_36926)"/>
-  <path d="m279.4 93.32-104.8 209.1h81.34l-23.16 139.8 127.8-209.3h-81.11l23.16-139.5h-23.16z" fill="#0D1822"/>
+  <rect width="512" height="512" fill="#19D675"/>
+  <path d="m371.7 0h-231.4c-77.44 0-140.3 62.84-140.3 140.3v231.4c0 77.44 62.84 140.3 140.3 140.3h231.4c77.44 0 140.3-62.84 140.3-140.3v-231.4c0-77.44-62.84-140.3-140.3-140.3z" fill="url(#paint0_linear_18645_37615)"/>
+  <path d="m279.5 93.27-105.1 209h81.4l-22.81 139.6 127.4-209h-80.87l22.92-139.7h-22.92z" fill="#0C1821"/>
 </svg>
