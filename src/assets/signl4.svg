@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <radialGradient id="paint0_radial_3420_5895" cx="0" cy="0" r="1" gradientTransform="matrix(125 0 0 125 168.9 167.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B00" offset="0"/>
+      <stop stop-color="#E86300" stop-opacity=".8239" offset=".3594"/>
+      <stop stop-color="#943A07" stop-opacity=".2694" offset=".724"/>
+      <stop stop-color="#481D05" stop-opacity="0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="#000"/>
+  <circle cx="168.9" cy="167.8" r="125" fill="url(#paint0_radial_3420_5895)"/>
+  <circle cx="168.9" cy="167.4" r="54.14" fill="#fff"/>
+  <circle cx="168.2" cy="344.3" r="54.42" fill="#1AB6F7"/>
+  <circle cx="343.9" cy="169.1" r="53.02" fill="#1AB6F7"/>
+  <circle cx="343.8" cy="344.3" r="53.5" fill="#1AB6F7"/>
+</svg>
