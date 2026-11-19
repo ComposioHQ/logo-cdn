@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <radialGradient id="paint0_radial_2101_7392" cx="0" cy="0" r="1" gradientTransform="matrix(315.4 0 0 315.4 258.4 82.34)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FE7805" offset=".1927" />
-      <stop stop-color="#FE4D0F" offset=".3813" />
-      <stop stop-color="#FE3656" offset=".4948" />
-      <stop stop-color="#F654A8" offset=".5987" />
-      <stop stop-color="#D861E7" offset=".6822" />
-      <stop stop-color="#9B72FF" offset=".7708" />
-      <stop stop-color="#5F72FF" offset=".8739" />
-      <stop stop-color="#8AA9FF" offset="1" />
+    <radialGradient id="paint0_radial_1424_5263" cx="0" cy="0" r="1" gradientTransform="matrix(339.7 0 0 339.7 275.5 82.49)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8000" offset="0" />
+      <stop stop-color="#FF8000" offset=".1667" />
+      <stop stop-color="#FF5707" offset=".3229" />
+      <stop stop-color="#FF3927" offset=".4479" />
+      <stop stop-color="#F84793" offset=".5677" />
+      <stop stop-color="#DA66E9" offset=".6875" />
+      <stop stop-color="#9175FD" offset=".8125" />
+      <stop stop-color="#5D72FD" offset=".9167" />
+      <stop stop-color="#8CA9FF" offset="1" />
     </radialGradient>
   </defs>
-  <path d="m335.2 208.7h-30.02v-34.94c0-50.18-40.13-91.14-92.16-91.14-50.05 0-90.18 40.96-90.18 91.14v218.2h212.4c51.46 0 91.46-41.02 91.46-91.58 0-50.3-41.02-91.71-91.46-91.71z" fill="url(#paint0_radial_2101_7392)" />
+  <path d="m335.2 208.7h-30.14v-34.82c0-50.82-40.7-91.39-91.97-91.39-50.11 0-90.24 41.34-90.24 91.39v218.2h211.6c51.84 0 92.22-41.22 92.22-91.9 0-50.69-41.54-91.52-91.46-91.52z" fill="url(#paint0_radial_1424_5263)" />
 </svg>
