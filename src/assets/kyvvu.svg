@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 180.00 180.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#d54d01" vector-effect="non-scaling-stroke" d="
+  M 157.48 157.43
+  L 90.01 90.09"
+/>
+<path stroke="#e66608" vector-effect="non-scaling-stroke" d="
+  M 90.01 90.09
+  Q 89.92 90.26 89.55 89.94"
+/>
+<path stroke="#de5500" vector-effect="non-scaling-stroke" d="
+  M 89.55 89.94
+  Q 89.43 89.75 89.39 89.58
+  Q 89.33 89.33 89.22 89.22
+  Q 56.42 56.41 23.70 23.52
+  Q 23.21 23.03 22.54 23.04"
+/>
+<path stroke="#f77708" vector-effect="non-scaling-stroke" d="
+  M 89.55 89.94
+  L 56.27 89.96"
+/>
+<path stroke="#f6a033" vector-effect="non-scaling-stroke" d="
+  M 56.27 89.96
+  Q 55.95 90.13 55.85 90.11"
+/>
+<path stroke="#f78011" vector-effect="non-scaling-stroke" d="
+  M 55.85 90.11
+  L 23.49 89.99"
+/>
+<path stroke="#f76f01" vector-effect="non-scaling-stroke" d="
+  M 23.49 89.99
+  L 22.53 90.77"
+/>
+<path stroke="#ee7712" vector-effect="non-scaling-stroke" d="
+  M 56.17 123.84
+  Q 56.56 123.40 56.39 123.66"
+/>
+<path stroke="#ee6f09" vector-effect="non-scaling-stroke" d="
+  M 90.01 90.09
+  L 56.39 123.66"
+/>
+<path stroke="#ff9119" vector-effect="non-scaling-stroke" d="
+  M 56.39 123.66
+  L 56.23 106.82"
+/>
+<path stroke="#ffb13b" vector-effect="non-scaling-stroke" d="
+  M 56.23 106.82
+  L 56.27 89.96"
+/>
+<path stroke="#ffb944" vector-effect="non-scaling-stroke" d="
+  M 56.23 106.82
+  L 39.50 106.86"
+/>
+<path stroke="#ffb944" vector-effect="non-scaling-stroke" d="
+  M 55.85 90.11
+  L 39.31 106.74"
+/>
+<path stroke="#ff8812" vector-effect="non-scaling-stroke" d="
+  M 23.49 89.99
+  Q 23.35 90.72 23.54 90.92
+  Q 31.15 98.83 39.31 106.74"
+/>
+<path stroke="#ffa833" vector-effect="non-scaling-stroke" d="
+  M 39.31 106.74
+  Q 39.24 106.28 39.50 106.86"
+/>
+<path stroke="#ff8812" vector-effect="non-scaling-stroke" d="
+  M 39.50 106.86
+  L 56.17 123.84"
+/>
+<path stroke="#ee6601" vector-effect="non-scaling-stroke" d="
+  M 56.17 123.84
+  Q 40.39 139.73 24.48 155.48
+  Q 23.69 156.26 22.76 156.46"
+/>
+</g>
+<path fill="#cd4400" d="
+  M 157.48 157.43
+  L 90.01 90.09
+  Q 89.92 90.26 89.55 89.94
+  Q 89.43 89.75 89.39 89.58
+  Q 89.33 89.33 89.22 89.22
+  Q 56.42 56.41 23.70 23.52
+  Q 23.21 23.03 22.54 23.04
+  Q 22.45 22.60 22.76 22.60
+  Q 89.78 22.48 156.93 22.57
+  A 0.50 0.50 0.0 0 1 157.43 23.07
+  L 157.48 157.43
+  Z"
+/>
+<path fill="#ee6600" d="
+  M 89.55 89.94
+  L 56.27 89.96
+  Q 55.95 90.13 55.85 90.11
+  L 23.49 89.99
+  L 22.53 90.77
+  L 22.54 23.04
+  Q 23.21 23.03 23.70 23.52
+  Q 56.42 56.41 89.22 89.22
+  Q 89.33 89.33 89.39 89.58
+  Q 89.43 89.75 89.55 89.94
+  Z"
+/>
+<path fill="#ff8810" d="
+  M 89.55 89.94
+  Q 89.92 90.26 90.01 90.09
+  L 56.39 123.66
+  L 56.23 106.82
+  L 56.27 89.96
+  L 89.55 89.94
+  Z"
+/>
+<path fill="#ff7701" d="
+  M 23.49 89.99
+  Q 23.35 90.72 23.54 90.92
+  Q 31.15 98.83 39.31 106.74
+  Q 39.24 106.28 39.50 106.86
+  L 56.17 123.84
+  Q 40.39 139.73 24.48 155.48
+  Q 23.69 156.26 22.76 156.46
+  Q 22.70 156.33 22.64 156.19
+  A 0.95 0.92 -58.0 0 1 22.56 155.81
+  L 22.53 90.77
+  L 23.49 89.99
+  Z"
+/>
+<path fill="#ff9922" d="
+  M 55.85 90.11
+  L 39.31 106.74
+  Q 31.15 98.83 23.54 90.92
+  Q 23.35 90.72 23.49 89.99
+  L 55.85 90.11
+  Z"
+/>
+<path fill="#fed965" d="
+  M 56.27 89.96
+  L 56.23 106.82
+  L 39.50 106.86
+  Q 39.24 106.28 39.31 106.74
+  L 55.85 90.11
+  Q 55.95 90.13 56.27 89.96
+  Z"
+/>
+<path fill="#dd5501" d="
+  M 90.01 90.09
+  L 157.48 157.43
+  L 22.89 157.46
+  A 0.28 0.28 0.0 0 1 22.64 157.31
+  Q 22.43 156.92 22.76 156.46
+  Q 23.69 156.26 24.48 155.48
+  Q 40.39 139.73 56.17 123.84
+  Q 56.56 123.40 56.39 123.66
+  L 90.01 90.09
+  Z"
+/>
+<path fill="#ff9922" d="
+  M 56.23 106.82
+  L 56.39 123.66
+  Q 56.56 123.40 56.17 123.84
+  L 39.50 106.86
+  L 56.23 106.82
+  Z"
+/>
+</svg>
