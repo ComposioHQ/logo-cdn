@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_6447_81288" x1="40" x2="40" y2="80" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#330348" offset="0"/>
+      <stop stop-color="#230235" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_6447_81288" x1="51.22" x2="34.7" y1="17.41" y2="65.45" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDD1C9" offset="0"/>
+      <stop stop-color="#F2C9CE" offset=".224"/>
+      <stop stop-color="#F6AFD3" offset=".4271"/>
+      <stop stop-color="#E38CCF" offset=".6719"/>
+      <stop stop-color="#9196D9" offset=".8542"/>
+      <stop stop-color="#6D95DC" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#paint0_linear_6447_81288)"/>
+  <path d="m357.2 111.4c-20.99 0-36.42 17.79-45.38 31.62-3.712 5.888-12.22 5.888-15.74 0.256-8.768-13.25-24.13-22.21-40.38-22.21-16.32 0-32.13 9.152-40.45 22.21-3.52 5.76-12.03 5.632-15.74-0.256-9.152-13.95-24.77-31.62-46.27-31.62-26.5 0-45.63 18.43-45.63 43.07 0 17.15 7.168 34.18 17.09 59.07 6.848 17.09 10.24 34.18 10.24 52.29 0 16.7-2.88 32.64-8.192 47.49-2.56 7.552-3.776 15.23-3.776 23.17 0 37.06 30.78 63.81 59.97 63.81 11.78 0 23.04-4.352 31.81-10.56 12.54-9.024 27.2-17.09 40.96-17.09 14.34 0 28.29 8.448 40.38 17.09 9.216 6.336 21.12 10.56 32.7 10.56 30.66 0 60.61-27.9 60.61-63.81 0-7.936-1.344-15.62-3.904-23.17-5.632-15.62-8.96-32.19-8.96-48 0-17.6 3.328-35.14 9.728-50.88 10.18-25.22 17.66-43.14 17.66-59.97 0-25.02-19.97-43.07-46.72-43.07z" fill="url(#paint1_linear_6447_81288)"/>
+  <ellipse cx="215.6" cy="243.6" rx="20.52" ry="38.39" fill="#2D033E"/>
+  <ellipse cx="295.8" cy="243.6" rx="20.52" ry="38.39" fill="#2D033E"/>
+</svg>
