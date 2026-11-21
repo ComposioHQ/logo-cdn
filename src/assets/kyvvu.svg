@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 180.00 180.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#de5500" vector-effect="non-scaling-stroke" d="
+  M 22.60 22.52
+  L 89.62 89.93"
+/>
+<path stroke="#f77708" vector-effect="non-scaling-stroke" d="
+  M 89.62 89.93
+  L 56.27 89.95"
+/>
+<path stroke="#f6a033" vector-effect="non-scaling-stroke" d="
+  M 56.27 89.95
+  Q 55.97 90.20 55.41 90.05"
+/>
+<path stroke="#f78011" vector-effect="non-scaling-stroke" d="
+  M 55.41 90.05
+  L 23.32 90.03"
+/>
+<path stroke="#f76f01" vector-effect="non-scaling-stroke" d="
+  M 23.32 90.03
+  L 22.54 90.77"
+/>
+<path stroke="#d54d01" vector-effect="non-scaling-stroke" d="
+  M 157.44 157.44
+  L 89.92 90.18"
+/>
+<path stroke="#e66608" vector-effect="non-scaling-stroke" d="
+  M 89.92 90.18
+  Q 89.67 89.91 89.62 89.93"
+/>
+<path stroke="#ffb944" vector-effect="non-scaling-stroke" d="
+  M 56.23 106.82
+  L 39.49 106.86"
+/>
+<path stroke="#ee6f09" vector-effect="non-scaling-stroke" d="
+  M 89.92 90.18
+  L 56.39 123.66"
+/>
+<path stroke="#ff9119" vector-effect="non-scaling-stroke" d="
+  M 56.39 123.66
+  L 56.23 106.82"
+/>
+<path stroke="#ffb13b" vector-effect="non-scaling-stroke" d="
+  M 56.23 106.82
+  L 56.27 89.95"
+/>
+<path stroke="#ff8812" vector-effect="non-scaling-stroke" d="
+  M 23.32 90.03
+  Q 23.41 90.85 24.40 91.86
+  Q 31.74 99.35 39.19 106.65"
+/>
+<path stroke="#ffa833" vector-effect="non-scaling-stroke" d="
+  M 39.19 106.65
+  Q 39.42 106.45 39.49 106.86"
+/>
+<path stroke="#ff8812" vector-effect="non-scaling-stroke" d="
+  M 39.49 106.86
+  L 56.17 123.84"
+/>
+<path stroke="#ee6601" vector-effect="non-scaling-stroke" d="
+  M 56.17 123.84
+  Q 40.45 139.67 24.63 155.38
+  Q 23.78 156.22 22.76 156.46"
+/>
+<path stroke="#ffb944" vector-effect="non-scaling-stroke" d="
+  M 55.41 90.05
+  Q 55.36 90.92 54.64 91.64
+  Q 47.26 99.01 39.83 106.34
+  Q 39.70 106.46 39.19 106.65"
+/>
+<path stroke="#ee7712" vector-effect="non-scaling-stroke" d="
+  M 56.17 123.84
+  Q 56.49 123.45 56.39 123.66"
+/>
+</g>
+<path fill="#ee6600" d="
+  M 22.60 22.52
+  L 89.62 89.93
+  L 56.27 89.95
+  Q 55.97 90.20 55.41 90.05
+  L 23.32 90.03
+  L 22.54 90.77
+  L 22.60 22.52
+  Z"
+/>
+<path fill="#cd4400" d="
+  M 157.44 157.44
+  L 89.92 90.18
+  Q 89.67 89.91 89.62 89.93
+  L 22.60 22.52
+  L 156.84 22.59
+  A 0.51 0.51 0.0 0 1 157.35 23.10
+  L 157.44 157.44
+  Z"
+/>
+<path fill="#ff8810" d="
+  M 89.62 89.93
+  Q 89.67 89.91 89.92 90.18
+  L 56.39 123.66
+  L 56.23 106.82
+  L 56.27 89.95
+  L 89.62 89.93
+  Z"
+/>
+<path fill="#ff7701" d="
+  M 23.32 90.03
+  Q 23.41 90.85 24.40 91.86
+  Q 31.74 99.35 39.19 106.65
+  Q 39.42 106.45 39.49 106.86
+  L 56.17 123.84
+  Q 40.45 139.67 24.63 155.38
+  Q 23.78 156.22 22.76 156.46
+  Q 22.70 156.33 22.64 156.19
+  A 0.95 0.92 -58.0 0 1 22.56 155.81
+  L 22.54 90.77
+  L 23.32 90.03
+  Z"
+/>
+<path fill="#ff9922" d="
+  M 55.41 90.05
+  Q 55.36 90.92 54.64 91.64
+  Q 47.26 99.01 39.83 106.34
+  Q 39.70 106.46 39.19 106.65
+  Q 31.74 99.35 24.40 91.86
+  Q 23.41 90.85 23.32 90.03
+  L 55.41 90.05
+  Z"
+/>
+<path fill="#fed965" d="
+  M 56.27 89.95
+  L 56.23 106.82
+  L 39.49 106.86
+  Q 39.42 106.45 39.19 106.65
+  Q 39.70 106.46 39.83 106.34
+  Q 47.26 99.01 54.64 91.64
+  Q 55.36 90.92 55.41 90.05
+  Q 55.97 90.20 56.27 89.95
+  Z"
+/>
+<path fill="#dd5501" d="
+  M 89.92 90.18
+  L 157.44 157.44
+  L 22.94 157.46
+  A 0.37 0.36 -10.5 0 1 22.60 157.23
+  Q 22.46 156.87 22.76 156.46
+  Q 23.78 156.22 24.63 155.38
+  Q 40.45 139.67 56.17 123.84
+  Q 56.49 123.45 56.39 123.66
+  L 89.92 90.18
+  Z"
+/>
+<path fill="#ff9922" d="
+  M 56.23 106.82
+  L 56.39 123.66
+  Q 56.49 123.45 56.17 123.84
+  L 39.49 106.86
+  L 56.23 106.82
+  Z"
+/>
+</svg>
