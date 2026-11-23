@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_8940_14851" x1="11.45" x2="34.39" y1="16.64" y2="5.975" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4076" offset="0"/>
+      <stop stop-color="#FF2432" offset=".2372"/>
+      <stop stop-color="#FF2C29" offset=".5326"/>
+      <stop stop-color="#FE7602" offset=".7582"/>
+      <stop stop-color="#FCCF00" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_8940_14851" x1="40.23" x2="41.22" y1="20.33" y2="35.48" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCD500" offset="0"/>
+      <stop stop-color="#96D707" offset=".3229"/>
+      <stop stop-color="#22C936" offset=".6406"/>
+      <stop stop-color="#00BE56" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_8940_14851" x1="14.52" x2="36.07" y1="31.87" y2="26.23" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0587FF" offset="0"/>
+      <stop stop-color="#0591F7" offset=".3646"/>
+      <stop stop-color="#03AB9F" offset=".6458"/>
+      <stop stop-color="#05BE4D" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m424.4 162.9c-29.33-65.49-94.51-109.3-169.8-109.3-88.96 0-163.4 64-177.7 141.2l106.2-16c17.28-21.33 43.41-34.45 72.21-34.45 41.28 0 77.55 27.09 89.39 66.35l7.253 23.25 23.36 9.067 51.2-71.79-2.133-8.32z" fill="url(#paint0_linear_8940_14851)"/>
+  <path d="m427.8 169.1-6.187-4.907-68.37 69.65 15.36 6.72c22.93 8.107 36.59 28.59 36.59 53.23 0 31.47-26.45 55.79-57.6 55.79h-198l0.32 91.09h195.4c83.41 0 150.5-65.17 150.5-146.5 0-51.31-25.49-97.92-68.05-125.1z" fill="url(#paint1_linear_8940_14851)"/>
+  <path d="m149.5 349.7c-24 0-42.56-19.52-42.56-43.52 0-23.47 19.73-42.13 41.92-42.13 13.23 0 24.75 7.04 33.49 16.11l6.293 6.187 63.68-64c-24.64-29.87-62.4-48.96-104.2-48.96-73.6 0-132.4 59.73-132.4 133 0 77.55 63.15 134.3 137.7 134.3h92.05v-90.99h-96z" fill="url(#paint2_linear_8940_14851)"/>
+  <path d="m368.7 240.6-16.75-6.827-7.253-23.15c-11.84-39.25-48.85-66.35-89.39-66.35-28.8 0-56.75 13.65-71.47 33.6 26.35 7.253 52.48 24 68.37 44.37l-63.47 64-6.293-6.293c-8.747-9.28-20.37-16-32.75-16-23.15 0-42.67 18.67-42.67 42.13 0 24.11 19.41 43.52 42.88 43.52h198c31.25 0 57.17-24.53 57.17-55.79 0-24.96-14.51-44.05-36.37-53.23z" fill="#fff"/>
+</svg>
