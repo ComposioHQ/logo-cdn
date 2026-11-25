@@ -1,20 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_1495_1262" x1="39.98" x2="39.98" y1="16.92" y2="32.87" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff" offset="0" />
-      <stop stop-color="#FCFCFC" offset=".5521" />
-      <stop stop-color="#F2F2F4" offset="1" />
-    </linearGradient>
-    <linearGradient id="paint1_linear_1495_1262" x1="39.66" x2="30.32" y1="32.87" y2="61.31" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FCFCFC" offset="0" />
-      <stop stop-color="#E2E2E4" offset=".5573" />
-      <stop stop-color="#C9C9CD" offset="1" />
+    <linearGradient id="paint0_linear_1264_5187" x1="39.99" x2="39.99" y1="16.98" y2="64.99" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" offset="0"/>
+      <stop stop-color="#EFEFF1" offset=".3802"/>
+      <stop stop-color="#BEBFC4" offset="1"/>
     </linearGradient>
   </defs>
-  <path d="m400.3 80.26h-265.2v260.5h265.2v-260.5z" fill="#121212" fill-opacity=".8" opacity=".2" />
-  <path d="m366.4 338.3h-238.6v89.98h238.6v-89.98z" fill="#121212" fill-opacity=".6" opacity=".3" />
-  <path d="m428.5 87.62h-311.6v67.65h311.6v-67.65z" fill="#fff" fill-opacity=".5" opacity=".08" />
-  <path d="m153.1 108 100.9 102.3h103.4v-102l-204.3-0.32z" fill="url(#paint0_linear_1495_1262)" />
-  <path d="m154.7 210.4v103l101.3 102.3v-103.8h97.6l-99.14-101.5h-99.78z" fill="url(#paint1_linear_1495_1262)" />
+  <rect width="512" height="512" fill="#373737"/>
+  <rect y="19.12" width="512" height="10.88" fill="#4F4F4F"/>
+  <rect y="441.6" width="512" height="30.37" fill="#4F4F4F"/>
+  <rect y="471.9" width="512" height="40.12" fill="#D9D9D9" fill-opacity=".5"/>
+  <rect x=".2" y="471.9" width="511.8" height="40.12" fill="#D9D9D9" fill-opacity=".2"/>
+  <g opacity=".2">
+    <rect x=".2" y="471.9" width="511.8" height="5.437" fill="#B6B6B6" fill-opacity=".6"/>
+    <rect x=".2" y="482.8" width="511.8" height="5.437" fill="#D9D9D9" fill-opacity=".6"/>
+    <rect x=".2" y="499.2" width="511.8" height="5.437" fill="#D9D9D9" fill-opacity=".4"/>
+  </g>
+  <g opacity=".6">
+    <rect y="19.12" width="99.75" height="10.88" fill="#797979" fill-opacity=".5"/>
+    <rect x="99.75" y="19.12" width="99.75" height="10.88" fill="#6B6B6B" fill-opacity=".6"/>
+    <rect x="199.5" y="19.12" width="132.3" height="10.88" fill="#5A5A5A" fill-opacity=".7"/>
+    <rect x="331.7" y="19.12" width="111" height="10.88" fill="#636363" fill-opacity=".7"/>
+    <rect x="442.8" y="19.12" width="69.25" height="10.88" fill="#545454" fill-opacity=".7"/>
+  </g>
+  <g fill-opacity=".5" opacity=".2">
+    <rect y="39.88" width="500.8" height="20.31" fill="#282828"/>
+    <rect x="500.8" y="30" width="10.95" height="391.4" fill="#0D0D0D"/>
+  </g>
+  <rect y="380.4" width="512" height="50.15" fill="#373737" fill-opacity=".6"/>
+  <rect y="441.6" width="512" height="3.45" fill="#545454" fill-opacity=".6"/>
+  <radialGradient id="paint1_radial_1264_5187" cx="0" cy="0" r="1" gradientTransform="matrix(1.174e-14 191.7 -191.5 1.172e-14 256.2 259.3)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#131313" offset=".3646"/>
+    <stop stop-color="#292929" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <ellipse cx="256.2" cy="259.3" rx="191.5" ry="191.7" fill="url(#paint1_radial_1264_5187)"/>
+  <path d="m154.3 108.7 101.3 102.1h101.9v-102.1h-203.2zm-0.128 102.1v103.9l101.5 101.2h0.256v-103h100.2l-100.5-102.1h-101.4z" fill="url(#paint0_linear_1264_5187)"/>
 </svg>
