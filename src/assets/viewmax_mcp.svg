@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_3607_31222" x2="32" y1="16" y2="16" gradientTransform="scale(16)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#3F5FF9" offset="0"/>
-      <stop stop-color="#A652B0" offset=".526"/>
-      <stop stop-color="#FC4568" offset="1"/>
+    <linearGradient id="paint0_linear_259_1825" x2="80" y1="40" y2="40" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3E60F9" offset="0"/>
+      <stop stop-color="#A352B3" offset=".5052"/>
+      <stop stop-color="#FC4768" offset="1"/>
     </linearGradient>
   </defs>
-  <path d="m0 128c0-70.72 57.28-128 128-128h256c70.72 0 128 57.28 128 128v256c0 70.72-57.28 128-128 128h-256c-70.72 0-128-57.28-128-128v-256z" fill="url(#paint0_linear_3607_31222)"/>
-  <circle cx="256" cy="256" r="137.5" stroke="#fff" stroke-width="33.48"/>
-  <path d="m313.8 242.1-76.48-48.64c-11.2-7.2-25.44 0.48-25.44 13.76v97.6c0 13.76 14.56 21.44 25.76 14.24l76.16-48.96c10.56-6.72 10.56-21.6 0-28z" fill="#fff"/>
+  <path d="m384 0h-256c-70.72 0-128 57.28-128 128v256c0 70.72 57.28 128 128 128h256c70.72 0 128-57.28 128-128v-256c0-70.72-57.28-128-128-128z" fill="url(#paint0_linear_259_1825)"/>
+  <circle cx="256" cy="256" r="137.6" stroke="#fff" stroke-width="33.28"/>
+  <path d="m313.7 242.2-76.61-48.77c-11.46-7.424-25.28 0.768-25.28 13.76v97.66c0 13.57 14.66 21.25 25.92 14.14l76.1-48.77c10.62-7.104 10.69-21.5-0.128-28.03z" fill="#fff"/>
 </svg>
