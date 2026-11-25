@@ -18,6 +18,10 @@
   M 142.52 190.50
   L 38.82 130.83"
 />
+<path stroke="#1c19cf" vector-effect="non-scaling-stroke" d="
+  M 255.99 256.02
+  L 255.96 386.85"
+/>
 <path stroke="#7270e0" vector-effect="non-scaling-stroke" d="
   M 255.97 507.01
   L 256.01 387.11"
@@ -45,10 +49,6 @@
 <path stroke="#4442e0" vector-effect="non-scaling-stroke" d="
   M 255.96 386.85
   Q 255.87 386.76 256.01 387.11"
-/>
-<path stroke="#1c19cf" vector-effect="non-scaling-stroke" d="
-  M 255.99 256.02
-  L 255.96 386.85"
 />
 </g>
 <path fill="#a4a0f8" d="
