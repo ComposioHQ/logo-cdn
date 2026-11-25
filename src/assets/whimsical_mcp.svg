@@ -1,17 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_2603_4796" x1="-.1035" x2="79.52" y1="39.65" y2="39.65" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#3139FF" offset="0"/>
-      <stop stop-color="#8B42FC" offset=".5156"/>
-      <stop stop-color="#DD62FD" offset="1"/>
+    <linearGradient id="paint0_linear_1007_2885" x1="-.04004" x2="79.6" y1="39.6" y2="39.6" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3E37FD" offset="0"/>
+      <stop stop-color="#8F41FB" offset=".5104"/>
+      <stop stop-color="#E072FA" offset="1"/>
     </linearGradient>
-    <clipPath id="clip0_2603_4796">
-      <rect transform="translate(-.1035)" width="79.55" height="79.3" fill="#fff"/>
-    </clipPath>
   </defs>
-  <g transform="scale(6.4)" clip-path="url(#clip0_2603_4796)">
-    <circle cx="39.72" cy="39.65" r="39.73" fill="url(#paint0_linear_2603_4796)"/>
-    <path d="m66.65 38.58-17.37-17.4c-0.79-0.78-2.06-0.78-2.85 0l-6.17 6.13-6.47-6.4c-0.86-0.83-2.27-0.83-3.13 0l-17.67 17.65c-0.84 0.83-0.84 2.18 0 3.02l17.58 17.53c0.89 0.87 2.28 0.92 3.14 0.06l6.51-6.46 6.15 6.05c0.82 0.82 2.15 0.86 2.93 0.06l17.35-17.35c0.87-0.82 0.87-2.09 0-2.89zm-34.01 16.96c-0.34 0.32-0.81 0.32-1.13 0l-14.83-14.9c-0.33-0.32-0.33-0.8 0-1.12l14.97-15c0.31-0.32 0.76-0.32 1.08 0l5.19 5.05-9.15 9.05c-0.86 0.85-0.86 2.06 0 2.88l9.1 8.98-5.23 5.06z" fill="#fff"/>
-  </g>
+  <circle cx="254.6" cy="253.4" r="253.6" fill="url(#paint0_linear_1007_2885)"/>
+  <path d="m422.1 244.4-102.9-104.3c-6.656-6.208-17.28-6.208-23.81 0.192l-39.23 38.66-38.21-38.34c-6.912-6.464-17.92-6.464-24.7 0.128l-103.7 103.4c-6.784 6.848-6.528 18.43 0.384 25.28l102.9 102.2c6.784 6.848 18.18 7.36 24.96 0.512l39.04-39.04 38.85 38.14c6.656 6.656 17.54 6.976 23.94 0.384l102.6-102c7.424-7.232 7.616-18.43-0.128-25.28zm-211.5 107c-3.392 3.456-7.808 2.944-11.52-0.64l-88.19-88.19c-3.392-3.52-3.136-8.384 0.128-11.71l88.58-89.09c3.648-3.648 8-3.648 11.65-0.128l31.55 32-52.54 51.78c-6.336 6.336-6.336 16.64 0.128 22.78l52.61 51.07-32.38 32.13z" fill="#fff"/>
 </svg>
