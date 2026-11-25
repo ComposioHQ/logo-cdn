@@ -1,0 +1,21 @@
+<svg width="128" height="128" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tile" x1="6" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef2f6"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="16" y1="48" x2="48" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <!-- rounded app-icon tile -->
+  <rect x="3" y="3" width="58" height="58" rx="15" fill="url(#tile)" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- X: navy backslash blades + cyan slash blades, with a center gap -->
+  <g stroke-width="7.5" stroke-linecap="round">
+    <path d="M17 17 L29 29" stroke="#16223a"/>
+    <path d="M35 35 L47 47" stroke="#16223a"/>
+    <path d="M47 17 L35 29" stroke="url(#cyan)"/>
+    <path d="M17 47 L29 35" stroke="url(#cyan)"/>
+  </g>
+</svg>
