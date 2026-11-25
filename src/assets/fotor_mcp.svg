@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 128.00 128.00" width="128" height="128">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#f3ef38" vector-effect="non-scaling-stroke" d="
+  M 27.06 0.00
+  L 63.42 63.33"
+/>
+<path stroke="#b9e310" vector-effect="non-scaling-stroke" d="
+  M 63.42 63.33
+  L 0.00 27.07"
+/>
+<path stroke="#fbe740" vector-effect="non-scaling-stroke" d="
+  M 64.04 0.00
+  Q 64.02 31.25 64.06 62.50
+  Q 64.06 62.85 63.42 63.33"
+/>
+<path stroke="#fdd231" vector-effect="non-scaling-stroke" d="
+  M 100.91 0.00
+  L 66.20 60.56
+  A 3.15 3.14 65.9 0 0 65.87 61.43
+  L 65.52 63.13"
+/>
+<path stroke="#fcac25" vector-effect="non-scaling-stroke" d="
+  M 65.52 63.13
+  L 64.24 64.04"
+/>
+<path stroke="#bc6e86" vector-effect="non-scaling-stroke" d="
+  M 64.24 64.04
+  Q 64.14 64.07 64.04 64.10"
+/>
+<path stroke="#7ec947" vector-effect="non-scaling-stroke" d="
+  M 64.04 64.10
+  Q 63.92 64.07 63.79 64.04"
+/>
+<path stroke="#c1db18" vector-effect="non-scaling-stroke" d="
+  M 63.79 64.04
+  Q 63.65 63.53 63.42 63.33"
+/>
+<path stroke="#ffa337" vector-effect="non-scaling-stroke" d="
+  M 128.00 27.07
+  L 65.52 63.13"
+/>
+<path stroke="#f04e59" vector-effect="non-scaling-stroke" d="
+  M 128.00 63.99
+  L 64.54 64.28"
+/>
+<path stroke="#be3e8c" vector-effect="non-scaling-stroke" d="
+  M 64.54 64.28
+  L 64.24 64.04"
+/>
+<path stroke="#45c940" vector-effect="non-scaling-stroke" d="
+  M 63.79 64.04
+  L 0.00 64.03"
+/>
+<path stroke="#405cae" vector-effect="non-scaling-stroke" d="
+  M 64.04 64.10
+  Q 64.06 64.14 64.09 64.19"
+/>
+<path stroke="#1986b6" vector-effect="non-scaling-stroke" d="
+  M 64.09 64.19
+  Q 62.80 64.45 62.18 65.46"
+/>
+<path stroke="#0b9eb7" vector-effect="non-scaling-stroke" d="
+  M 62.18 65.46
+  L 0.00 101.00"
+/>
+<path stroke="#b010ba" vector-effect="non-scaling-stroke" d="
+  M 64.54 64.28
+  L 65.75 64.96"
+/>
+<path stroke="#9200d7" vector-effect="non-scaling-stroke" d="
+  M 65.75 64.96
+  L 65.88 66.60
+  A 2.33 2.23 -63.0 0 0 66.16 67.53
+  L 100.86 128.00"
+/>
+<path stroke="#582bf5" vector-effect="non-scaling-stroke" d="
+  M 64.06 128.00
+  L 64.09 64.19"
+/>
+<path stroke="#c310a4" vector-effect="non-scaling-stroke" d="
+  M 128.00 100.99
+  L 65.75 64.96"
+/>
+<path stroke="#236dfe" vector-effect="non-scaling-stroke" d="
+  M 27.18 128.00
+  Q 44.92 97.35 62.32 66.58
+  Q 62.78 65.77 62.18 65.46"
+/>
+</g>
+<path fill="#e9eb0f" d="
+  M 27.06 0.00
+  L 63.42 63.33
+  L 0.00 27.07
+  L 0.00 23.91
+  Q 3.46 3.67 23.67 0.00
+  L 27.06 0.00
+  Z"
+/>
+<path fill="#fcf260" d="
+  M 64.04 0.00
+  Q 64.02 31.25 64.06 62.50
+  Q 64.06 62.85 63.42 63.33
+  L 27.06 0.00
+  L 64.04 0.00
+  Z"
+/>
+<path fill="#fadb1f" d="
+  M 100.91 0.00
+  L 66.20 60.56
+  A 3.15 3.14 65.9 0 0 65.87 61.43
+  L 65.52 63.13
+  L 64.24 64.04
+  Q 64.14 64.07 64.04 64.10
+  Q 63.92 64.07 63.79 64.04
+  Q 63.65 63.53 63.42 63.33
+  Q 64.06 62.85 64.06 62.50
+  Q 64.02 31.25 64.04 0.00
+  L 100.91 0.00
+  Z"
+/>
+<path fill="#ffc943" d="
+  M 104.05 0.00
+  Q 124.47 3.47 128.00 23.91
+  L 128.00 27.07
+  L 65.52 63.13
+  L 65.87 61.43
+  A 3.15 3.14 65.9 0 1 66.20 60.56
+  L 100.91 0.00
+  L 104.05 0.00
+  Z"
+/>
+<path fill="#fe7c2b" d="
+  M 128.00 27.07
+  L 128.00 63.99
+  L 64.54 64.28
+  L 64.24 64.04
+  L 65.52 63.13
+  L 128.00 27.07
+  Z"
+/>
+<path fill="#88da11" d="
+  M 63.42 63.33
+  Q 63.65 63.53 63.79 64.04
+  L 0.00 64.03
+  L 0.00 27.07
+  L 63.42 63.33
+  Z"
+/>
+<path fill="#01b76f" d="
+  M 63.79 64.04
+  Q 63.92 64.07 64.04 64.10
+  Q 64.06 64.14 64.09 64.19
+  Q 62.80 64.45 62.18 65.46
+  L 0.00 101.00
+  L 0.00 64.03
+  L 63.79 64.04
+  Z"
+/>
+<path fill="#7e00ec" d="
+  M 64.24 64.04
+  L 64.54 64.28
+  L 65.75 64.96
+  L 65.88 66.60
+  A 2.33 2.23 -63.0 0 0 66.16 67.53
+  L 100.86 128.00
+  L 64.06 128.00
+  L 64.09 64.19
+  Q 64.06 64.14 64.04 64.10
+  Q 64.14 64.07 64.24 64.04
+  Z"
+/>
+<path fill="#e12087" d="
+  M 128.00 63.99
+  L 128.00 100.99
+  L 65.75 64.96
+  L 64.54 64.28
+  L 128.00 63.99
+  Z"
+/>
+<path fill="#3155fd" d="
+  M 64.09 64.19
+  L 64.06 128.00
+  L 27.18 128.00
+  Q 44.92 97.35 62.32 66.58
+  Q 62.78 65.77 62.18 65.46
+  Q 62.80 64.45 64.09 64.19
+  Z"
+/>
+<path fill="#a500c1" d="
+  M 128.00 100.99
+  L 128.00 104.14
+  Q 124.46 124.45 104.17 128.00
+  L 100.86 128.00
+  L 66.16 67.53
+  A 2.33 2.23 -63.0 0 1 65.88 66.60
+  L 65.75 64.96
+  L 128.00 100.99
+  Z"
+/>
+<path fill="#1485ff" d="
+  M 62.18 65.46
+  Q 62.78 65.77 62.32 66.58
+  Q 44.92 97.35 27.18 128.00
+  L 23.75 128.00
+  Q 3.66 124.52 0.00 104.27
+  L 0.00 101.00
+  L 62.18 65.46
+  Z"
+/>
+</svg>
