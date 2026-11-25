@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_708_1433" x1="5.858" x2="33.71" y1="33.14" y2="5.286" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0959C7" offset="0"/>
+      <stop stop-color="#2A52A9" offset=".5104"/>
+      <stop stop-color="#6239A9" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_708_1433" x1="7.647" x2="31.97" y1="34.63" y2="8.582" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07306C" offset="0"/>
+      <stop stop-color="#172B63" offset=".5365"/>
+      <stop stop-color="#2D286E" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_708_1433" x1="10.43" x2="29.25" y1="35.51" y2="14.53" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061A3C" offset="0"/>
+      <stop stop-color="#101D44" offset=".5469"/>
+      <stop stop-color="#121A41" offset="1"/>
+    </linearGradient>
+    <radialGradient id="paint3_radial_708_1433" cx="0" cy="0" r="1" gradientTransform="matrix(1.488e-14 242.9 -242.9 1.488e-14 249.5 252.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08112B" stop-opacity="0" offset=".2865"/>
+      <stop stop-color="#08112B" stop-opacity=".13" offset=".6667"/>
+      <stop stop-color="#08112B" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <radialGradient id="paint4_radial_708_1433" cx="0" cy="0" r="1" gradientTransform="matrix(8.374e-15 136.8 -147.3 9.018e-15 248.9 360)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08112A" offset="0"/>
+      <stop stop-color="#050F26" offset="1"/>
+    </radialGradient>
+    <radialGradient id="paint5_radial_708_1433" cx="0" cy="0" r="1" gradientTransform="matrix(6.184e-15 101 -131.6 8.06e-15 248.5 253.7)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9924E0" offset="0"/>
+      <stop stop-color="#872CD5" offset=".4167"/>
+      <stop stop-color="#6B28A2" stop-opacity=".48" offset=".6719"/>
+      <stop stop-color="#542E90" stop-opacity="0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <circle cx="251.2" cy="251.2" r="251.2" fill="url(#paint0_linear_708_1433)"/>
+  <circle cx="250.9" cy="281.4" r="226.2" fill="url(#paint1_linear_708_1433)"/>
+  <circle cx="247.6" cy="321.7" r="181.5" fill="url(#paint2_linear_708_1433)"/>
+  <circle cx="249.5" cy="252.4" r="242.9" fill="url(#paint3_radial_708_1433)" fill-opacity=".65"/>
+  <path d="m396.3 359.9c0 80.64-61.44 136.7-145.8 136.7-86.27 0-148.9-60.29-148.9-136.7 0-75.39 61.06-136.1 147.2-136.1 86.02 0 147.5 61.7 147.5 136.1z" fill="url(#paint4_radial_708_1433)"/>
+  <ellipse cx="248.5" cy="253.7" rx="131.6" ry="101" fill="url(#paint5_radial_708_1433)"/>
+  <path d="m166 241.3 56.7 56.32 108.5-108.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="54"/>
+</svg>
