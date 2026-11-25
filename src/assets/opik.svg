@@ -1,43 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_701_7194" x1="36.68" x2="36.68" y1="4.067" y2="43.43" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#EC1944" offset="0"/>
-      <stop stop-color="#ED5336" offset=".3594"/>
-      <stop stop-color="#F07D27" offset=".6875"/>
-      <stop stop-color="#F2A226" offset="1"/>
+    <linearGradient id="paint0_linear_2022_4622" x1="36.54" x2="36.54" y1="4.041" y2="43.44" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ED1A47" offset="0" />
+      <stop stop-color="#ED5436" offset=".3415" />
+      <stop stop-color="#EF792A" offset=".6306" />
+      <stop stop-color="#F2A324" offset="1" />
     </linearGradient>
-    <linearGradient id="paint1_linear_701_7194" x1="66" x2="33.63" y1="5.504" y2="41.37" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#B70049" offset="0"/>
-      <stop stop-color="#C8273E" offset=".4531"/>
-      <stop stop-color="#E6732C" offset="1"/>
+    <linearGradient id="paint1_linear_2022_4622" x1="66" x2="33.73" y1="5.419" y2="41.25" gradientTransform="scale(6.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B80546" offset="0" />
+      <stop stop-color="#C7213F" offset=".3485" />
+      <stop stop-color="#D64A35" offset=".6742" />
+      <stop stop-color="#E86D2E" offset="1" />
     </linearGradient>
   </defs>
-  <path d="m316.2 26.05c-120.8 0-223.4 99.52-226.2 214.2 6.976-9.472 17.66-15.62 30.4-15.62 16.96 0 32 11.52 36.93 27.2 3.648-3.648 8.448-5.76 14.53-5.76 11.46 0 20.54 9.088 20.54 20.54 0 2.432 0 4.48-0.512 6.528 2.56 0.768 4.608 2.304 6.144 4.352 2.432-6.976 8.896-12.03 16.51-12.03 1.408 0 2.88 0.256 4.288 0.64-0.576-4.352-0.96-8.768-0.96-13.25 0-56.13 45.7-98.88 96.83-98.88 9.024 0 18.5 1.28 27.14 3.392 5.568 1.28 11.26 1.984 16.77 1.984 36.03 0 63.68-28.99 63.68-64.38 0-29.57-19.2-55.49-46.08-61.89-18.75-4.672-39.17-7.04-60.03-7.04z" fill="url(#paint0_linear_701_7194)"/>
-  <path d="m373 35.26c-89.6 24.32-157.8 104.3-157.8 198.7 0 8 0.448 15.68 1.344 23.42 1.856-61.5 49.15-103.4 97.98-103.4 9.024 0 18.5 1.28 27.14 3.392 5.568 1.28 11.26 1.984 16.77 1.984 36.03 0 63.81-28.99 63.81-64.9 0-31.68-22.59-56.9-49.22-59.26z" fill="url(#paint1_linear_701_7194)"/>
-  <circle cx="119.7" cy="268.9" r="34.39" fill="#F2A920"/>
-  <circle cx="144.5" cy="328.6" r="18.25" fill="#F2A920"/>
-  <circle cx="194.3" cy="321.2" r="25.97" fill="#F2A920"/>
-  <circle cx="233.9" cy="347.5" r="15.07" fill="#F2A920"/>
-  <circle cx="139.5" cy="381.8" r="23.53" fill="#F2A920"/>
-  <circle cx="103.7" cy="334.9" r="12.33" fill="#F2A920"/>
-  <circle cx="172.9" cy="266.8" r="12.59" fill="#F2A920"/>
-  <circle cx="215" cy="281.7" r="8.204" fill="#F2A920"/>
-  <circle cx="187.1" cy="283.5" r="4.753" fill="#F2A920"/>
-  <circle cx="199.3" cy="366.6" r="7.56" fill="#F2B120"/>
-  <circle cx="181.6" cy="392.4" r="13.34" fill="#FDC210"/>
-  <circle cx="228.9" cy="394.6" r="15.95" fill="#FDC210"/>
-  <circle cx="198.6" cy="439.3" r="13.07" fill="#FDC210"/>
-  <circle cx="241.9" cy="431.9" r="10.98" fill="#FDCD09"/>
-  <circle cx="271.8" cy="412.8" r="14.27" fill="#FDCD09"/>
-  <circle cx="277" cy="459.7" r="17.13" fill="#FDCD09"/>
-  <circle cx="302" cy="431.8" r="9.491" fill="#FDCD09"/>
-  <circle cx="292.4" cy="389.9" r="9.491" fill="#FDCD09"/>
-  <circle cx="267.7" cy="364.4" r="9.444" fill="#FBC511"/>
-  <circle cx="318.7" cy="405.6" r="7.91" fill="#FDC70F"/>
-  <circle cx="326.4" cy="452" r="8.141" fill="#FDCD13"/>
-  <circle cx="348.8" cy="433.3" r="7.322" fill="#FDC913"/>
-  <circle cx="376.9" cy="449.5" r="5.703" fill="#FCD220"/>
-  <circle cx="388.7" cy="426.1" r="5.453" fill="#FCD220"/>
-  <circle cx="341.8" cy="395.3" r="3.517" fill="#FCD254"/>
+  <path d="m315.5 25.86c-117 0-221.5 97.22-225.5 214.6 6.848-9.472 17.66-15.81 30.59-15.81 16.83 0 31.87 11.58 36.54 26.94 3.712-3.584 8.448-5.632 14.46-5.632 11.58 0 20.99 8.832 20.99 20.67 0 2.56-0.384 5.056-0.96 7.104 2.368 0.832 4.48 1.984 6.144 3.392 2.432-6.976 8.896-11.78 16.7-11.78 1.6 0 3.008 0.256 4.352 0.576-0.512-4.288-0.832-8.576-0.832-13.06 0-55.87 46.4-98.56 96.38-98.56 9.472 0 18.62 1.28 27.26 3.328 5.504 1.152 11.14 1.728 16.9 1.728 36.03 0 63.81-28.67 63.81-64.64 0-28.29-18.3-53.06-44.93-60.74-18.43-5.12-39.87-8.128-61.89-8.128z" fill="url(#paint0_linear_2022_4622)" />
+  <path d="m370 35.01c-84.42 23.68-154.2 100.7-154.2 193.6 0 11.46 0.512 23.17 1.6 34.88-0.192-3.584-0.192-6.976-0.192-10.56 0-56.96 47.1-98.69 97.09-98.69 9.28 0 18.37 1.28 26.94 3.264 5.568 1.216 11.52 1.92 17.28 1.92 35.33 0 63.87-40.58 63.87-64.64 0-27.14-26.5-62.91-52.42-59.78z" fill="url(#paint1_linear_2022_4622)" />
+  <circle cx="119.6" cy="269" r="34.21" fill="#F2AB21" />
+  <circle cx="144.5" cy="328.7" r="18.44" fill="#F2AB21" />
+  <circle cx="194.4" cy="321.1" r="26.01" fill="#F2AB21" />
+  <circle cx="234" cy="347.4" r="15.24" fill="#F2AB21" />
+  <circle cx="103.7" cy="334.9" r="12.24" fill="#F2AB21" />
+  <circle cx="139.5" cy="381.8" r="23.53" fill="#F2AB21" />
+  <circle cx="181.5" cy="392.2" r="13.33" fill="#FBC316" />
+  <circle cx="228.7" cy="394.5" r="15.89" fill="#FBC712" />
+  <circle cx="271.8" cy="412.9" r="14.16" fill="#FECE0A" />
+  <circle cx="277" cy="459.7" r="17.16" fill="#FECF0C" />
+  <circle cx="198.5" cy="439.3" r="13.08" fill="#FCC517" />
+  <circle cx="242" cy="431.9" r="10.97" fill="#FDCD10" />
+  <circle cx="301.9" cy="431.9" r="9.55" fill="#FDCD10" />
+  <circle cx="292.4" cy="390" r="9.55" fill="#FCCF13" />
+  <circle cx="267.8" cy="364.6" r="9.55" fill="#FAC819" />
+  <circle cx="199.3" cy="366.7" r="7.556" fill="#F5B726" />
+  <circle cx="172.9" cy="266.9" r="12.64" fill="#F2AB21" />
+  <circle cx="214.9" cy="281.7" r="8.144" fill="#F2AB21" />
+  <circle cx="187.2" cy="283.7" r="4.956" fill="#F2AB21" />
+  <circle cx="318.7" cy="405.6" r="7.9" fill="#FCCD15" />
+  <circle cx="348.8" cy="433.4" r="7.363" fill="#FDCD15" />
+  <circle cx="388.8" cy="426.2" r="5.406" fill="#FCD020" />
+  <circle cx="376.9" cy="449.4" r="5.893" fill="#FCD424" />
+  <circle cx="326.4" cy="452.1" r="8.113" fill="#FCCF12" />
+  <circle cx="341.8" cy="395.4" r="3.606" fill="#FBD630" />
 </svg>
