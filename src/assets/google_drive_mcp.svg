@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_4802_34244" x1="9.811" x2="3.26" y1="37.34" y2="19.22" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83D136" offset="0"/>
+      <stop stop-color="#B4D625" offset=".235"/>
+      <stop stop-color="#F9D90B" offset=".555"/>
+      <stop stop-color="#FDD706" offset=".845"/>
+      <stop stop-color="#FDD104" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_4802_34244" x1="24.65" x2="36.24" y1="41.9" y2="31.22" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1BC972" offset="0"/>
+      <stop stop-color="#15B8A9" offset=".41"/>
+      <stop stop-color="#19A3E2" offset=".775"/>
+      <stop stop-color="#2988FD" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_4802_34244" x1="11.63" x2="30.94" y1="16.24" y2="3.796" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEA20F" offset="0"/>
+      <stop stop-color="#FE512D" offset=".35"/>
+      <stop stop-color="#FE4544" offset=".68"/>
+      <stop stop-color="#FE4F55" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m245.9 192.9v104.3l141-0.2133c-18.45 53.55-74.88 91.84-132.7 91.84-78.51 0-141.8-63.25-141.8-134.9 0-80.96 65.39-147.6 144-147.6 38.08 0 75.84 15.89 100.1 41.92l76.48-74.13c-45.55-46.83-108.8-73.92-176.1-73.92-138.8 0-256.5 109.3-256.5 256.9 0 126.6 105.6 245.3 254.4 245.3 160.7 0 257.3-130.7 257.3-246.1 0-23.68-4.907-47.04-12.69-64.43l-253.4 1.067z" fill="url(#paint0_linear_4802_34244)"/>
+  <path d="m245.9 192.9v104.3l141-0.2133c-18.45 53.55-74.88 91.84-132.7 91.84-16.53 0.1067-34.24-2.773-48.85-8l-104 71.25c43.31 33.28 98.77 50.24 153.4 50.24 160.7 0 257.3-130.7 257.3-246.1 0-23.68-4.907-47.04-12.69-64.43l-253.4 1.067z" fill="url(#paint1_linear_4802_34244)"/>
+  <path d="m246.2 0.7467v106.8c3.307-0.96 7.04-1.28 10.24-1.28 38.08 0 75.84 15.89 100.1 41.92l76.37-74.13c-45.76-48-109.2-75.2-176-73.92-3.627 0-7.147 0.4267-10.67 0.64z" fill="#FE4F55"/>
+  <path d="m246.2 0.7467c-123.3 6.507-217.7 92.16-238.6 194.3l107.2 0.32c19.63-45.87 70.61-85.12 131.4-87.89v-106.8z" fill="url(#paint2_linear_4802_34244)"/>
+</svg>
