@@ -1,21 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
 <!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
   <defs>
-    <linearGradient id="paint0_linear_1297_10476" x1="7.758" x2="38.36" y1="39.69" y2="6.337" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FCE103" offset="0"/>
-      <stop stop-color="#FBD309" offset=".17"/>
-      <stop stop-color="#FD711C" offset=".44"/>
-      <stop stop-color="#FE4531" offset=".66"/>
-      <stop stop-color="#FE4647" offset=".86"/>
-      <stop stop-color="#FE4954" offset="1"/>
+    <linearGradient id="paint0_linear_3202_7132" x1="6.335" x2=".984" y1="30.19" y2="17.04" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97D830" offset="0"/>
+      <stop stop-color="#FDDA08" offset=".6447"/>
     </linearGradient>
-    <linearGradient id="paint1_linear_1297_10476" x1="35.47" x2="13.63" y1="17.6" y2="44.77" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#358BFC" offset=".17"/>
-      <stop stop-color="#2A94E6" offset=".38"/>
-      <stop stop-color="#25C286" offset=".67"/>
-      <stop stop-color="#2CC870" offset=".86"/>
+    <linearGradient id="paint1_linear_3202_7132" x1="12.75" x2="6.442" y1="36.66" y2="26.22" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17C673" offset="0"/>
+      <stop stop-color="#75D441" offset=".5747"/>
+      <stop stop-color="#F9D708" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_3202_7132" x1="24.65" x2="33.67" y1="38.23" y2="27.74" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17C47D" offset="0"/>
+      <stop stop-color="#3491FC" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_3202_7132" x1="11.36" x2="28.33" y1="14.02" y2="2.184" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEA014" offset="0"/>
+      <stop stop-color="#FD442F" offset=".3589"/>
+      <stop stop-color="#FC495A" offset="1"/>
     </linearGradient>
   </defs>
-  <path d="m499.6 187.7h-256v101.4h146c-11.09 56.21-67.52 97.81-133.7 97.81-79.89 0-141.7-61.23-141.7-132.8 0-79.36 60.48-150 139.8-150 40.21-1.067 77.01 14.61 100.2 40.32l72.21-71.47c-39.68-44.48-101.7-72.32-168.3-72.32-139 0-256.9 109.4-256.9 252.5 0 130.5 104.2 244.8 254.6 244.8 154.2 0 254.9-120.6 254.9-243.2 0-24.21-4.053-47.89-11.31-67.09z" fill="url(#paint0_linear_1297_10476)"/>
-  <path d="m499.6 187.7h-256v101.4h146c-11.09 56.21-67.52 97.81-133.7 97.81-31.04 0-59.09-8.853-81.39-23.47l-47.79 86.83c38.93 31.57 82.67 46.72 129.5 47.25 154.2 1.6 254.6-120.2 254.6-242.8 0-24.21-4.16-47.89-11.31-67.09z" fill="url(#paint1_linear_1297_10476)"/>
+  <path d="m112.5 248.4c0-9.856-1.024-17.54 0.256-26.24l-59.65-90.11-39.55 45.82c-8.32 24.19-12.29 48.64-12.29 75.39 0 25.6 4.48 51.46 12.03 73.47l56.58 14.08 42.5-55.55c-0.512-2.688 0.128-27.52 0.128-36.86z" fill="url(#paint0_linear_3202_7132)"/>
+  <path d="m255.7 386.9c-68.74 0-127.2-47.74-141.2-108.5l-100.9 48.9c32.13 102.4 127.6 172.4 242.3 172.4l69.38-20.86 59.65-91.65-45.57-18.18c-23.94 11.65-53.38 17.92-83.71 17.92z" fill="url(#paint1_linear_3202_7132)"/>
+  <path d="m500.4 189.7-249 0.512v104.1h139.1c-9.344 34.43-41.34 63.74-51.2 68.74l0.128 6.016 90.37 73.73c52.1-46.85 81.28-116.7 81.28-188 0-24.19-3.968-48.38-10.75-65.02z" fill="url(#paint2_linear_3202_7132)"/>
+  <path d="m437.6 77.31c-46.34-49.28-112.9-77.31-181.8-77.31-113.2 0-213.5 77.95-242.2 176.3l99.2 25.86c19.07-56.96 77.57-98.69 142.8-98.69 40.06 0 78.34 16.64 101.5 41.73l80.38-67.84z" fill="url(#paint3_linear_3202_7132)"/>
+  <path d="m256 499.7c77.06 0 145.4-32.26 190-77.44l-55.55-56.96c-30.21 12.29-83.84 37.5-134.3 60.8v68.1l-0.128 5.504z" fill="url(#paint2_linear_3202_7132)"/>
+  <path d="m251.5 190.2v104.1h8.704v-104.1h-8.704z" fill="#3790FA"/>
+  <path d="m500.5 189.6h-59.39v42.24h69.76c-1.28-14.72-4.48-32.51-10.37-42.24z" fill="#3790FA"/>
 </svg>
