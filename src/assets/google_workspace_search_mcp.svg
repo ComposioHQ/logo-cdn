@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_2574_39724" x1="8.819" x2="38.23" y1="39.77" y2="8.034" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FADD0B" offset="0"/>
+      <stop stop-color="#F9D90E" offset=".2352"/>
+      <stop stop-color="#FE8F14" offset=".4796"/>
+      <stop stop-color="#FE4F2D" offset=".6786"/>
+      <stop stop-color="#FE484D" offset=".8742"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2574_39724" x1="9.027" x2="31.23" y1="28.93" y2="50.98" gradientTransform="scale(10.67)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9DC0C" stop-opacity="0" offset="0"/>
+      <stop stop-color="#31CE5D" stop-opacity=".8235" offset=".3525"/>
+      <stop stop-color="#1AC87E" offset=".6194"/>
+      <stop stop-color="#1D8EEF" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m505.4 206.2c-1.067-5.227-5.333-8.64-10.35-8.64h-240c-5.227 0-8.96 4.16-8.96 9.493v87.25c0 5.333 4.373 9.28 9.387 9.28h116.2c5.013 0 7.467 3.52 6.187 8.107-7.04 24.43-51.84 74.56-122.3 74.56-78.51 0-139.4-62.83-139.4-134.4 0-77.65 63.89-140.7 139-140.7 38.29 0 74.56 15.68 98.88 40.43l77.65-73.49c-41.81-47.68-106.9-75.09-174.9-75.09-135.8 0-254.8 106.7-254.8 249.3 0 138.9 111.4 246.4 254.4 246.4 154.3 0 254-109.3 254-243.5 0-17.71-1.6-35.2-4.8-48.96z" fill="url(#paint0_linear_2574_39724)"/>
+  <path d="m505.4 206.2c-1.067-5.227-5.333-8.64-10.35-8.64h-240c-5.227 0-8.96 4.16-8.96 9.493v87.25c0 5.333 4.373 9.28 9.387 9.28h116.2c5.013 0 7.467 3.52 6.187 8.107-7.04 24.43-51.84 74.56-122.3 74.56-78.51 0-139.4-62.83-139.4-134.4l-114.2 0.4267c0 138.9 111.4 246.4 254.4 246.4 154.3 0 254-109.3 254-243.5 0-17.71-1.6-35.2-4.8-48.96z" fill="url(#paint1_linear_2574_39724)" fill-opacity=".82"/>
+  <path d="m495 197.5h-240c-5.227 0-8.96 4.16-8.96 9.493v87.25c0 5.333 4.373 9.28 9.387 9.28h116.2c5.013 0 7.467 3.52 6.187 8.107-1.707 7.253-6.933 15.36-12.05 23.36h114.1c18.35-20.27 28.27-51.52 29.65-82.35 0.7467-17.71-0.7467-33.07-3.947-45.97-1.067-5.653-5.44-9.173-10.56-9.173z" fill="#318BFC" fill-opacity=".98"/>
+</svg>
