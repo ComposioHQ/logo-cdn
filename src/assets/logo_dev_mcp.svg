@@ -1,0 +1,27 @@
+<svg width="128" height="128" viewBox="0 0 377 377" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  /* Base fill = balanced mid-gray (also mirrored as a fill="" presentation attribute
+     on each path, so CSS-less renderers and CSP-blocked document loads still paint a
+     visible glyph instead of the root fill="none"). Safari renders ONLY this base (it
+     ignores the media queries below), so it must read on both light and dark toolbars.
+     Load-bearing — don't "fix" it to pure black or white.
+     public/favicon.ico is a raster of this base fill; regenerate it in lockstep when
+     this color changes:
+       magick -background none favicon.svg -define icon:auto-resize=48,32,16 favicon.ico */
+  path {
+    fill: #8A8A8A;
+  }
+  @media (prefers-color-scheme: light) {
+    path {
+      fill: #18181B;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: #FAFAFA;
+    }
+  }
+</style>
+<path fill="#8A8A8A" d="M355.884 233.53L200.743 345.634L195.121 349.432C186.68 355.135 175.296 349.087 175.296 338.9V21.7329C175.296 11.3299 163.481 5.33288 155.084 11.4729L5.208 121.062C1.935 123.455 0 127.267 0 131.322V354.473C0 361.493 5.69 367.183 12.71 367.183H363.328C370.348 367.183 376.038 361.493 376.038 354.473V243.832C376.038 233.462 364.289 227.457 355.884 233.53Z"/>
+<path fill="#8A8A8A" d="M298.29 172.44C331.721 172.44 358.822 145.339 358.822 111.908C358.822 78.4771 331.721 51.376 298.29 51.376C264.859 51.376 237.758 78.4771 237.758 111.908C237.758 145.339 264.859 172.44 298.29 172.44Z"/>
+</svg>
