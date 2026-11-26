@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_2204_4066" x1="6.918" x2="17.42" y1="15.34" y2="3.052" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDDC05" offset="0"/>
+      <stop stop-color="#FE761F" offset=".4896"/>
+      <stop stop-color="#FE4234" offset=".8542"/>
+      <stop stop-color="#FE423C" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2204_4066" x1="13.88" x2="5.222" y1="38.46" y2="24.55" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#28CE6D" offset="0"/>
+      <stop stop-color="#78D63F" offset=".4583"/>
+      <stop stop-color="#FDDC05" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_2204_4066" x1="33.89" x2="23.52" y1="25.91" y2="37.21" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B8CFD" offset="0"/>
+      <stop stop-color="#1DA9D3" offset=".4427"/>
+      <stop stop-color="#28CE6D" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m433.8 73.86c-45.31-46.08-110.5-73.86-178.4-73.86-136.6 0-255.2 114.4-255.2 255.6 0 17.66 1.664 31.87 4.864 46.98l105.6-44.29c-2.304-88.7 65.66-154.4 145.3-154.4 39.55 0 76.67 15.23 99.71 39.3l78.21-69.38z" fill="url(#paint0_linear_2204_4066)"/>
+  <path d="m4.992 302c23.81 119.2 125.2 199.9 250 199.9l1.152-108.8c-75.14-0.384-137.9-53.89-145.2-126.3-1.152-8.576-0.384-17.02-0.384-20.74l-105.6 24.7c-1.408 11.01 0 25.6 0 31.23z" fill="url(#paint1_linear_2204_4066)"/>
+  <path d="m255 501.9c163.7 0 256.9-129.9 257-247.6 0-22.4-3.2-45.44-9.216-61.82h-258.4v101.1h149.8c-8.192 43.39-60.29 98.69-138 99.46l-1.152 108.8z" fill="url(#paint2_linear_2204_4066)"/>
+  <path d="m244.4 192.5h259.8" stroke="#2B8BFC" stroke-width=".3742"/>
+  <path d="m250.1 293.5h144.1" stroke="#2B8BFC" stroke-width=".3742"/>
+</svg>
