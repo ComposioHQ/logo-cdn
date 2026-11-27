@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 512 512">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="paint0_linear_5128_8233" x1="5.431" x2="16.94" y1="23.85" y2="16.87" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#37E9FD" offset="0"/>
+      <stop stop-color="#28C2F7" offset=".3255"/>
+      <stop stop-color="#188CA6" offset=".6325"/>
+      <stop stop-color="#188CA6" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_5128_8233" x1="35.37" x2="26.27" y1="21.01" y2="16.84" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#336EFC" offset="0"/>
+      <stop stop-color="#1D47BB" offset=".3594"/>
+      <stop stop-color="#1D47BB" offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_5128_8233" x1="32.24" x2="22.19" y1="10.37" y2="18.12" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CF87A" offset="0"/>
+      <stop stop-color="#61E48A" offset=".2464"/>
+      <stop stop-color="#289B82" offset=".6115"/>
+      <stop stop-color="#1F8773" offset=".8485"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_5128_8233" x1="18.84" x2="4.213" y1="11.7" y2="24.25" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#336EFC" offset="0"/>
+      <stop stop-color="#2C64F8" offset=".2578"/>
+      <stop stop-color="#1940AE" offset=".5133"/>
+      <stop stop-color="#1940AE" offset=".7465"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear_5128_8233" x1="32.12" x2="21.35" y1="23.95" y2="29.35" gradientTransform="scale(12.8)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#346FFC" stop-opacity="0" offset="0"/>
+      <stop stop-color="#2A58E6" offset=".4115"/>
+      <stop stop-color="#326CFB" offset=".7465"/>
+    </linearGradient>
+  </defs>
+  <path d="m210.8 249.2c-10.24 47.62-23.3 69.76-35.97 69.76-14.46 0-28.42-30.46-38.02-59.9-8.448-27.26-13.7-58.5-16.51-76.29-3.072-24.45-23.42-41.73-46.85-41.73-26.37 0-47.23 21.38-47.23 48.64 0 65.66 47.23 224.8 149.8 224.8 33.79 0 63.49-18.18 81.28-42.88l-5.76-53.25-40.7-69.12z" fill="url(#paint0_linear_5128_8233)"/>
+  <path d="m438.1 141.6c-5.12 0-9.856 0.768-14.21 2.048l-42.75 95.62c-10.62 45.57-30.08 79.87-44.42 79.87-3.712 0-7.04-1.408-10.11-4.096 0 26.62 28.54 68.22 61.31 76.03 64.51-36.74 98.18-141.7 98.18-200.4 0-27.9-22.91-49.02-48-49.02z" fill="url(#paint1_linear_5128_8233)"/>
+  <path d="m333.3 90.24c-31.49 0-60.54 15.74-78.72 38.02l17.15 41.09 30.46 80.13c8.96-39.81 21.89-62.98 34.94-62.98 10.5 0 17.92 10.75 27.78 32 8.064 18.05 24.96 29.44 40.83 29.44 25.34 0 43.39-20.1 43.39-44.16 0-5.632-0.896-11.14-2.816-16.26-22.91-65.79-64.26-97.28-113-97.28z" fill="url(#paint2_linear_5128_8233)"/>
+  <path d="m345.3 187.4c-14.98-19.97-35.2-30.85-56.32-30.85-11.01 0-22.78 3.712-30.85 9.728 15.62 23.17 29.95 58.24 43.65 84.1 9.472-42.37 22.66-64.51 35.58-64 3.072 0 5.76 0.384 7.936 1.024z" fill="#1A7D68" opacity=".5"/>
+  <path d="m176.5 90.24c-38.27 0-72.83 21.89-90.88 52.74 17.66 4.736 32 20.1 34.69 40.19 2.816 22.78 9.472 57.09 16.51 75.9 10.5-45.57 30.34-73.22 47.23-72.58 0.896 0 2.048 0.256 2.816 0.64 10.5 15.36 17.79 36.99 23.42 60.16 12.29 44.67 22.53 91.39 46.85 123.5 20.35 27.9 51.58 43.65 79.87 43.65 24.7 0 46.08-8.576 62.98-22.4l-24.19-72.19c-13.06-2.432-23.94-0.256-38.78-0.64-18.18-5.504-27.52-46.85-38.4-89.98-9.088-38.14-21.38-72.19-41.09-98.18-19.84-25.98-50.05-40.83-81.02-40.83z" fill="url(#paint3_linear_5128_8233)"/>
+  <path d="m326.5 314.2c8.064 21.38 27.52 21.25 48 38.91l21.76 41.22c16.51-11.52 31.36-27.78 41.73-44.16l-21.76-45.95c-20.99-17.79-48.9 3.584-71.42 13.57-7.04 3.328-12.29 0.768-18.3-3.584z" fill="url(#paint4_linear_5128_8233)"/>
+  <path d="m186.4 186.1c-11.52-19.2-30.08-29.95-48-29.95-12.42 0-26.5 5.76-32.77 12.93 4.992 5.12 9.856 9.088 12.03 18.18 3.84 25.09 11.65 55.42 18.82 71.81 10.75-47.62 31.36-74.37 49.92-72.96z" fill="#173DA3" opacity=".5"/>
+</svg>
